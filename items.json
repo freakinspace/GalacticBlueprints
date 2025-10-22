@@ -601,7 +601,7 @@
 				{"level":94, "name":"$shield.94", "warmup":1, "active":35.3, "cooldown":93.7, "power":888129.60, "energy":164, "parts":14, "price":263103},
 				{"level":96, "name":"$shield.96", "warmup":1, "active":35.3, "cooldown":93.7, "power":951567.40, "energy":166, "parts":15, "price":279720},
 				{"level":98, "name":"$shield.98", "warmup":1, "active":35.3, "cooldown":93.7, "power":1015005.20, "energy":168, "parts":16, "price":296337},
-				{"level":98, "name":"$shield.rare.tauceti", "warmup":1, "active":37.9, "cooldown":96.3, "power":1167256.00, "energy":160, "parts":22, "price":592673},
+				{"level":98, "name":"$shield.rare.tauceti", "warmup":1, "active":37.9, "cooldown":96.3, "power":1167256.00, "energy":160, "parts":22, "price":592673}
 			]
 		},
 		{
@@ -757,7 +757,21 @@
 		{
 			"item":"deflectiondroid",
 			"entries":[
-				
+				{"level":42, "name":"$deflectionrobotlauncher.rare.mizar", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":1356.40,  "energy":130, "parts":13, "price":8294},
+				{"level":59, "name":"$deflectionrobotlauncher.rare.sol", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":12457.08, "energy":180, "parts":14, "price":17984},
+				{"level":69, "name":"$deflectionrobotlauncher.rare.draconis", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":42286.37, "energy":210, "parts":15, "price":86452},
+				{"level":81, "name":"$deflectionrobotlauncher.sirius.quick.sirius", "warmup":0.5, "active":39, "cooldown":40.5, "reflect":1, "spawns":"", "speed":2.2, "hitpoints":220554.56, "energy":186, "parts":15, "price":108064},
+				{"level":81, "name":"$deflectionrobotlauncher.sirius.sirius", "warmup":0.5, "active":19.5, "cooldown":40.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":110277.28, "energy":186, "parts":15, "price":108065},
+				{"level":81, "name":"$deflectionrobotlauncher.sirius.strong.sirius", "warmup":0.5, "active":9.75, "cooldown":40.5, "reflect":4, "spawns":"", "speed":2.2, "hitpoints":55138.64, "energy":186, "parts":15, "price":108066},
+				{"level":84, "name":"$deflectionrobot.84", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":163125.84, "energy":189, "parts":12, "price":175606},
+				{"level":86, "name":"$deflectionrobot.86", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":181250.95, "energy":194, "parts":12, "price":191815},
+				{"level":88, "name":"$deflectionrobot.88", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":199376.05, "energy":198, "parts":12, "price":208025},
+				{"level":90, "name":"$deflectionrobot.90", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":217501.12, "energy":203, "parts":12, "price":224235},
+				{"level":92, "name":"$deflectionrobot.92", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":235626.20, "energy":207, "parts":12, "price":240445},
+				{"level":94, "name":"$deflectionrobot.94", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":253751.31, "energy":212, "parts":12, "price":256654},
+				{"level":96, "name":"$deflectionrobot.96", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":271876.40, "energy":216, "parts":15, "price":272864},
+				{"level":98, "name":"$deflectionrobot.98", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"", "speed":2, "hitpoints":290001.47, "energy":221, "parts":16, "price":289074},
+				{"level":98, "name":"$deflectionrobotlauncher.rare.tauceti", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":333501.70, "energy":240, "parts":22, "price":578147}
 			]
 		},
 		{
