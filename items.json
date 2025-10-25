@@ -857,7 +857,21 @@
 		{
 			"item":"quantumleap",
 			"entries":[
-				
+				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":65, "parts":11, "price":8111},
+				{"level":59, "name":"$targetteleportation.rare.sol", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":91, "parts":12, "price":17586},
+				{"level":69, "name":"$targetteleportation.rare.draconis", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":106, "parts":14, "price":84540},
+				{"level":81, "name":"$targetteleportation.sirius.quick.sirius", "warmup":0.05, "active":1, "cooldown":8.2, "range":5.053, "offset":125, "energy":96, "parts":15, "price":105675},
+				{"level":81, "name":"$targetteleportation.sirius.sirius", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.72, "offset":125, "energy":128, "parts":15, "price":105676},
+				{"level":81, "name":"$targetteleportation.sirius.strong.sirius", "warmup":0.05, "active":1, "cooldown":14.5, "range":8.938, "offset":125, "energy":170, "parts":15, "price":105677},
+				{"level":84, "name":"$targetteleportation.84", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":126, "parts":9, "price":171723},
+				{"level":86, "name":"$targetteleportation.86", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":129, "parts":17, "price":187574},
+				{"level":88, "name":"$targetteleportation.88", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":132, "parts":13, "price":203425},
+				{"level":90, "name":"$targetteleportation.90", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":135, "parts":13, "price":219277},
+				{"level":92, "name":"$targetteleportation.92", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":138, "parts":14, "price":235128},
+				{"level":94, "name":"$targetteleportation.94", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":141, "parts":14, "price":250980},
+				{"level":96, "name":"$targetteleportation.96", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":144, "parts":15, "price":266831},
+				{"level":98, "name":"$targetteleportation.98", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":147, "parts":16, "price":282682},
+				{"level":98, "name":"$targetteleportation.rare.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":150, "parts":22, "price":565364}
 			]
 		},
 		{
