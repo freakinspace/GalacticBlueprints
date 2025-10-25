@@ -851,7 +851,21 @@
 		{
 			"item":"damageinverter",
 			"entries":[
-				
+				{"level":42, "name":"$damageconverter.rare.mizar", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":116, "parts":13, "price":9561},
+				{"level":59, "name":"$damageconverter.rare.sol", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":163, "parts":14, "price":20731},
+				{"level":69, "name":"$damageconverter.rare.draconis", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":190, "parts":15, "price":99658},
+				{"level":81, "name":"$damageconverter.sirius.quick.sirius", "warmup":0.05, "active":14, "cooldown":60.5, "reduction":42.17, "conversion":80.5, "energy":223, "parts":17, "price":124572},
+				{"level":81, "name":"$damageconverter.sirius.sirius", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":80.5, "conversion":80.5, "energy":223, "parts":17, "price":124573},
+				{"level":81, "name":"$damageconverter.sirius.strong.sirius", "warmup":0.05, "active":9, "cooldown":60.5, "reduction":147.58, "conversion":80.5, "energy":223, "parts":17, "price":124574},
+				{"level":84, "name":"$damageconverter.84", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":231, "parts":14, "price":202432},
+				{"level":86, "name":"$damageconverter.86", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":237, "parts":17, "price":221118},
+				{"level":88, "name":"$damageconverter.88", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":242, "parts":13, "price":239803},
+				{"level":90, "name":"$damageconverter.90", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":248, "parts":13, "price":258490},
+				{"level":92, "name":"$damageconverter.92", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":253, "parts":14, "price":277176},
+				{"level":94, "name":"$damageconverter.94", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":259, "parts":14, "price":295862},
+				{"level":96, "name":"$damageconverter.96", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":264, "parts":15, "price":314548},
+				{"level":98, "name":"$damageconverter.98", "warmup":0.05, "active":10, "cooldown":60.5, "reduction":66.7, "conversion":66.7, "energy":270, "parts":16, "price":333233},
+				{"level":98, "name":"$damageconverter.rare.tauceti", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":270, "parts":22, "price":666467}
 			]
 		},
 		{
