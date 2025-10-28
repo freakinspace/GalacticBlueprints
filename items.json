@@ -1311,7 +1311,35 @@
 		{
 			"item":"sniperblaster",
 			"entries":[
-				
+				{"level":42, "name":"$sniperblaster.rare.mizar", "warmup":0.1, "active":1, "cooldown":5.4, "power":623.94, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":42, "parts":11, "price":7328},
+				{"level":59, "name":"$sniperblaster.rare.sol", "warmup":0.1, "active":1, "cooldown":5.4, "power":4982.83, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":60, "parts":14, "price":17404},
+				{"level":59, "name":"$sniperblaster.sirius.quick.sol", "warmup":0.1, "active":1, "cooldown":3.6, "power":3487.98, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":42, "parts":2, "price":20013},
+				{"level":59, "name":"$sniperblaster.sirius.sol", "warmup":0.1, "active":1, "cooldown":5.4, "power":5231.97, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":63, "parts":2, "price":20014},
+				{"level":59, "name":"$sniperblaster.sirius.strong.sol", "warmup":0.1, "active":1, "cooldown":8.1, "power":7847.96, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":95, "parts":2, "price":20015},
+				{"level":62, "name":"$sniperblaster.62", "warmup":0.1, "active":1, "cooldown":5.4, "power":6251.92, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":63, "parts":9, "price":16795},
+				{"level":64, "name":"$sniperblaster.64", "warmup":0.1, "active":1, "cooldown":5.4, "power":7983.07, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":65, "parts":10, "price":23347},
+				{"level":67, "name":"$sniperblaster.67", "warmup":0.1, "active":1, "cooldown":5.4, "power":11518.75, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":68, "parts":10, "price":33652},
+				{"level":69, "name":"$sniperblaster.69", "warmup":0.1, "active":1, "cooldown":5.4, "power":14708.30, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":70, "parts":11, "price":41157},
+				{"level":69, "name":"$sniperblaster.rare.draconis", "warmup":0.1, "active":1, "cooldown":5.4, "power":16914.55, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":70, "parts":16, "price":82313},
+				{"level":69, "name":"$sniperblaster.sirius.quick.draconis", "warmup":0.1, "active":1, "cooldown":3.6, "power":11840.18, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":49, "parts":2, "price":94659},
+				{"level":69, "name":"$sniperblaster.sirius.draconis", "warmup":0.1, "active":1, "cooldown":5.4, "power":17760.28, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":74, "parts":2, "price":94660},
+				{"level":69, "name":"$sniperblaster.sirius.strong.draconis", "warmup":0.1, "active":1, "cooldown":8.1, "power":26640.42, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":111, "parts":2, "price":94661},
+				{"level":72, "name":"$sniperblaster.71", "warmup":0.1, "active":1, "cooldown":5.4, "power":22048.45, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":72, "parts":6, "price":53505},
+				{"level":75, "name":"$sniperblaster.72", "warmup":0.1, "active":1, "cooldown":5.4, "power":29402.61, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":73, "parts":6, "price":65852},
+				{"level":78, "name":"$sniperblaster.73", "warmup":0.1, "active":1, "cooldown":5.4, "power":36756.75, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":76, "parts":6, "price":78199},
+				{"level":81, "name":"$sniperblaster.74", "warmup":0.1, "active":1, "cooldown":5.4, "power":44110.91, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":77, "parts":6, "price":90546},
+				{"level":81, "name":"$sniperblaster.sirius.quick.sirius", "warmup":0.1, "active":1, "cooldown":3.6, "power":35509.28, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":53, "parts":2, "price":102892},
+				{"level":81, "name":"$sniperblaster.sirius.sirius", "warmup":0.1, "active":1, "cooldown":5.4, "power":53263.93, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":79, "parts":2, "price":102893},
+				{"level":81, "name":"$sniperblaster.sirius.strong.sirius", "warmup":0.1, "active":1, "cooldown":8.1, "power":79895.89, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":119, "parts":2, "price":102894},
+				{"level":84, "name":"$sniperblaster.84", "warmup":0.1, "active":1, "cooldown":5.4, "power":65250.34, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":78, "parts":13, "price":167134},
+				{"level":86, "name":"$sniperblaster.86", "warmup":0.1, "active":1, "cooldown":5.4, "power":72500.38, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":80, "parts":16, "price":182562},
+				{"level":88, "name":"$sniperblaster.88", "warmup":0.1, "active":1, "cooldown":5.4, "power":79750.42, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":82, "parts":13, "price":197990},
+				{"level":90, "name":"$sniperblaster.90", "warmup":0.1, "active":1, "cooldown":5.4, "power":87000.45, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":84, "parts":13, "price":213417},
+				{"level":92, "name":"$sniperblaster.92", "warmup":0.1, "active":1, "cooldown":5.4, "power":94250.48, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":86, "parts":14, "price":228845},
+				{"level":94, "name":"$sniperblaster.94", "warmup":0.1, "active":1, "cooldown":5.4, "power":101500.53, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":88, "parts":14, "price":244273},
+				{"level":96, "name":"$sniperblaster.96", "warmup":0.1, "active":1, "cooldown":5.4, "power":108750.56, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":90, "parts":15, "price":259701},
+				{"level":98, "name":"$sniperblaster.98", "warmup":0.1, "active":1, "cooldown":5.4, "power":116000.59, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":92, "parts":16, "price":275129},
+				{"level":98, "name":"$sniperblaster.rare.tauceti", "warmup":0.1, "active":1, "cooldown":5.4, "power":133400.69, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":80, "parts":22, "price":550256}
 			]
 		},
 		{
