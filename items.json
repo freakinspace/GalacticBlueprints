@@ -1379,7 +1379,35 @@
 		{
 			"item":"attackcharge",
 			"entries":[
-				
+				{"level":42, "name":"$attackbuff.rare.mizar", "warmup":0.05, "active":56.1, "cooldown":112.2, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":86, "parts":11, "price":8206},
+				{"level":59, "name":"$attackbuff.rare.sol", "warmup":0.05, "active":59.4, "cooldown":119.9, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":120, "parts":14, "price":19492},
+				{"level":59, "name":"$attackbuff.sirius.long.sol", "warmup":0.05, "active":97.2, "cooldown":130.8, "buff":114, "buffcap":125, "range":4500, "levelfactor":1, "energy":126, "parts":5, "price":25339},
+				{"level":59, "name":"$attackbuff.sirius.sol", "warmup":0.05, "active":64.8, "cooldown":130.8, "buff":121, "buffcap":133, "range":4500, "levelfactor":1, "energy":126, "parts":5, "price":25340},
+				{"level":59, "name":"$attackbuff.sirius.strong.sol", "warmup":0.05, "active":43.2, "cooldown":130.8, "buff":131, "buffcap":144, "range":4500, "levelfactor":1, "energy":126, "parts":5, "price":25341},
+				{"level":62, "name":"$attackbuff.62", "warmup":0.05, "active":55, "cooldown":112, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":126, "parts":9, "price":18091},
+				{"level":64, "name":"$attackbuff.64", "warmup":0.05, "active":56, "cooldown":113, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":130, "parts":10, "price":25017},
+				{"level":67, "name":"$attackbuff.67", "warmup":0.05, "active":57, "cooldown":114, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":136, "parts":10, "price":37056},
+				{"level":69, "name":"$attackbuff.69", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":140, "parts":11, "price":45181},
+				{"level":69, "name":"$attackbuff.rare.draconis", "warmup":0.05, "active":63.8, "cooldown":127.6, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":140, "parts":16, "price":90361},
+				{"level":69, "name":"$attackbuff.sirius.long.draconis", "warmup":0.05, "active":104.4, "cooldown":139.2, "buff":114, "buffcap":125, "range":4500, "levelfactor":1, "energy":147, "parts":5, "price":103915},
+				{"level":69, "name":"$attackbuff.sirius.draconis", "warmup":0.05, "active":69.6, "cooldown":139.2, "buff":121, "buffcap":133, "range":4500, "levelfactor":1, "energy":147, "parts":5, "price":103916},
+				{"level":69, "name":"$attackbuff.sirius.strong.draconis", "warmup":0.05, "active":46.4, "cooldown":139.2, "buff":131, "buffcap":144, "range":4500, "levelfactor":1, "energy":147, "parts":5, "price":103917},
+				{"level":72, "name":"$attackbuff.71", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":143, "parts":24, "price":58736},
+				{"level":75, "name":"$attackbuff.72", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":146, "parts":23, "price":72290},
+				{"level":78, "name":"$attackbuff.73", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":152, "parts":22, "price":85844},
+				{"level":81, "name":"$attackbuff.74", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":153, "parts":21, "price":99399},
+				{"level":81, "name":"$attackbuff.sirius.long.sirius", "warmup":0.05, "active":104.4, "cooldown":139.2, "buff":114, "buffcap":125, "range":4500, "levelfactor":1, "energy":157, "parts":5, "price":112952},
+				{"level":81, "name":"$attackbuff.sirius.sirius", "warmup":0.05, "active":69.6, "cooldown":139.2, "buff":121, "buffcap":133, "range":4500, "levelfactor":1, "energy":157, "parts":5, "price":112953},
+				{"level":81, "name":"$attackbuff.sirius.strong.sirius", "warmup":0.05, "active":46.4, "cooldown":139.2, "buff":131, "buffcap":144, "range":4500, "levelfactor":1, "energy":157, "parts":5, "price":112954},
+				{"level":84, "name":"$attackbuff.84", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":154, "parts":16, "price":183548},
+				{"level":86, "name":"$attackbuff.86", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":156, "parts":14, "price":200490},
+				{"level":88, "name":"$attackbuff.88", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":158, "parts":13, "price":217433},
+				{"level":90, "name":"$attackbuff.90", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":160, "parts":13, "price":234376},
+				{"level":92, "name":"$attackbuff.92", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":162, "parts":14, "price":251319},
+				{"level":94, "name":"$attackbuff.94", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":164, "parts":14, "price":268262},
+				{"level":96, "name":"$attackbuff.96", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":166, "parts":15, "price":285205},
+				{"level":98, "name":"$attackbuff.98", "warmup":0.05, "active":58, "cooldown":116, "buff":117, "buffcap":125, "range":4500, "levelfactor":1, "energy":168, "parts":16, "price":302147},
+				{"level":98, "name":"$attackbuff.rare.tauceti", "warmup":0.05, "active":63.8, "cooldown":127.6, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":160, "parts":22, "price":604294}
 			]
 		},
 		{
