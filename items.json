@@ -1446,7 +1446,28 @@
 		{
 			"item":"attackfieldturret",
 			"entries":[
-				
+				{"level":42, "name":"$attackturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":204, "spawns":"MizarRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.mizar", "hitpoints":4913.56, "aoe":1650, "energy":129, "parts":11, "price":7931},
+				{"level":59, "name":"$attackturret.rare.sol", "warmup":0.5, "active":132, "cooldown":204, "spawns":"SolRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.sol", "hitpoints":39239.79, "aoe":1650, "energy":182, "parts":14, "price":17373},
+				{"level":69, "name":"$attackturret.rare.draconis", "warmup":0.5, "active":132, "cooldown":204, "spawns":"DraconisRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.draconis", "hitpoints":133202.08, "aoe":1650, "energy":210, "parts":16, "price":83959},
+				{"level":69, "name":"$attackturret.sirius.rapid.draconis", "warmup":0.5, "active":216, "cooldown":234, "spawns":"DraconisAncientAttackBuffTurretRapid", "attackcharge":"$attackbuff.sirius.long.draconis", "hitpoints":209793.27, "aoe":1650, "energy":221, "parts":5, "price":104947},
+				{"level":69, "name":"$attackturret.sirius.draconis", "warmup":0.5, "active":144, "cooldown":234, "spawns":"DraconisAncientAttackBuffTurret", "attackcharge":"$attackbuff.sirius.draconis", "hitpoints":139862.19, "aoe":1650, "energy":221, "parts":5, "price":104948},
+				{"level":69, "name":"$attackturret.sirius.strong.draconis", "warmup":0.5, "active":96, "cooldown":234, "spawns":"DraconisAncientAttackBuffTurretStrong", "attackcharge":"$attackbuff.sirius.strong.draconis", "hitpoints":93241.45, "aoe":1650, "energy":221, "parts":5, "price":104949},
+				{"level":72, "name":"$attackturret.71", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret71", "attackcharge":"$attackbuff.71", "hitpoints":173631.53, "aoe":1650, "energy":215, "parts":16, "price":54573},
+				{"level":75, "name":"$attackturret.72", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret72", "attackcharge":"$attackbuff.72", "hitpoints":231545.55, "aoe":1650, "energy":219, "parts":15, "price":67167},
+				{"level":78, "name":"$attackturret.73", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret73", "attackcharge":"$attackbuff.73", "hitpoints":289459.40, "aoe":1650, "energy":227, "parts":15, "price":79761},
+				{"level":81, "name":"$attackturret.74", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret74", "attackcharge":"$attackbuff.74", "hitpoints":347373.44, "aoe":1650, "energy":229, "parts":14, "price":92354},
+				{"level":81, "name":"$attackturret.sirius.rapid.sirius", "warmup":0.5, "active":216, "cooldown":234, "spawns":"SiriusAncientAttackBuffTurretRapid", "attackcharge":"$attackbuff.sirius.long.sirius", "hitpoints":629180.10, "aoe":1650, "energy":236, "parts":5, "price":109146},
+				{"level":81, "name":"$attackturret.sirius.sirius", "warmup":0.5, "active":144, "cooldown":234, "spawns":"SiriusAncientAttackBuffTurret", "attackcharge":"$attackbuff.sirius.sirius", "hitpoints":419453.40, "aoe":1650, "energy":236, "parts":5, "price":109147},
+				{"level":81, "name":"$attackturret.sirius.strong.sirius", "warmup":0.5, "active":96, "cooldown":234, "spawns":"SiriusAncientAttackBuffTurretStrong", "attackcharge":"$attackbuff.sirius.strong.sirius", "hitpoints":279635.62, "aoe":1650, "energy":236, "parts":5, "price":109148},
+				{"level":84, "name":"$attackturret.84", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret84", "attackcharge":"$attackbuff.84", "hitpoints":513846.40, "aoe":1650, "energy":231, "parts":15, "price":177370},
+				{"level":86, "name":"$attackturret.86", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret86", "attackcharge":"$attackbuff.86", "hitpoints":570940.50, "aoe":1650, "energy":235, "parts":13, "price":193743},
+				{"level":88, "name":"$attackturret.88", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret88", "attackcharge":"$attackbuff.88", "hitpoints":628034.50, "aoe":1650, "energy":239, "parts":12, "price":210116},
+				{"level":90, "name":"$attackturret.90", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret90", "attackcharge":"$attackbuff.90", "hitpoints":685128.50, "aoe":1650, "energy":243, "parts":12, "price":226488},
+				{"level":92, "name":"$attackturret.92", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret92", "attackcharge":"$attackbuff.92", "hitpoints":742222.50, "aoe":1650, "energy":247, "parts":14, "price":242861},
+				{"level":94, "name":"$attackturret.94", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret94", "attackcharge":"$attackbuff.94", "hitpoints":799316.70, "aoe":1650, "energy":251, "parts":14, "price":259234},
+				{"level":96, "name":"$attackturret.96", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret96", "attackcharge":"$attackbuff.96", "hitpoints":856410.70, "aoe":1650, "energy":255, "parts":15, "price":275606},
+				{"level":98, "name":"$attackturret.98", "warmup":0.5, "active":120, "cooldown":180, "spawns":"AttackBuffTurret98", "attackcharge":"$attackbuff.98", "hitpoints":913504.70, "aoe":1650, "energy":259, "parts":16, "price":291979},
+				{"level":98, "name":"$attackturret.rare.tauceti", "warmup":0.5, "active":132, "cooldown":204, "spawns":"TaucetiRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.tauceti", "hitpoints":1050530.40, "aoe":1650, "energy":238, "parts":22, "price":583957}
 			]
 		},
 		{
