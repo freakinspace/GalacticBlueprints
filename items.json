@@ -1500,13 +1500,48 @@
 		{
 			"item":"mine",
 			"entries":[
-				
+				{"level":42, "name":"$mine.rare.mizar", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"MizarRareMine", "hitpoints":4.97, "power":1220.59, "critical":20, "aggressionrange":2800, "aggro":549.27, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":142, "parts": 11, "price":8684},
+				{"level":59, "name":"$mine.rare.sol", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"SolRareMine", "hitpoints":39.72, "power":9747.66, "critical":20, "aggressionrange":2800, "aggro":4386.45, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":199, "parts": 14, "price":19163},
+				{"level":69, "name":"$mine.rare.draconis", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"DraconisRareMine", "hitpoints":134.83, "power":33089.09, "critical":20, "aggressionrange":2800, "aggro":14890.09, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":231, "parts": 16, "price":90361},
+				{"level":69, "name":"$mine.sirius.rapid.draconis", "warmup":0.5, "lifespan":332.8, "cooldown":48.2, "spawns":"DraconisAncientMineRapid", "hitpoints":140.95, "power":52115.31, "critical":20, "aggressionrange":2800, "aggro":23451.89, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":363, "parts": 2, "price":112949},
+				{"level":69, "name":"$mine.sirius.draconis", "warmup":0.5, "lifespan":223, "cooldown":32.3, "spawns":"DraconisAncientMine", "hitpoints":140.95, "power":34743.54, "critical":20, "aggressionrange":2800, "aggro":15634.59, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":243, "parts": 2, "price":112950},
+				{"level":69, "name":"$mine.sirius.strong.draconis", "warmup":0.5, "lifespan":149.8, "cooldown":21.7, "spawns":"DraconisAncientMineStrong", "hitpoints":140.95, "power":23162.36, "critical":20, "aggressionrange":2800, "aggro":10423.06, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":163, "parts": 2, "price":112951},
+				{"level":72, "name":"$mine.71", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine71", "hitpoints":183.74, "power":43132.28, "critical":20, "aggressionrange":2800, "aggro":19409.53, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":236, "parts": 6, "price":58374},
+				{"level":75, "name":"$mine.72", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine72", "hitpoints":245.02, "power":57518.85, "critical":20, "aggressionrange":2800, "aggro":25883.48, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":241, "parts": 6, "price":72288},
+				{"level":78, "name":"$mine.73", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine73", "hitpoints":306.31, "power":71905.40, "critical":20, "aggressionrange":2800, "aggro":32357.43, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":250, "parts": 6, "price":85842},
+				{"level":81, "name":"$mine.74", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine74", "hitpoints":367.59, "power":86291.97, "critical":20, "aggressionrange":2800, "aggro":38831.39, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":252, "parts": 6, "price":99396},
+				{"level":81, "name":"$mine.sirius.rapid.sirius", "warmup":0.5, "lifespan":332.8, "cooldown":48.2, "spawns":"SiriusAncientMineRapid", "hitpoints":422.73, "power":156296.33, "critical":20, "aggressionrange":2800, "aggro":70333.35, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":387, "parts": 2, "price":117469},
+				{"level":81, "name":"$mine.sirius.sirius", "warmup":0.5, "lifespan":223, "cooldown":32.3, "spawns":"SiriusAncientMine", "hitpoints":422.73, "power":104197.56, "critical":20, "aggressionrange":2800, "aggro":46888.90, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":259, "parts": 2, "price":117470},
+				{"level":81, "name":"$mine.sirius.strong.sirius", "warmup":0.5, "lifespan":149.8, "cooldown":21.7, "spawns":"SiriusAncientMineStrong", "hitpoints":422.73, "power":69465.04, "critical":20, "aggressionrange":2800, "aggro":31259.27, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":174, "parts": 2, "price":117471},
+				{"level":84, "name":"$mine.84", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine84", "hitpoints":543.75, "power":127645.97, "critical":20, "aggressionrange":2800, "aggro":57440.69, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":254, "parts": 9, "price":190960},
+				{"level":86, "name":"$mine.86", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine86", "hitpoints":604.17, "power":141828.88, "critical":20, "aggressionrange":2800, "aggro":63823.00, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":258, "parts": 9, "price":208587},
+				{"level":88, "name":"$mine.88", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine88", "hitpoints":664.59, "power":156011.75, "critical":20, "aggressionrange":2800, "aggro":70205.29, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":262, "parts": 8, "price":226214},
+				{"level":90, "name":"$mine.90", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine90", "hitpoints":725, "power":170194.62, "critical":20, "aggressionrange":2800, "aggro":76587.58, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":266, "parts": 8, "price":243841},
+				{"level":92, "name":"$mine.92", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine92", "hitpoints":785.42, "power":184377.50, "critical":20, "aggressionrange":2800, "aggro":82969.88, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":270, "parts": 11, "price":261468},
+				{"level":94, "name":"$mine.94", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine94", "hitpoints":845.84, "power":198560.40, "critical":20, "aggressionrange":2800, "aggro":89352.18, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":274, "parts": 11, "price":279095},
+				{"level":96, "name":"$mine.96", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine96", "hitpoints":906.25, "power":212743.28, "critical":20, "aggressionrange":2800, "aggro":95734.48, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":278, "parts": 15, "price":296722},
+				{"level":98, "name":"$mine.98", "warmup":0.5, "lifespan":183, "cooldown":26.5, "spawns":"Mine98", "hitpoints":966.67, "power":226926.16, "critical":20, "aggressionrange":2800, "aggro":102116.77, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":282, "parts": 16, "price":314350},
+				{"level":98, "name":"$mine.rare.tauceti", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"TaucetiRareMine", "hitpoints":1063.34, "power":260965.08, "critical":20, "aggressionrange":2800, "aggro":117434.29, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":263, "parts": 22, "price":628698}
 			]
 		},
 		{
 			"item":"scopeshifter",
 			"entries":[
-				
+				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "price":9361},
+				{"level":59, "name":"$rangeleech.rare.sol", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":192, "parts": 14, "price":20297},
+				{"level":69, "name":"$rangeleech.rare.draconis", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":225, "parts": 15, "price":97573},
+				{"level":81, "name":"$rangeleech.sirius.quick.sirius", "warmup":0.05, "active":52.1, "cooldown":120.45, "buff":38, "range":4800, "energy":269, "parts": 15, "price":121966},
+				{"level":81, "name":"$rangeleech.sirius.sirius", "warmup":0.05, "active":44, "cooldown":120.45, "buff":45, "range":4800, "energy":269, "parts": 15, "price":121967},
+				{"level":81, "name":"$rangeleech.sirius.strong.sirius", "warmup":0.05, "active":36, "cooldown":120.45, "buff":55, "range":4800, "energy":269, "parts": 15, "price":121968},
+				{"level":84, "name":"$rangeleech.84", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":273, "parts": 12, "price":198196},
+				{"level":86, "name":"$rangeleech.86", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":280, "parts": 12, "price":216491},
+				{"level":88, "name":"$rangeleech.88", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":286, "parts": 12, "price":234786},
+				{"level":90, "name":"$rangeleech.90", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":293, "parts": 12, "price":253082},
+				{"level":92, "name":"$rangeleech.92", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":299, "parts": 12, "price":271376},
+				{"level":94, "name":"$rangeleech.94", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":306, "parts": 12, "price":289671},
+				{"level":96, "name":"$rangeleech.96", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":312, "parts": 15, "price":307966},
+				{"level":98, "name":"$rangeleech.98", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":319, "parts": 16, "price":326261},
+				{"level":98, "name":"$rangeleech.rare.tauceti", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":319, "parts": 22, "price":652521}
 			]
 		},
 		{
