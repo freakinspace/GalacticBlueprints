@@ -135,7 +135,7 @@
 			]
 		},
 		{
-			"item":"repairdroid",
+			"item":"repair",
 			"entries":[
 				{"level":1,  "name":"$repair.zero", "warmup":0.5, "active":16, "cooldown":66, "power":2.83, "energy":0, "parts":1, "shopLevel":1, "price":0},
 				{"level":3,  "name":"$repair.4", "warmup":0.5, "active":16, "cooldown":66, "power":2.83, "energy":10, "parts":1, "shopLevel":1, "price":17},
@@ -350,7 +350,7 @@
 			]
 		},
 		{
-			"item":"aimcomputer",
+			"item":"aim",
 			"entries":[
 				{"level":7, "name":"$aim.7", "warmup":0.05, "active":48.8, "cooldown":86.3, "accuracy":40.50, "critical":25, "energy":7, "parts":1, "price":76},
 				{"level":9, "name":"$aim.9", "warmup":0.05, "active":48.8, "cooldown":86.3, "accuracy":40.50, "critical":25, "energy":10, "parts":1, "price":103},
@@ -478,7 +478,7 @@
 			]
 		},
 		{
-			"item":"thermoblast",
+			"item":"timedamage",
 			"entries":[
 				{"level":27, "name":"$timedamage.27", "warmup":0.05, "active":15, "cooldown":69.8, "power":18.07, "range":4, "energy":84, "parts":3, "price":1505},
 				{"level":29, "name":"$timedamage.29", "warmup":0.05, "active":15, "cooldown":69.8, "power":23.08, "range":4, "energy":90, "parts":4, "price":1627},
@@ -675,7 +675,7 @@
 			]
 		},
 		{
-			"item":"aimscrambler",
+			"item":"flare",
 			"entries":[
 				{"level":17, "name":"$flare.17", "warmup":0.05, "active":23.5, "cooldown":67.5, "accuracy":56, "levelfactor":7.5, "energy":36, "parts":2, "price":652},
 				{"level":19, "name":"$flare.19", "warmup":0.05, "active":23.5, "cooldown":67.5, "accuracy":56, "levelfactor":7.5, "energy":40, "parts":2, "price":701},
@@ -738,7 +738,7 @@
 			]
 		},
 		{
-			"item":"aggrobomb",
+			"item":"bomb",
 			"entries":[
 				{"level":27, "name":"$bomb.27", "warmup":0.5, "active":3, "cooldown":83, "power":238.57, "accuracy":10, "critical":20, "aggro":3424.67, "aoe":1.5, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":40, "energy":84, "parts":3, "price":1505},
 				{"level":29, "name":"$bomb.29", "warmup":0.5, "active":3, "cooldown":83, "power":304.61, "accuracy":10, "critical":20, "aggro":4372.68, "aoe":1.6, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":40, "energy":90, "parts":4, "price":1627},
@@ -793,7 +793,7 @@
 			]
 		},
 		{
-			"item":"repairtarget",
+			"item":"remoterepair",
 			"entries":[
 				{"level":9, "name":"$remoterepair.9", "warmup":0.05, "active":20, "cooldown":48.5, "power":4.81, "range":4.5, "energy":20, "parts":1, "price":103},
 				{"level":11, "name":"$remoterepair.11", "warmup":0.05, "active":20, "cooldown":48.5, "power":6.14, "range":4.5, "energy":24, "parts":1, "price":186},
@@ -863,7 +863,7 @@
 			]
 		},
 		{
-			"item":"protector",
+			"item":"protect",
 			"entries":[
 				{"level":9, "name":"$protect.ion9", "warmup":1, "active":23, "cooldown":52, "power":47.78, "range":4.5, "levelfactor":5, "energy":15, "parts":1, "price":120},
 				{"level":11, "name":"$protect.ion11", "warmup":1, "active":23, "cooldown":52, "power":60.98, "range":4.5, "levelfactor":5, "energy":18, "parts":1, "price":224},
@@ -996,7 +996,7 @@
 			]
 		},
 		{
-			"item":"materializer",
+			"item":"resurrect",
 			"entries":[
 				{"level":27, "name":"$resurrect.27", "warmup":0.5, "active":20, "cooldown":60, "range":1, "energy":112, "parts":3, "price":1505},
 				{"level":29, "name":"$resurrect.29", "warmup":0.5, "active":20, "cooldown":60, "range":1, "energy":120, "parts":4, "price":1627},
@@ -1051,7 +1051,7 @@
 			]
 		},
 		{
-			"item":"speedactuator",
+			"item":"speedbuff",
 			"entries":[
 				{"level":9, "name":"$speedbuff.9", "warmup":0.05, "active":55, "cooldown":109.9, "buff":118, "buffcap":140, "range":4.5, "levelfactor":5, "energy":20, "parts":1, "price":120},
 				{"level":11, "name":"$speedbuff.11", "warmup":0.05, "active":55, "cooldown":109.9, "buff":118, "buffcap":140, "range":4.5, "levelfactor":5, "energy":24, "parts":1, "price":224},
@@ -1121,7 +1121,7 @@
 			]
 		},
 		{
-			"item":"stuncharge",
+			"item":"stunbuff",
 			"entries":[
 				{"level":9, "name":"$stunbuff.9", "warmup":0.05, "active":12.1, "cooldown":57, "buff":60, "range":4, "speedmultiplier":129.50, "levelfactor":2.5, "energy":20, "parts":1, "price":103},
 				{"level":11, "name":"$stunbuff.11", "warmup":0.05, "active":12.5, "cooldown":57.5, "buff":60, "range":4, "speedmultiplier":129.50, "levelfactor":2.5, "energy":24, "parts":1, "price":186},
@@ -1377,7 +1377,7 @@
 			]
 		},
 		{
-			"item":"attackcharge",
+			"item":"attackbuff",
 			"entries":[
 				{"level":42, "name":"$attackbuff.rare.mizar", "warmup":0.05, "active":56.1, "cooldown":112.2, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":86, "parts":11, "price":8206},
 				{"level":59, "name":"$attackbuff.rare.sol", "warmup":0.05, "active":59.4, "cooldown":119.9, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":120, "parts":14, "price":19492},
@@ -1417,7 +1417,7 @@
 			]
 		},
 		{
-			"item":"repairfieldturret",
+			"item":"repairturret",
 			"entries":[
 				{"level":42, "name":"$repairturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":198, "spawns":"MizarRareRepairFieldTurret", "power":116.99, "hitpoints":4913.56, "aoe":1650, "aoetargetswithoutpenalty":5, "aoeminimumdamagemultiplier":10, "energy":129, "parts":11, "price":7923},
 				{"level":59, "name":"$repairturret.rare.sol", "warmup":0.5, "active":132, "cooldown":198, "spawns":"SolRareRepairFieldTurret", "power":934.28, "hitpoints":39239.79, "aoe":1650, "aoetargetswithoutpenalty":5, "aoeminimumdamagemultiplier":10, "energy":182, "parts":14, "price":17274},
@@ -1444,7 +1444,7 @@
 			]
 		},
 		{
-			"item":"attackfieldturret",
+			"item":"attackturret",
 			"entries":[
 				{"level":42, "name":"$attackturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":204, "spawns":"MizarRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.mizar", "hitpoints":4913.56, "aoe":1650, "energy":129, "parts":11, "price":7931},
 				{"level":59, "name":"$attackturret.rare.sol", "warmup":0.5, "active":132, "cooldown":204, "spawns":"SolRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.sol", "hitpoints":39239.79, "aoe":1650, "energy":182, "parts":14, "price":17373},
@@ -1525,7 +1525,7 @@
 			]
 		},
 		{
-			"item":"scopeshifter",
+			"item":"rangeleech",
 			"entries":[
 				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "price":9361},
 				{"level":59, "name":"$rangeleech.rare.sol", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":192, "parts": 14, "price":20297},
@@ -1545,25 +1545,25 @@
 			]
 		},
 		{
-			"item":"magnettrap",
+			"item":"magnetarray",
 			"entries":[
 				
 			]
 		},
 		{
-			"item":"corruptioncloud",
+			"item":"nanitecloud",
 			"entries":[
 				
 			]
 		},
 		{
-			"item":"alliescover",
+			"item":"formationaura",
 			"entries":[
 				
 			]
 		},
 		{
-			"item":"damageinverter",
+			"item":"damageconverter",
 			"entries":[
 				{"level":42, "name":"$damageconverter.rare.mizar", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":116, "parts":13, "price":9561},
 				{"level":59, "name":"$damageconverter.rare.sol", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":163, "parts":14, "price":20731},
@@ -1583,7 +1583,7 @@
 			]
 		},
 		{
-			"item":"quantumleap",
+			"item":"targetteleportation",
 			"entries":[
 				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":65, "parts":11, "price":8111},
 				{"level":59, "name":"$targetteleportation.rare.sol", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":91, "parts":12, "price":17586},
@@ -1603,7 +1603,7 @@
 			]
 		},
 		{
-			"item":"deflectiondroid",
+			"item":"deflectionrobot",
 			"entries":[
 				{"level":42, "name":"$deflectionrobotlauncher.rare.mizar", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":1356.40,  "energy":130, "parts":13, "price":8294},
 				{"level":59, "name":"$deflectionrobotlauncher.rare.sol", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":12457.08, "energy":180, "parts":14, "price":17984},
