@@ -7,7 +7,7 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner"
                 ]
             },
@@ -16,12 +16,12 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
                     "rocket",
-                    "aimcomputer",
+                    "aim",
                     "perforator",
-                    "thermoblast"
+                    "timedamage"
                 ]
             },
             {
@@ -29,12 +29,12 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
                     "shield",
                     "taunt",
-                    "aimscrambler",
-                    "aggrobomb"
+                    "flare",
+                    "bomb"
                 ]
             },
             {
@@ -42,12 +42,12 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
-                    "repairtarget",
-                    "protector",
+                    "remoterepair",
+                    "protect",
                     "repairfield",
-                    "materializer"
+                    "resurrector"
                 ]
             },
             {
@@ -55,10 +55,10 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
-                    "speedactuator",
-                    "stuncharge",
+                    "speedbuff",
+                    "stunbuff",
                     "aggrobeacon",
                     "stundome"
                 ]
@@ -68,11 +68,11 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
                     "sniperblaster",
                     "orbitalstrike",
-                    "attackcharge",
+                    "attackbuff",
                     "attackdroid"
                 ]
             },
@@ -81,10 +81,10 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
-                    "repairfieldturret",
-                    "attackfieldturret",
+                    "repairturret",
+                    "attackturret",
                     "stickybomb",
                     "mine"
                 ]
@@ -94,12 +94,12 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
-                    "scopeshifter",
-                    "magnettrap",
-                    "corruptioncloud",
-                    "alliescover"
+                    "rangeleech",
+                    "magnetarraylauncher",
+                    "nanitecloud",
+                    "formationaura"
                 ]
             },
             {
@@ -107,11 +107,11 @@
                 "items": [
                     "blaster",
                     "collector",
-                    "repairdroid",
+                    "repair",
                     "afterburner",
-                    "damageinverter",
-                    "quantumleap",
-                    "deflectiondroid",
+                    "damageconverter",
+                    "targetteleportation",
+                    "deflectionrobot",
                     "lightningchain"
                 ]
             }
