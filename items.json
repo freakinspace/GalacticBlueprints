@@ -1547,7 +1547,21 @@
 		{
 			"item":"magnettrap",
 			"entries":[
-				
+				{"level":42, "name":"$magnetarraylauncher.rare.mizar", "warmup":0.05, "active":110, "cooldown":176, "spawns":"MizarRareMagnetArrayProjectile", "hitpoints":3509.69, "buff":92, "range":4950, "aoe":2000, "energy":75, "parts":18, "price":8028},
+				{"level":59, "name":"$magnetarraylauncher.rare.sol", "warmup":0.05, "active":110, "cooldown":176, "spawns":"SolRareMagnetArrayProjectile", "hitpoints":28028.42, "buff":92, "range":4950, "aoe":2000, "energy":106, "parts":18, "price":17405},
+				{"level":69, "name":"$magnetarraylauncher.rare.draconis", "warmup":0.05, "active":110, "cooldown":176, "spawns":"DraconisRareMagnetArrayProjectile", "hitpoints":95144.34, "buff":92, "range":4950, "aoe":2000, "energy":124, "parts":18, "price":83671},
+				{"level":81, "name":"$magnetarraylauncher.sirius.quick.sirius", "warmup":0.05, "active":165, "cooldown":176, "spawns":"SiriusAncientMagnetArrayProjectileQuick", "hitpoints":449414.38, "buff":88, "range":5175, "aoe":2000, "energy":145, "parts":15, "price":104589},
+				{"level":81, "name":"$magnetarraylauncher.sirius.sirius", "warmup":0.05, "active":110, "cooldown":176, "spawns":"SiriusAncientMagnetArrayProjectile", "hitpoints":299609.60, "buff":92, "range":5175, "aoe":2000, "energy":145, "parts":15, "price":104590},
+				{"level":81, "name":"$magnetarraylauncher.sirius.strong.sirius", "warmup":0.05, "active":73.33, "cooldown":176, "spawns":"SiriusAncientMagnetArrayProjectileStrong", "hitpoints":199739.72, "buff":98, "range":5175, "aoe":2000, "energy":145, "parts":15, "price":104591},
+				{"level":84, "name":"$magnetarraylauncher.84", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile84", "hitpoints":367033.12, "buff":90, "range":4500, "aoe":2000, "energy":147, "parts":9, "price":169958},
+				{"level":86, "name":"$magnetarraylauncher.86", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile86", "hitpoints":407814.66, "buff":90, "range":4500, "aoe":2000, "energy":151, "parts":17, "price":185646},
+				{"level":88, "name":"$magnetarraylauncher.88", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile88", "hitpoints":448596.10, "buff":90, "range":4500, "aoe":2000, "energy":154, "parts":13, "price":201334},
+				{"level":90, "name":"$magnetarraylauncher.90", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile90", "hitpoints":489377.53, "buff":90, "range":4500, "aoe":2000, "energy":158, "parts":13, "price":217024},
+				{"level":92, "name":"$magnetarraylauncher.92", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile92", "hitpoints":530158.94, "buff":90, "range":4500, "aoe":2000, "energy":161, "parts":12, "price":232712},
+				{"level":94, "name":"$magnetarraylauncher.94", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile94", "hitpoints":570940.50, "buff":90, "range":4500, "aoe":2000, "energy":165, "parts":12, "price":248400},
+				{"level":96, "name":"$magnetarraylauncher.96", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile96", "hitpoints":611721.90, "buff":90, "range":4500, "aoe":2000, "energy":168, "parts":15, "price":264088},
+				{"level":98, "name":"$magnetarraylauncher.98", "warmup":0.05, "active":100, "cooldown":160, "spawns":"MagnetArrayProjectile98", "hitpoints":652503.30, "buff":90, "range":4500, "aoe":2000, "energy":172, "parts":16, "price":279777},
+				{"level":98, "name":"$magnetarraylauncher.rare.tauceti", "warmup":0.05, "active":110, "cooldown":176, "spawns":"TaucetiRareMagnetArrayProjectile", "hitpoints":750378.80, "buff":92, "range":4950, "aoe":2000, "energy":175, "parts":22, "price":559553}
 			]
 		},
 		{
