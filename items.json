@@ -1587,7 +1587,21 @@
 		{
 			"item":"formationaura",
 			"entries":[
-				
+				{"level":42, "name":"$formationaura.rare.mizar", "warmup":0.05, "active":26.4, "cooldown":68.2, "reduction":48.00, "conversion":52.30, "range" :3000, "links":4, "energy":74, "parts": 13, "shopLevel": 37, "price":8744},
+				{"level":59, "name":"$formationaura.rare.sol", "warmup":0.05, "active":26.4, "cooldown":68.2, "reduction":48.00, "conversion":52.30, "range" :3000, "links":4, "energy":104, "parts": 14, "shopLevel": 54, "price":18960},
+				{"level":69, "name":"$formationaura.rare.draconis", "warmup":0.05, "active":26.4, "cooldown":68.2, "reduction":48.00, "conversion":52.30, "range" :3000, "links":4, "energy":121, "parts": 15, "shopLevel": 64, "price":91143},
+				{"level":81, "name":"$formationaura.sirius.quick.sirius", "warmup":0.05, "active":34.5, "cooldown":71.3, "reduction":40.00, "conversion":68.30, "range" :3000, "links":4, "energy":145, "parts": 18, "shopLevel": 76, "price":113929},
+				{"level":81, "name":"$formationaura.sirius.sirius", "warmup":0.05, "active":27.6, "cooldown":71.3, "reduction":50.00, "conversion":54.60, "range" :3000, "links":4, "energy":145, "parts": 18, "shopLevel": 76, "price":113930},
+				{"level":81, "name":"$formationaura.sirius.strong.sirius", "warmup":0.05, "active":21.9, "cooldown":71.3, "reduction":63.00, "conversion":43.30, "range" :3000, "links":4, "energy":145, "parts": 18, "shopLevel": 76, "price":113931},
+				{"level":84, "name":"$formationaura.84", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":147, "parts": 14, "shopLevel": 79, "price":185136},
+				{"level":86, "name":"$formationaura.86", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":151, "parts": 17, "shopLevel": 81, "price":202225},
+				{"level":88, "name":"$formationaura.88", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":154, "parts": 13, "shopLevel": 83, "price":219314},
+				{"level":90, "name":"$formationaura.90", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":158, "parts": 13, "shopLevel": 85, "price":236405},
+				{"level":92, "name":"$formationaura.92", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":161, "parts": 14, "shopLevel": 87, "price":253494},
+				{"level":94, "name":"$formationaura.94", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":165, "parts": 14, "shopLevel": 89, "price":270583},
+				{"level":96, "name":"$formationaura.96", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":168, "parts": 15, "shopLevel": 91, "price":287673},
+				{"level":98, "name":"$formationaura.98", "warmup":0.05, "active":24, "cooldown":62, "reduction":43.33, "conversion":47.50, "range" :3000, "links":4, "energy":172, "parts": 16, "shopLevel": 93, "price":304762},
+				{"level":98, "name":"$formationaura.rare.tauceti", "warmup":0.05, "active":26.4, "cooldown":68.2, "reduction":48.00, "conversion":52.30, "range" :3000, "links":4, "energy":172, "parts": 22, "shopLevel": 93, "price":609524}
 			]
 		},
 		{
