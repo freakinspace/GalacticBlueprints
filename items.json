@@ -1567,7 +1567,21 @@
 		{
 			"item":"nanitecloud",
 			"entries":[
-				
+				{"level":42, "name":"$nanitecloudfield.rare.mizar", "warmup":0.05, "active":38.5, "cooldown":88, "buff":29, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":137, "parts": 13, "shopLevel": 37, "price":8219},
+				{"level":59, "name":"$nanitecloudfield.rare.sol", "warmup":0.05, "active":38.5, "cooldown":88, "buff":29, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":192, "parts": 14, "shopLevel": 54, "price":17821},
+				{"level":69, "name":"$nanitecloudfield.rare.draconis", "warmup":0.05, "active":38.5, "cooldown":88, "buff":29, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":225, "parts": 15, "shopLevel": 64, "price":85670},
+				{"level":81, "name":"$nanitecloudfield.sirius.quick.sirius", "warmup":0.05, "active":63, "cooldown":96, "buff":20, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":269, "parts": 16, "shopLevel": 76, "price":107086},
+				{"level":81, "name":"$nanitecloudfield.sirius.sirius", "warmup":0.05, "active":42, "cooldown":96, "buff":30, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":269, "parts": 16, "shopLevel": 76, "price":107087},
+				{"level":81, "name":"$nanitecloudfield.sirius.strong.sirius", "warmup":0.05, "active":28, "cooldown":96, "buff":45, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":269, "parts": 16, "shopLevel": 76, "price":107088},
+				{"level":84, "name":"$nanitecloudfield.84", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":273, "parts": 9, "shopLevel": 79, "price":174017},
+				{"level":86, "name":"$nanitecloudfield.86", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":280, "parts": 17, "shopLevel": 81, "price":190080},
+				{"level":88, "name":"$nanitecloudfield.88", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":286, "parts": 13, "shopLevel": 83, "price":206143},
+				{"level":90, "name":"$nanitecloudfield.90", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":293, "parts": 13, "shopLevel": 85, "price":222207},
+				{"level":92, "name":"$nanitecloudfield.92", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":299, "parts": 14, "shopLevel": 87, "price":238270},
+				{"level":94, "name":"$nanitecloudfield.94", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":306, "parts": 14, "shopLevel": 89, "price":254333},
+				{"level":96, "name":"$nanitecloudfield.96", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":312, "parts": 15, "shopLevel": 91, "price":270396},
+				{"level":98, "name":"$nanitecloudfield.98", "warmup":0.05, "active":35, "cooldown":80, "buff":25, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":319, "parts": 16, "shopLevel": 93, "price":286459},
+				{"level":98, "name":"$nanitecloudfield.rare.tauceti", "warmup":0.05, "active":38.5, "cooldown":88, "buff":29, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":319, "parts": 22, "shopLevel": 93, "price":572917}
 			]
 		},
 		{
