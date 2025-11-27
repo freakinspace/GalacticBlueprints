@@ -3,6 +3,7 @@
 	"data":[
 		{
 			"item":"blaster",
+			"weight": 1,
 			"entries":[
 				{"level":0,  "name":"$blaster.ionzero", "warmup":0.05, "active":1, "cooldown":1.65, "power":1.1, "range":3, "speed":5, "accuracy":10, "critical":0, "energy":0, "parts":1, "shopLevel":0, "price":0},
 				{"level":0,  "name":"$blaster.ion0", "warmup":0.05, "active":1, "cooldown":1.65, "power":2, "range":3, "speed":5, "accuracy":10, "critical":0, "energy":1, "parts":1, "shopLevel":0, "price":25},
@@ -77,6 +78,7 @@
 		},
 		{
 			"item":"collector",
+			"weight": 1,
 			"entries":[
 				{"level":0,  "name":"$collector.0", "warmup":0.05, "active":1.5, "cooldown":2, "power":4, "range":600, "energy":0, "parts":1, "shopLevel":0, "price": 0},
 				{"level":3,  "name":"$collector.4", "warmup":0.05, "active":1.5, "cooldown":2, "power":9, "range":600, "energy":0, "parts":1, "shopLevel":2, "price": 24},
@@ -136,6 +138,7 @@
 		},
 		{
 			"item":"repair",
+			"weight": 1,
 			"entries":[
 				{"level":1,  "name":"$repair.zero", "warmup":0.5, "active":16, "cooldown":66, "power":2.83, "energy":0, "parts":1, "shopLevel":1, "price":0},
 				{"level":3,  "name":"$repair.4", "warmup":0.5, "active":16, "cooldown":66, "power":2.83, "energy":10, "parts":1, "shopLevel":1, "price":17},
@@ -209,6 +212,7 @@
 		},
 		{
 			"item":"afterburner",
+			"weight": 1,
 			"entries":[
 				{"level":3,  "name":"$afterburner.4", "warmup":0.05, "active":10, "cooldown":41.9, "boost":62, "energy":4, "parts":1, "shopLevel": 2, "price":32},
 				{"level":7,  "name":"$afterburner.7", "warmup":0.05, "active":10, "cooldown":40.3, "boost":65, "energy":16, "parts":1, "shopLevel": 4, "price":55},
@@ -281,6 +285,7 @@
 		},
 		{
 			"item":"rocket",
+			"weight": 1.0441,
 			"entries":[
 				{"level":9,  "name":"$rocket.9", "warmup":0.05, "active":1, "cooldown":11.5, "power":15.02, "range":4, "speed":1.5, "accuracy":-20, "critical":0, "aoe":0, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier": 75, "energy":15, "parts":1, "price":120},
 				{"level":11,  "name":"$rocket.11", "warmup":0.05, "active":1, "cooldown":11.5, "power":19.18, "range":4, "speed":1.5, "accuracy":-20, "critical":0, "aoe":0, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier": 75, "energy":18, "parts":1, "price":224},
@@ -351,6 +356,7 @@
 		},
 		{
 			"item":"aim",
+			"weight": 1.0368,
 			"entries":[
 				{"level":7, "name":"$aim.7", "warmup":0.05, "active":48.8, "cooldown":86.3, "accuracy":40.50, "critical":25, "energy":7, "parts":1, "price":76},
 				{"level":9, "name":"$aim.9", "warmup":0.05, "active":48.8, "cooldown":86.3, "accuracy":40.50, "critical":25, "energy":10, "parts":1, "price":103},
@@ -422,6 +428,7 @@
 		},
 		{
 			"item":"perforator",
+			"weight": 0.9153,
 			"entries":[
 				{"level":17, "name":"$perforator.17", "warmup":0.05, "active":50, "cooldown":70, "perforation":83, "levelfactor":1, "energy":45, "parts":2, "price":652},
 				{"level":19, "name":"$perforator.19", "warmup":0.05, "active":50, "cooldown":70, "perforation":83, "levelfactor":1, "energy":50, "parts":2, "price":701},
@@ -479,6 +486,7 @@
 		},
 		{
 			"item":"timedamage",
+			"weight": 1.0119,
 			"entries":[
 				{"level":27, "name":"$timedamage.27", "warmup":0.05, "active":15, "cooldown":69.8, "power":18.07, "range":4, "energy":84, "parts":3, "price":1505},
 				{"level":29, "name":"$timedamage.29", "warmup":0.05, "active":15, "cooldown":69.8, "power":23.08, "range":4, "energy":90, "parts":4, "price":1627},
@@ -534,6 +542,7 @@
 		},
 		{
 			"item":"shield",
+			"weight": 1.0896,
 			"entries":[
 				{"level":4, "name":"$shield.ion4", "warmup":3, "active":35.3, "cooldown":93.7, "power":45.64, "energy":10, "parts":1, "price":42},
 				{"level":7, "name":"$shield.ion7", "warmup":1, "active":35.3, "cooldown":93.7, "power":65.94, "energy":14, "parts":1, "price":76},
@@ -606,6 +615,7 @@
 		},
 		{
 			"item":"taunt",
+			"weight": 1.3082,
 			"entries":[
 				{"level":9, "name":"$taunt.9", "warmup":0.05, "active":25, "cooldown":74.8, "aggro":24.06, "range":5.5, "levelfactor":2.5, "repairreduction":0.2, "damageincrease":0.13, "energy":10, "parts":1, "price":120},
 				{"level":11, "name":"$taunt.11", "warmup":0.05, "active":25, "cooldown":74.8, "aggro":30.7, "range":5.5, "levelfactor":2.5, "repairreduction":0.2, "damageincrease":0.13, "energy":12, "parts":1, "price":224},
@@ -676,6 +686,7 @@
 		},
 		{
 			"item":"flare",
+			"weight": 1.0756,
 			"entries":[
 				{"level":17, "name":"$flare.17", "warmup":0.05, "active":23.5, "cooldown":67.5, "accuracy":56, "levelfactor":7.5, "energy":36, "parts":2, "price":652},
 				{"level":19, "name":"$flare.19", "warmup":0.05, "active":23.5, "cooldown":67.5, "accuracy":56, "levelfactor":7.5, "energy":40, "parts":2, "price":701},
@@ -739,6 +750,7 @@
 		},
 		{
 			"item":"bomb",
+			"weight": 0.9794,
 			"entries":[
 				{"level":27, "name":"$bomb.27", "warmup":0.5, "active":3, "cooldown":83, "power":238.57, "accuracy":10, "critical":20, "aggro":3424.67, "aoe":1.5, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":40, "energy":84, "parts":3, "price":1505},
 				{"level":29, "name":"$bomb.29", "warmup":0.5, "active":3, "cooldown":83, "power":304.61, "accuracy":10, "critical":20, "aggro":4372.68, "aoe":1.6, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":40, "energy":90, "parts":4, "price":1627},
@@ -794,6 +806,7 @@
 		},
 		{
 			"item":"remoterepair",
+			"weight": 0.9536,
 			"entries":[
 				{"level":9, "name":"$remoterepair.9", "warmup":0.05, "active":20, "cooldown":48.5, "power":4.81, "range":4.5, "energy":20, "parts":1, "price":103},
 				{"level":11, "name":"$remoterepair.11", "warmup":0.05, "active":20, "cooldown":48.5, "power":6.14, "range":4.5, "energy":24, "parts":1, "price":186},
@@ -864,6 +877,7 @@
 		},
 		{
 			"item":"protect",
+			"weight": 1.0634,
 			"entries":[
 				{"level":9, "name":"$protect.ion9", "warmup":1, "active":23, "cooldown":52, "power":47.78, "range":4.5, "levelfactor":5, "energy":15, "parts":1, "price":120},
 				{"level":11, "name":"$protect.ion11", "warmup":1, "active":23, "cooldown":52, "power":60.98, "range":4.5, "levelfactor":5, "energy":18, "parts":1, "price":224},
@@ -934,6 +948,7 @@
 		},
 		{
 			"item":"repairfield",
+			"weight": 0.9583,
 			"entries":[
 				{"level":17, "name":"$repairfield.17", "warmup":0.05, "active":20, "cooldown":80, "power":10.33, "aoe":1, "energy":54, "parts":2, "price":652},
 				{"level":19, "name":"$repairfield.19", "warmup":0.05, "active":20, "cooldown":80, "power":13.19, "aoe":1.05, "energy":60, "parts":2, "price":701},
@@ -997,6 +1012,7 @@
 		},
 		{
 			"item":"resurrect",
+			"weight": 0.9261,
 			"entries":[
 				{"level":27, "name":"$resurrect.27", "warmup":0.5, "active":20, "cooldown":60, "range":1, "energy":112, "parts":3, "price":1505},
 				{"level":29, "name":"$resurrect.29", "warmup":0.5, "active":20, "cooldown":60, "range":1, "energy":120, "parts":4, "price":1627},
@@ -1052,6 +1068,7 @@
 		},
 		{
 			"item":"speedbuff",
+			"weight": 0.9406,
 			"entries":[
 				{"level":9, "name":"$speedbuff.9", "warmup":0.05, "active":55, "cooldown":109.9, "buff":118, "buffcap":140, "range":4.5, "levelfactor":5, "energy":20, "parts":1, "price":120},
 				{"level":11, "name":"$speedbuff.11", "warmup":0.05, "active":55, "cooldown":109.9, "buff":118, "buffcap":140, "range":4.5, "levelfactor":5, "energy":24, "parts":1, "price":224},
@@ -1122,6 +1139,7 @@
 		},
 		{
 			"item":"stunbuff",
+			"weight": 0.9383,
 			"entries":[
 				{"level":9, "name":"$stunbuff.9", "warmup":0.05, "active":12.1, "cooldown":57, "buff":60, "range":4, "speedmultiplier":129.50, "levelfactor":2.5, "energy":20, "parts":1, "price":103},
 				{"level":11, "name":"$stunbuff.11", "warmup":0.05, "active":12.5, "cooldown":57.5, "buff":60, "range":4, "speedmultiplier":129.50, "levelfactor":2.5, "energy":24, "parts":1, "price":186},
@@ -1192,6 +1210,7 @@
 		},
 		{
 			"item":"aggrobeacon",
+			"weight": 1.124,
 			"entries":[
 				{"level":17, "name":"$aggrobeacon.17", "warmup":0.5, "active":60, "cooldown":150, "spawns":"Beacon17", "hitpoints":319.4, "power":2.66, "aggro":78.19, "penalty":2.58, "range":3.2, "aoe":2.55, "aoetargetswithoutpenalty":10, "aoeminimumdamagemultiplier":10, "energy":63, "parts":2, "price":652},
 				{"level":19, "name":"$aggrobeacon.19", "warmup":0.5, "active":60, "cooldown":150, "spawns":"Beacon19", "hitpoints":407.8, "power":3.4, "aggro":99.83, "penalty":3.29, "range":3.2, "aoe":2.55, "aoetargetswithoutpenalty":10, "aoeminimumdamagemultiplier":10, "energy":70, "parts":2, "price":701},
@@ -1255,6 +1274,7 @@
 		},
 		{
 			"item":"stundome",
+			"weight": 0.9572,
 			"entries":[
 				{"level":27, "name":"$stundome.27", "warmup":1, "active":11.5, "cooldown":87, "buff":54, "range":4, "aoe":1.6,"speedmultiplier":100, "levelfactor":5, "energy":84, "parts":3, "price":1505},
 				{"level":29, "name":"$stundome.29", "warmup":1, "active":11.5, "cooldown":87, "buff":54, "range":4, "aoe":1.6,"speedmultiplier":100, "levelfactor":5, "energy":90, "parts":4, "price":1627},
@@ -1310,6 +1330,7 @@
 		},
 		{
 			"item":"sniperblaster",
+			"weight": 0.946,
 			"entries":[
 				{"level":42, "name":"$sniperblaster.rare.mizar", "warmup":0.1, "active":1, "cooldown":5.4, "power":623.94, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":42, "parts":11, "price":7328},
 				{"level":59, "name":"$sniperblaster.rare.sol", "warmup":0.1, "active":1, "cooldown":5.4, "power":4982.83, "range":3, "speed":5, "accuracy":100, "critical":20, "energy":60, "parts":14, "price":17404},
@@ -1343,7 +1364,15 @@
 			]
 		},
 		{
+			"item":"attackdroid",
+			"weight": 0.9742,
+			"entries":[
+				
+			]
+		},
+		{
 			"item":"orbitalstrike",
+			"weight": 0.9872,
 			"entries":[
 				{"level":42, "name":"$orbitalstrike.rare.mizar", "warmup":0.05, "active":1.2, "cooldown":33.45, "spawns":"MizarRareOrbitalSolid", "power":1676.85, "critical":20, "range":3, "aoe":1.8, "aoetargetswithoutpenalty":3, "aoeminimumdamagemultiplier":0, "energy":116, "parts":11, "price":8127},
 				{"level":59, "name":"$orbitalstrike.rare.sol", "warmup":0.05, "active":1.2, "cooldown":33.45, "spawns":"SolRareOrbitalSolid", "power":13391.36, "critical":20, "range":3, "aoe":1.8, "aoetargetswithoutpenalty":3, "aoeminimumdamagemultiplier":0, "energy":150, "parts":14, "price":19305},
@@ -1378,6 +1407,7 @@
 		},
 		{
 			"item":"attackbuff",
+			"weight": 1.0112,
 			"entries":[
 				{"level":42, "name":"$attackbuff.rare.mizar", "warmup":0.05, "active":56.1, "cooldown":112.2, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":86, "parts":11, "price":8206},
 				{"level":59, "name":"$attackbuff.rare.sol", "warmup":0.05, "active":59.4, "cooldown":119.9, "buff":120, "buffcap":132, "range":4500, "levelfactor":1, "energy":120, "parts":14, "price":19492},
@@ -1411,13 +1441,8 @@
 			]
 		},
 		{
-			"item":"attackdroid",
-			"entries":[
-				
-			]
-		},
-		{
 			"item":"repairturret",
+			"weight": 1.0512,
 			"entries":[
 				{"level":42, "name":"$repairturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":198, "spawns":"MizarRareRepairFieldTurret", "power":116.99, "hitpoints":4913.56, "aoe":1650, "aoetargetswithoutpenalty":5, "aoeminimumdamagemultiplier":10, "energy":129, "parts":11, "price":7923},
 				{"level":59, "name":"$repairturret.rare.sol", "warmup":0.5, "active":132, "cooldown":198, "spawns":"SolRareRepairFieldTurret", "power":934.28, "hitpoints":39239.79, "aoe":1650, "aoetargetswithoutpenalty":5, "aoeminimumdamagemultiplier":10, "energy":182, "parts":14, "price":17274},
@@ -1445,6 +1470,7 @@
 		},
 		{
 			"item":"attackturret",
+			"weight": 1.0669,
 			"entries":[
 				{"level":42, "name":"$attackturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":204, "spawns":"MizarRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.mizar", "hitpoints":4913.56, "aoe":1650, "energy":129, "parts":11, "price":7931},
 				{"level":59, "name":"$attackturret.rare.sol", "warmup":0.5, "active":132, "cooldown":204, "spawns":"SolRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.sol", "hitpoints":39239.79, "aoe":1650, "energy":182, "parts":14, "price":17373},
@@ -1472,6 +1498,7 @@
 		},
 		{
 			"item":"stickybomb",
+			"weight": 1.0249,
 			"entries":[
 				{"level":42, "name":"$stickybomb.rare.mizar", "warmup":0.05, "active":4, "cooldown":70, "power":1520.86, "accuracy":100, "critical":20, "aggro":3269.85, "range":3400, "aoe":1800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":129, "parts": 11, "price":8493},
 				{"level":59, "name":"$stickybomb.rare.sol", "warmup":0.05, "active":4, "cooldown":70, "power":12145.65, "accuracy":100, "critical":20, "aggro":26113.15, "range":3400, "aoe":1800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":182, "parts": 14, "price":18492},
@@ -1499,6 +1526,7 @@
 		},
 		{
 			"item":"mine",
+			"weight": 1.044,
 			"entries":[
 				{"level":42, "name":"$mine.rare.mizar", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"MizarRareMine", "hitpoints":4.97, "power":1220.59, "critical":20, "aggressionrange":2800, "aggro":549.27, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":142, "parts": 11, "price":8684},
 				{"level":59, "name":"$mine.rare.sol", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"SolRareMine", "hitpoints":39.72, "power":9747.66, "critical":20, "aggressionrange":2800, "aggro":4386.45, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":199, "parts": 14, "price":19163},
@@ -1525,45 +1553,64 @@
 			]
 		},
 		{
-			"item":"rangeleech",
+			"item":"lightningchain",
+			"weight": 1.0365,
 			"entries":[
-				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "price":9361},
-				{"level":59, "name":"$rangeleech.rare.sol", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":192, "parts": 14, "price":20297},
-				{"level":69, "name":"$rangeleech.rare.draconis", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":225, "parts": 15, "price":97573},
-				{"level":81, "name":"$rangeleech.sirius.quick.sirius", "warmup":0.05, "active":52.1, "cooldown":120.45, "buff":38, "range":4800, "energy":269, "parts": 15, "price":121966},
-				{"level":81, "name":"$rangeleech.sirius.sirius", "warmup":0.05, "active":44, "cooldown":120.45, "buff":45, "range":4800, "energy":269, "parts": 15, "price":121967},
-				{"level":81, "name":"$rangeleech.sirius.strong.sirius", "warmup":0.05, "active":36, "cooldown":120.45, "buff":55, "range":4800, "energy":269, "parts": 15, "price":121968},
-				{"level":84, "name":"$rangeleech.84", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":273, "parts": 12, "price":198196},
-				{"level":86, "name":"$rangeleech.86", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":280, "parts": 12, "price":216491},
-				{"level":88, "name":"$rangeleech.88", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":286, "parts": 12, "price":234786},
-				{"level":90, "name":"$rangeleech.90", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":293, "parts": 12, "price":253082},
-				{"level":92, "name":"$rangeleech.92", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":299, "parts": 12, "price":271376},
-				{"level":94, "name":"$rangeleech.94", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":306, "parts": 12, "price":289671},
-				{"level":96, "name":"$rangeleech.96", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":312, "parts": 15, "price":307966},
-				{"level":98, "name":"$rangeleech.98", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":319, "parts": 16, "price":326261},
-				{"level":98, "name":"$rangeleech.rare.tauceti", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":319, "parts": 22, "price":652521}
+				{"level":42, "name":"$lightningchain.rare.mizar", "warmup":0.05, "delay":0.2, "cooldown":22, "power":584.95, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 95, "parts": 11, "shopLevel": 37, "price":9036},
+				{"level":59, "name":"$lightningchain.rare.sol", "warmup":0.05, "delay":0.2, "cooldown":22, "power":4671.40, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 133, "parts": 14, "shopLevel": 54, "price":19592},
+				{"level":69, "name":"$lightningchain.rare.draconis", "warmup":0.05, "delay":0.2, "cooldown":22, "power":15857.39, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 156, "parts": 16, "shopLevel": 64, "price":94184},
+				{"level":81, "name":"$lightningchain.sirius.quick.sirius", "warmup":0.05, "delay":0.2, "cooldown":14.67, "power":33289.95, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 128, "parts": 12, "shopLevel": 76, "price":117730},
+				{"level":81, "name":"$lightningchain.sirius.sirius", "warmup":0.05, "delay":0.2, "cooldown":22, "power":49934.93, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 192, "parts": 12, "shopLevel": 76, "price":117731},
+				{"level":81, "name":"$lightningchain.sirius.strong.sirius", "warmup":0.05, "delay":0.2, "cooldown":33.01, "power":74902.40, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 288, "parts": 12, "shopLevel": 76, "price":117732},
+				{"level":84, "name":"$lightningchain.84", "warmup":0.05, "delay":0.2, "cooldown":20, "power":61172.19, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 189, "parts": 16, "shopLevel": 79, "price":191313},
+				{"level":86, "name":"$lightningchain.86", "warmup":0.05, "delay":0.2, "cooldown":20, "power":67969.11, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 194, "parts": 15, "shopLevel": 81, "price":208972},
+				{"level":88, "name":"$lightningchain.88", "warmup":0.05, "delay":0.2, "cooldown":20, "power":74766.02, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 198, "parts": 13, "shopLevel": 83, "price":226632},
+				{"level":90, "name":"$lightningchain.90", "warmup":0.05, "delay":0.2, "cooldown":20, "power":81562.92, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 203, "parts": 13, "shopLevel": 85, "price":244292},
+				{"level":92, "name":"$lightningchain.92", "warmup":0.05, "delay":0.2, "cooldown":20, "power":88359.83, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 207, "parts": 14, "shopLevel": 87, "price":261952},
+				{"level":94, "name":"$lightningchain.94", "warmup":0.05, "delay":0.2, "cooldown":20, "power":95156.75, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 212, "parts": 14, "shopLevel": 89, "price":279611},
+				{"level":96, "name":"$lightningchain.96", "warmup":0.05, "delay":0.2, "cooldown":20, "power":101953.65, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 216, "parts": 15, "shopLevel": 91, "price":297271},
+				{"level":98, "name":"$lightningchain.98", "warmup":0.05, "delay":0.2, "cooldown":20, "power":108750.56, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 221, "parts": 16, "shopLevel": 93, "price":314930},
+				{"level":98, "name":"$lightningchain.rare.tauceti", "warmup":0.05, "delay":0.2, "cooldown":22, "power":125063.14, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 221, "parts": 22, "shopLevel": 93, "price":629860}
 			]
 		},
 		{
-			"item":"magnetarray",
+			"item":"magnetarraylauncher",
+			"weight": 1.0834,
 			"entries":[
 				
+			]
+		},
+		{
+			"item":"targetteleportation",
+			"weight": 1.2852,
+			"entries":[
+				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":65, "parts":11, "shopLevel": 37, "price":8111},
+				{"level":59, "name":"$targetteleportation.rare.sol", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":91, "parts":12, "shopLevel": 54, "price":17586},
+				{"level":69, "name":"$targetteleportation.rare.draconis", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":106, "parts":14, "shopLevel": 64, "price":84540},
+				{"level":81, "name":"$targetteleportation.sirius.quick.sirius", "warmup":0.05, "active":1, "cooldown":8.2, "range":5053, "offset":125, "energy":96, "parts":15, "shopLevel": 76, "price":105675},
+				{"level":81, "name":"$targetteleportation.sirius.sirius", "warmup":0.05, "active":1, "cooldown":10.9, "range":6720, "offset":125, "energy":128, "parts":15, "shopLevel": 76, "price":105676},
+				{"level":81, "name":"$targetteleportation.sirius.strong.sirius", "warmup":0.05, "active":1, "cooldown":14.5, "range":8938, "offset":125, "energy":170, "parts":15, "shopLevel": 76, "price":105677},
+				{"level":84, "name":"$targetteleportation.84", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":126, "parts":9, "shopLevel": 79, "price":171723},
+				{"level":86, "name":"$targetteleportation.86", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":129, "parts":17, "shopLevel": 81, "price":187574},
+				{"level":88, "name":"$targetteleportation.88", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":132, "parts":13, "shopLevel": 83, "price":203425},
+				{"level":90, "name":"$targetteleportation.90", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":135, "parts":13, "shopLevel": 85, "price":219277},
+				{"level":92, "name":"$targetteleportation.92", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":138, "parts":14, "shopLevel": 87, "price":235128},
+				{"level":94, "name":"$targetteleportation.94", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":141, "parts":14, "shopLevel": 89, "price":250980},
+				{"level":96, "name":"$targetteleportation.96", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":144, "parts":15, "shopLevel": 91, "price":266831},
+				{"level":98, "name":"$targetteleportation.98", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":147, "parts":16, "shopLevel": 93, "price":282682},
+				{"level":98, "name":"$targetteleportation.rare.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":150, "parts":22, "shopLevel": 93, "price":565364}
 			]
 		},
 		{
 			"item":"nanitecloud",
-			"entries":[
-				
-			]
-		},
-		{
-			"item":"formationaura",
+			"weight": 1.2659,
 			"entries":[
 				
 			]
 		},
 		{
 			"item":"damageconverter",
+			"weight": 0.8023,
 			"entries":[
 				{"level":42, "name":"$damageconverter.rare.mizar", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":116, "parts":13, "price":9561},
 				{"level":59, "name":"$damageconverter.rare.sol", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":163, "parts":14, "price":20731},
@@ -1583,27 +1630,15 @@
 			]
 		},
 		{
-			"item":"targetteleportation",
+			"item":"formationaura",
+			"weight": 0.7588,
 			"entries":[
-				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":65, "parts":11, "price":8111},
-				{"level":59, "name":"$targetteleportation.rare.sol", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":91, "parts":12, "price":17586},
-				{"level":69, "name":"$targetteleportation.rare.draconis", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":106, "parts":14, "price":84540},
-				{"level":81, "name":"$targetteleportation.sirius.quick.sirius", "warmup":0.05, "active":1, "cooldown":8.2, "range":5.053, "offset":125, "energy":96, "parts":15, "price":105675},
-				{"level":81, "name":"$targetteleportation.sirius.sirius", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.72, "offset":125, "energy":128, "parts":15, "price":105676},
-				{"level":81, "name":"$targetteleportation.sirius.strong.sirius", "warmup":0.05, "active":1, "cooldown":14.5, "range":8.938, "offset":125, "energy":170, "parts":15, "price":105677},
-				{"level":84, "name":"$targetteleportation.84", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":126, "parts":9, "price":171723},
-				{"level":86, "name":"$targetteleportation.86", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":129, "parts":17, "price":187574},
-				{"level":88, "name":"$targetteleportation.88", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":132, "parts":13, "price":203425},
-				{"level":90, "name":"$targetteleportation.90", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":135, "parts":13, "price":219277},
-				{"level":92, "name":"$targetteleportation.92", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":138, "parts":14, "price":235128},
-				{"level":94, "name":"$targetteleportation.94", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":141, "parts":14, "price":250980},
-				{"level":96, "name":"$targetteleportation.96", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":144, "parts":15, "price":266831},
-				{"level":98, "name":"$targetteleportation.98", "warmup":0.05, "active":1, "cooldown":10, "range":6, "offset":250, "energy":147, "parts":16, "price":282682},
-				{"level":98, "name":"$targetteleportation.rare.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6.6, "offset":125, "energy":150, "parts":22, "price":565364}
+				
 			]
 		},
 		{
 			"item":"deflectionrobot",
+			"weight": 1.1348,
 			"entries":[
 				{"level":42, "name":"$deflectionrobotlauncher.rare.mizar", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":1356.40,  "energy":130, "parts":13, "price":8294},
 				{"level":59, "name":"$deflectionrobotlauncher.rare.sol", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"", "speed":2.2, "hitpoints":12457.08, "energy":180, "parts":14, "price":17984},
@@ -1623,23 +1658,24 @@
 			]
 		},
 		{
-			"item":"lightningchain",
+			"item":"rangeleech",
+			"weight": 1.0991,
 			"entries":[
-				{"level":42, "name":"$lightningchain.rare.mizar", "warmup":0.05, "delay":0.2, "cooldown":22, "power":584.95, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 95, "parts": 11, "price":9036},
-				{"level":59, "name":"$lightningchain.rare.sol", "warmup":0.05, "delay":0.2, "cooldown":22, "power":4671.40, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 133, "parts": 14, "price":19592},
-				{"level":69, "name":"$lightningchain.rare.draconis", "warmup":0.05, "delay":0.2, "cooldown":22, "power":15857.39, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 156, "parts": 16, "price":94184},
-				{"level":81, "name":"$lightningchain.sirius.quick.sirius", "warmup":0.05, "delay":0.2, "cooldown":14.67, "power":33289.95, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 128, "parts": 12, "price":117730},
-				{"level":81, "name":"$lightningchain.sirius.sirius", "warmup":0.05, "delay":0.2, "cooldown":22, "power":49934.93, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 192, "parts": 12, "price":117731},
-				{"level":81, "name":"$lightningchain.sirius.strong.sirius", "warmup":0.05, "delay":0.2, "cooldown":33.01, "power":74902.40, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 288, "parts": 12, "price":117732},
-				{"level":84, "name":"$lightningchain.84", "warmup":0.05, "delay":0.2, "cooldown":20, "power":61172.19, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 189, "parts": 16, "price":191313},
-				{"level":86, "name":"$lightningchain.86", "warmup":0.05, "delay":0.2, "cooldown":20, "power":67969.11, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 194, "parts": 15, "price":208972},
-				{"level":88, "name":"$lightningchain.88", "warmup":0.05, "delay":0.2, "cooldown":20, "power":74766.02, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 198, "parts": 13, "price":226632},
-				{"level":90, "name":"$lightningchain.90", "warmup":0.05, "delay":0.2, "cooldown":20, "power":81562.92, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 203, "parts": 13, "price":244292},
-				{"level":92, "name":"$lightningchain.92", "warmup":0.05, "delay":0.2, "cooldown":20, "power":88359.83, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 207, "parts": 14, "price":261952},
-				{"level":94, "name":"$lightningchain.94", "warmup":0.05, "delay":0.2, "cooldown":20, "power":95156.75, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 212, "parts": 14, "price":279611},
-				{"level":96, "name":"$lightningchain.96", "warmup":0.05, "delay":0.2, "cooldown":20, "power":101953.65, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 216, "parts": 15, "price":297271},
-				{"level":98, "name":"$lightningchain.98", "warmup":0.05, "delay":0.2, "cooldown":20, "power":108750.56, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 221, "parts": 16, "price":314930},
-				{"level":98, "name":"$lightningchain.rare.tauceti", "warmup":0.05, "delay":0.2, "cooldown":22, "power":125063.14, "range":2.72, "links":7, "powerincreaseperlink":25, "energy": 221, "parts": 22, "price":629860}
+				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "shopLevel": 37, "price":9361},
+				{"level":59, "name":"$rangeleech.rare.sol", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":192, "parts": 14, "shopLevel": 54, "price":20297},
+				{"level":69, "name":"$rangeleech.rare.draconis", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":225, "parts": 15, "shopLevel": 64, "price":97573},
+				{"level":81, "name":"$rangeleech.sirius.quick.sirius", "warmup":0.05, "active":52.1, "cooldown":120.45, "buff":38, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":121966},
+				{"level":81, "name":"$rangeleech.sirius.sirius", "warmup":0.05, "active":44, "cooldown":120.45, "buff":45, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":121967},
+				{"level":81, "name":"$rangeleech.sirius.strong.sirius", "warmup":0.05, "active":36, "cooldown":120.45, "buff":55, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":121968},
+				{"level":84, "name":"$rangeleech.84", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":273, "parts": 12, "shopLevel": 79, "price":198196},
+				{"level":86, "name":"$rangeleech.86", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":280, "parts": 12, "shopLevel": 81, "price":216491},
+				{"level":88, "name":"$rangeleech.88", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":286, "parts": 12, "shopLevel": 83, "price":234786},
+				{"level":90, "name":"$rangeleech.90", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":293, "parts": 12, "shopLevel": 85, "price":253082},
+				{"level":92, "name":"$rangeleech.92", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":299, "parts": 12, "shopLevel": 87, "price":271376},
+				{"level":94, "name":"$rangeleech.94", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":306, "parts": 12, "shopLevel": 89, "price":289671},
+				{"level":96, "name":"$rangeleech.96", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":312, "parts": 15, "shopLevel": 91, "price":307966},
+				{"level":98, "name":"$rangeleech.98", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":319, "parts": 16, "shopLevel": 93, "price":326261},
+				{"level":98, "name":"$rangeleech.rare.tauceti", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":319, "parts": 22, "shopLevel": 93, "price":652521}
 			]
 		}
 	]
