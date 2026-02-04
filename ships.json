@@ -3,6 +3,10 @@
     "data": {
         "classes": [
             {
+                "name": "custom",
+                "items": []
+            },
+            {
                 "name": "raider",
                 "items": [
                     "blaster",
@@ -47,7 +51,7 @@
                     "remoterepair",
                     "protect",
                     "repairfield",
-                    "resurrector"
+                    "resurrect"
                 ]
             },
             {
@@ -118,15 +122,33 @@
         ],
         "entries": [
             {
+                "name": "Custom RDX Ship",
+                "class": "custom",
+                "speed": 0,
+                "itempenalty": 0,
+                "armors": [
+                    {"name": "$armor.mizar", "level": 43, "health": 0, "price": 0},
+                    {"name": "$armor.sol", "level": 55, "health": 0, "price": 342950},
+                    {"name": "$armor.soladvanced", "level": 60, "health": 0, "price": 363526},
+                    {"name": "$armor.draconis", "level": 70, "health": 0, "price": 432117},
+                    {"name": "$armor.sirius", "level": 76, "health": 0, "price": 535002},
+                    {"name": "$armor.ancient", "level": 82, "health": 0, "price": 685900},
+                    {"name": "$armor.tauceti", "level": 91, "health": 0, "price": 877952},
+                    {"name": "$armor.taucetiadvanced", "level": 99, "health": 0, "price": 1118017}
+                ],
+                "icon": "RDX11"
+            },
+            {
                 "name": "Phoenix S Transport",
                 "class": "raider",
                 "speed": 684,
                 "itempenalty": 0,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 3, "health": 35},
+                    {"name": "$armor.bulwark", "level": 3, "health": 35, "price": 5},
                     {"name": "$armor.thermograde", "level": 16, "health": 72},
                     {"name": "$armor.deluvian", "level": 17, "health": 82}
-                ]
+                ],
+                "icon": "RV1"
             },
             {
                 "name": "AnIn-1300 Light Transport",
@@ -134,10 +156,11 @@
                 "speed": 835.9,
                 "itempenalty": 0,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 6, "health": 54},
+                    {"name": "$armor.bulwark", "level": 6, "health": 54, "price": 15},
                     {"name": "$armor.thermograde", "level": 16, "health": 112},
                     {"name": "$armor.deluvian", "level": 17, "health": 126}
-                ]
+                ],
+                "icon": "RV2"
             },
             {
                 "name": "AnIn-X Colonial Lifter",
@@ -145,10 +168,11 @@
                 "speed": 901.38,
                 "itempenalty": 0,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 8, "health": 86},
+                    {"name": "$armor.bulwark", "level": 8, "health": 86, "price": 65},
                     {"name": "$armor.thermograde", "level": 16, "health": 178},
                     {"name": "$armor.deluvian", "level": 17, "health": 202}
-                ]
+                ],
+                "icon": "CL"
             },
             {
                 "name": "AnIn-1450 Armored Transport",
@@ -156,10 +180,11 @@
                 "speed":  835.9,
                 "itempenalty": 3,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 8, "health": 69},
+                    {"name": "$armor.bulwark", "level": 8, "health": 69, "price": 251},
                     {"name": "$armor.thermograde", "level": 16, "health": 143},
                     {"name": "$armor.deluvian", "level": 17, "health": 162}
-                ]
+                ],
+                "icon": "RV3"
             },
             {
                 "name": "AnIn-1800 Rapid Tank",
@@ -167,10 +192,11 @@
                 "speed":  757.33,
                 "itempenalty": 3,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 9, "health": 111},
+                    {"name": "$armor.bulwark", "level": 9, "health": 111, "price": 182},
                     {"name": "$armor.thermograde", "level": 16, "health": 230},
                     {"name": "$armor.deluvian", "level": 17, "health": 260}
-                ]
+                ],
+                "icon": "RV4"
             },
             {
                 "name": "AnIn-X Colonial Jet",
@@ -178,10 +204,11 @@
                 "speed":  901.38,
                 "itempenalty": 3,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 9, "health": 97},
+                    {"name": "$armor.bulwark", "level": 9, "health": 97, "price": 327},
                     {"name": "$armor.thermograde", "level": 16, "health": 201},
                     {"name": "$armor.deluvian", "level": 17, "health": 227}
-                ]
+                ],
+                "icon": "CJ"
             },
             {
                 "name": "Mantis Vega Storm",
@@ -189,10 +216,11 @@
                 "speed":  849,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 84},
+                    {"name": "$armor.bulwark", "level": 10, "health": 84, "price": 445},
                     {"name": "$armor.thermograde", "level": 16, "health": 174},
                     {"name": "$armor.deluvian", "level": 17, "health": 197}
-                ]
+                ],
+                "icon": "MVS"
             },
             {
                 "name": "Mantis Vega Tank",
@@ -200,10 +228,11 @@
                 "speed":  757.33,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 126},
+                    {"name": "$armor.bulwark", "level": 10, "health": 126, "price": 445},
                     {"name": "$armor.thermograde", "level": 16, "health": 262},
                     {"name": "$armor.deluvian", "level": 17, "health": 296}
-                ]
+                ],
+                "icon": "MVT"
             },
             {
                 "name": "AnIn-TR War Hawk",
@@ -211,10 +240,11 @@
                 "speed": 849,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 88},
+                    {"name": "$armor.bulwark", "level": 10, "health": 88, "price": 445},
                     {"name": "$armor.thermograde", "level": 16, "health": 183},
                     {"name": "$armor.deluvian", "level": 17, "health": 206}
-                ]
+                ],
+                "icon": "VTR"
             },
             {
                 "name": "AnIn-2000 Light Engineer",
@@ -222,10 +252,11 @@
                 "speed": 879.56,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 75},
+                    {"name": "$armor.bulwark", "level": 10, "health": 75, "price": 445},
                     {"name": "$armor.thermograde", "level": 16, "health": 156},
                     {"name": "$armor.deluvian", "level": 17, "health": 176}
-                ]
+                ],
+                "icon": "VE"
             },
             {
                 "name": "AnIn-2000 Space Tank",
@@ -233,10 +264,11 @@
                 "speed": 757.33,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 126},
+                    {"name": "$armor.bulwark", "level": 10, "health": 126, "price": 445},
                     {"name": "$armor.thermograde", "level": 16, "health": 262},
                     {"name": "$armor.deluvian", "level": 17, "health": 296}
-                ]
+                ],
+                "icon": "VT"
             },
             {
                 "name": "AnIn-2000 Speed Stun",
@@ -244,10 +276,11 @@
                 "speed": 863.47,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 79},
+                    {"name": "$armor.bulwark", "level": 10, "health": 79, "price": 445},
                     {"name": "$armor.thermograde", "level": 16, "health": 164},
                     {"name": "$armor.deluvian", "level": 17, "health": 185}
-                ]
+                ],
+                "icon": "VC"
             },
             {
                 "name": "AnIn-2000 Storm",
@@ -255,10 +288,11 @@
                 "speed": 849,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 84},
+                    {"name": "$armor.bulwark", "level": 10, "health": 84, "price": 445},
                     {"name": "$armor.thermograde", "level": 16, "health": 174},
                     {"name": "$armor.deluvian", "level": 17, "health": 197}
-                ]
+                ],
+                "icon": "VS"
             },
             {
                 "name": "AnIn-X Tank",
@@ -266,10 +300,11 @@
                 "speed": 803.17,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 157},
+                    {"name": "$armor.bulwark", "level": 10, "health": 157, "price": 891},
                     {"name": "$armor.thermograde", "level": 16, "health": 326},
                     {"name": "$armor.deluvian", "level": 17, "health": 368}
-                ]
+                ],
+                "icon": "VTX"
             },
             {
                 "name": "SC-SSX Overseer",
@@ -277,10 +312,11 @@
                 "speed": 955.94,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 94},
+                    {"name": "$armor.bulwark", "level": 10, "health": 94, "price": 891},
                     {"name": "$armor.thermograde", "level": 16, "health": 195},
                     {"name": "$armor.deluvian", "level": 17, "health": 220}
-                ]
+                ],
+                "icon": "VEX"
             },
             {
                 "name": "SC-X Arrow Speed",
@@ -288,10 +324,11 @@
                 "speed": 935.84,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 99},
+                    {"name": "$armor.bulwark", "level": 10, "health": 99, "price": 891},
                     {"name": "$armor.thermograde", "level": 16, "health": 205},
                     {"name": "$armor.deluvian", "level": 17, "health": 232}
-                ]
+                ],
+                "icon": "VCX"
             },
             {
                 "name": "SC-X Thunderstorm",
@@ -299,10 +336,11 @@
                 "speed": 917.75,
                 "itempenalty": 2,
                 "armors": [
-                    {"name": "$armor.bulwark", "level": 10, "health": 105},
+                    {"name": "$armor.bulwark", "level": 10, "health": 105, "price": 891},
                     {"name": "$armor.thermograde", "level": 16, "health": 218},
                     {"name": "$armor.deluvian", "level": 17, "health": 246}
-                ]
+                ],
+                "icon": "VSX"
             }
         ]
     }
