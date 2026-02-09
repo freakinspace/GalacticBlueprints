@@ -1,5 +1,5 @@
 {
-    "dataset": "items",
+    "dataset": "systems",
     "data": [
         {"system": "vega", "minlevel": 1, "maxlevel": 15, "hasGolds": true, "hasAcients": true},
         {"system": "antares", "minlevel": 16, "maxlevel": 25, "hasGolds": true, "hasAcients": true},
