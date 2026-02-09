@@ -1,8 +1,7 @@
 {
 	"dataset":"items",
-	"data":[
-		{
-			"item":"blaster",
+	"data":{
+		"blaster": {
 			"weight": 1,
 			"entries":[
 				{"level":0,  "name":"$blaster.ionzero", "warmup":0.05, "active":1, "cooldown":1.65, "power":1.1, "range":3000, "speed":5000, "accuracy":10, "critical":0, "energy":0, "parts":1, "shopLevel":0, "price":0},
@@ -103,8 +102,7 @@
 				{"level":98, "name":"$blaster.conquest.range", "warmup":0.1, "active":1, "cooldown":1.8, "power":210260.27, "range":5517, "speed":5000, "accuracy":0, "critical":10, "energy":62, "parts":1, "shopLevel":93, "price":3341051}
 			]
 		},
-		{
-			"item":"collector",
+		"collector": {
 			"weight": 1,
 			"entries":[
 				{"level":0,  "name":"$collector.0", "warmup":0.05, "active":1.5, "cooldown":2, "power":4, "range":600, "energy":0, "parts":1, "shopLevel":0, "price": 0},
@@ -172,8 +170,7 @@
 				{"level":98,  "name":"$collector.conquest", "warmup":0.05, "active":1.5, "cooldown":2, "power":588, "range":600, "energy":0, "parts":0, "shopLevel":93, "price": 0}
 			]
 		},
-		{
-			"item":"repair",
+		"repair": {
 			"weight": 1,
 			"entries":[
 				{"level":1,  "name":"$repair.zero", "warmup":0.5, "active":16, "cooldown":66, "power":2.83, "energy":0, "parts":1, "shopLevel":1, "price":0},
@@ -273,8 +270,7 @@
 				{"level":98,  "name":"$repair.conquest.slow", "warmup":0.5, "active":90, "cooldown":225, "power":223278.75, "energy":245, "parts":1, "shopLevel":93, "price":2285280}
 			]
 		},
-		{
-			"item":"afterburner",
+		"afterburner": {
 			"weight": 1,
 			"entries":[
 				{"level":4,  "name":"$afterburner.4", "warmup":0.05, "active":10, "cooldown":41.9, "boost":62, "energy":4, "parts":1, "shopLevel": 2, "price":32},
@@ -373,8 +369,7 @@
 				{"level":98,  "name":"$afterburner.conquest.slow", "warmup":0.5, "active":21.3, "cooldown":92, "boost":60, "energy":245, "parts":1, "shopLevel":93, "price":2636090}
 			]
 		},
-		{
-			"item":"rocket",
+		"rocket": {
 			"weight": 1.0441,
 			"entries":[
 				{"level":9,  "name":"$rocket.9", "warmup":0.05, "active":1, "cooldown":11.5, "power":15.02, "range":4000, "speed":1500, "accuracy":-20, "critical":0, "aoe":0, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier": 75, "energy":15, "parts":1, "shopLevel": 7, "price":120},
@@ -444,8 +439,7 @@
 				{"level":98,  "name":"$rocket.rare.tauceti", "warmup":0.05, "active":1, "cooldown":12.65, "power":208438.56, "range":4000, "speed":1500, "accuracy":-20, "critical":0, "aoe":800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier": 75, "energy":120, "parts":22, "shopLevel": 93, "price":561877}
 			]
 		},
-		{
-			"item":"aim",
+		"aim": {
 			"weight": 1.0368,
 			"entries":[
 				{"level":7, "name":"$aim.7", "warmup":0.05, "active":48.8, "cooldown":86.3, "accuracy":40.50, "critical":25, "energy":7, "parts":1, "shopLevel": 4, "price":76},
@@ -516,8 +510,7 @@
 				{"level":98, "name":"$aimcomputer.rare.tauceti", "warmup":0.05, "active":53.68, "cooldown":94.93, "accuracy":43.20, "critical":29, "energy":80, "parts":22, "shopLevel": 93, "price":586863}
 			]
 		},
-		{
-			"item":"perforator",
+		"perforator": {
 			"weight": 0.9153,
 			"entries":[
 				{"level":17, "name":"$perforator.17", "warmup":0.05, "active":50, "cooldown":70, "perforation":83, "levelfactor":1, "energy":45, "parts":2, "shopLevel": 13, "price":652},
@@ -574,8 +567,7 @@
 				{"level":98, "name":"$perforator.rare.tauceti", "warmup":0.05, "active":55, "cooldown":79, "perforation":88, "levelfactor":1.2, "energy":243, "parts":22, "shopLevel": 93, "price":566526}
 			]
 		},
-		{
-			"item":"timedamage",
+		"timedamage": {
 			"weight": 1.0119,
 			"entries":[
 				{"level":27, "name":"$timedamage.27", "warmup":0.05, "active":15, "cooldown":69.8, "power":18.07, "range":4000, "energy":84, "parts":3, "shopLevel": 22, "price":1505},
@@ -630,8 +622,7 @@
 				{"level":98, "name":"$timedamage.rare.tauceti", "warmup":0.05, "active":16.5, "cooldown":80.17, "power":27791.81, "range":4000, "energy":240, "parts":22, "shopLevel": 93, "price":605456}
 			]
 		},
-		{
-			"item":"shield",
+		"shield": {
 			"weight": 1.0896,
 			"entries":[
 				{"level":4, "name":"$shield.ion4", "warmup":3, "active":35.3, "cooldown":93.7, "power":45.64, "energy":10, "parts":1, "shopLevel": 1, "price":42},
@@ -703,8 +694,7 @@
 				{"level":98, "name":"$shield.rare.tauceti", "warmup":1, "active":37.9, "cooldown":96.3, "power":1167256.00, "energy":160, "parts":22, "shopLevel": 93, "price":592673}
 			]
 		},
-		{
-			"item":"taunt",
+		"taunt": {
 			"weight": 1.3082,
 			"entries":[
 				{"level":9, "name":"$taunt.9", "warmup":0.05, "active":25, "cooldown":74.8, "aggro":24.06, "range":5500, "levelfactor":2.5, "repairreduction":0.2, "damageincrease":0.13, "energy":10, "parts":1, "shopLevel": 7, "price":120},
@@ -774,8 +764,7 @@
 				{"level":98, "name":"$taunt.rare.tauceti", "warmup":0.05, "active":27.5, "cooldown":82.28, "aggro":333718.47, "range":6, "levelfactor":2.5, "repairreduction":0.22, "damageincrease":0.15, "energy":80, "parts":22, "shopLevel": 93, "price":563039}
 			]
 		},
-		{
-			"item":"flare",
+		"flare": {
 			"weight": 1.0756,
 			"entries":[
 				{"level":17, "name":"$flare.17", "warmup":0.05, "active":23.5, "cooldown":67.5, "accuracy":56, "levelfactor":7.5, "energy":36, "parts":2, "shopLevel": 13, "price":652},
@@ -838,8 +827,7 @@
 				{"level":98, "name":"$flare.rare.tauceti", "warmup":0.05, "active":25.85, "cooldown":74.25, "accuracy":59.7, "levelfactor":10, "energy":160, "parts":22, "shopLevel": 93, "price":568850}
 			]
 		},
-		{
-			"item":"bomb",
+		"bomb": {
 			"weight": 0.9794,
 			"entries":[
 				{"level":27, "name":"$bomb.27", "warmup":0.5, "active":3, "cooldown":83, "power":238.57, "accuracy":10, "critical":20, "aggro":3424.67, "aoe":1500, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":40, "energy":84, "parts":3, "shopLevel": 22, "price":1505},
@@ -894,8 +882,7 @@
 				{"level":98, "name":"$bomb.rare.tauceti", "warmup":0.5, "active":3, "cooldown":91, "power":366851.88, "accuracy":10, "critical":20, "aggro":5266158.5, "aoe":1800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":40, "energy":243, "parts":22, "shopLevel": 93, "price":606618}
 			]
 		},
-		{
-			"item":"remoterepair",
+		"remoterepair": {
 			"weight": 0.9536,
 			"entries":[
 				{"level":9, "name":"$remoterepair.9", "warmup":0.05, "active":20, "cooldown":48.5, "power":4.81, "range":4500, "energy":20, "parts":1, "shopLevel": 7, "price":103},
@@ -965,8 +952,7 @@
 				{"level":98, "name":"$remoterepair.rare.tauceti", "warmup":0.05, "active":22, "cooldown":53.35, "power":66700.34, "range":4500, "energy":160, "parts":22, "shopLevel": 93, "price":575241}
 			]
 		},
-		{
-			"item":"protect",
+		"protect": {
 			"weight": 1.0634,
 			"entries":[
 				{"level":9, "name":"$protect.ion9", "warmup":1, "active":23, "cooldown":52, "power":47.78, "range":4500, "levelfactor":5, "energy":15, "parts":1, "shopLevel": 7, "price":120},
@@ -1063,8 +1049,7 @@
 				{"level":98, "name":"$protect.conquest.short", "warmup":0.5, "active":48.8, "cooldown":122, "power":8930402.00, "range":4500, "levelfactor":5, "energy":184, "parts":1, "shopLevel": 93, "price":3240820}
 			]
 		},
-		{
-			"item":"repairfield",
+		"repairfield": {
 			"weight": 0.9583,
 			"entries":[
 				{"level":14, "name":"$repairfield.conquest", "warmup":1, "active":30, "cooldown":150, "power":6.94, "aoe":2400, "energy":53, "parts":0, "shopLevel": 11, "price":5141},
@@ -1154,8 +1139,7 @@
 				{"level":98, "name":"$repairfield.conquest.self", "warmup":1, "active":30, "cooldown":150, "power":139973.12, "aoe":1200, "energy":368, "parts":1, "shopLevel": 93, "price":3254184}
 			]
 		},
-		{
-			"item":"resurrect",
+		"resurrect": {
 			"weight": 0.9261,
 			"entries":[
 				{"level":27, "name":"$resurrect.27", "warmup":0.5, "active":20, "cooldown":60, "range":1, "energy":112, "parts":3, "shopLevel": 22, "price":1505},
@@ -1210,8 +1194,7 @@
 				{"level":98, "name":"$resurrect.rare.tauceti", "warmup":0.5, "active":16, "cooldown":60, "range":1, "energy":386, "parts":22, "shopLevel": 93, "price":609524}
 			]
 		},
-		{
-			"item":"speedbuff",
+		"speedbuff": {
 			"weight": 0.9406,
 			"entries":[
 				{"level":9, "name":"$speedbuff.9", "warmup":0.05, "active":55, "cooldown":109.9, "buff":118, "buffcap":140, "range":4500, "levelfactor":5, "energy":20, "parts":1, "shopLevel": 7, "price":120},
@@ -1308,8 +1291,7 @@
 				{"level":98, "name":"$speedbuff.conquest.zone", "warmup":0.05, "active":72, "cooldown":240, "buff":120, "buffcap":150, "range":0, "levelfactor":5, "energy":209, "parts":1, "shopLevel": 93, "price":3244160}
 			]
 		},
-		{
-			"item":"stunbuff",
+		"stunbuff": {
 			"weight": 0.9383,
 			"entries":[
 				{"level":9, "name":"$stunbuff.9", "warmup":0.05, "active":12.1, "cooldown":57, "buff":60, "range":4000, "speedmultiplier":129.50, "levelfactor":2.5, "energy":20, "parts":1, "shopLevel": 7, "price":103},
@@ -1379,8 +1361,7 @@
 				{"level":98, "name":"$stunbuff.rare.tauceti", "warmup":0.05, "active":16.1, "cooldown":66.6, "buff":63, "range":4000, "speedmultiplier":129.50, "levelfactor":2.5, "energy":160, "parts":22, "shopLevel": 93, "price":589187}
 			]
 		},
-		{
-			"item":"aggrobeacon",
+		"aggrobeacon": {
 			"weight": 1.124,
 			"entries":[
 				{"level":17, "name":"$aggrobeacon.17", "warmup":0.5, "active":60, "cooldown":150, "spawns":"Beacon17", "hitpoints":319.4, "power":2.66, "aggro":78.19, "penalty":2.58, "range":3200, "aoe":2550, "aoetargetswithoutpenalty":10, "aoeminimumdamagemultiplier":10, "energy":63, "parts":2, "shopLevel": 13, "price":652},
@@ -1443,8 +1424,7 @@
 				{"level":98, "name":"$aggrobeacon.rare.tauceti", "warmup":0.5, "active":60, "cooldown":159, "spawns":"TaucetiRarebeacon", "hitpoints":1667508.50, "power":13895.90, "aggro":408206.10, "penalty":8785.31, "range":3520, "aoe":2550, "aoetargetswithoutpenalty":10, "aoeminimumdamagemultiplier":10, "energy":344, "parts":22, "shopLevel": 93, "price":567107}
 			]
 		},
-		{
-			"item":"stundome",
+		"stundome": {
 			"weight": 0.9572,
 			"entries":[
 				{"level":27, "name":"$stundome.27", "warmup":1, "active":11.5, "cooldown":87, "buff":54, "range":4000, "aoe":1600,"speedmultiplier":100, "levelfactor":5, "energy":84, "parts":3, "shopLevel": 22, "price":1505},
@@ -1499,8 +1479,7 @@
 				{"level":98, "name":"$stundome.rare.tauceti", "warmup":1, "active":12.7, "cooldown":99.1, "buff":58, "range":4000, "aoe":1600,"speedmultiplier":100, "levelfactor":5, "energy":240, "parts":22, "shopLevel": 93, "price":608942}
 			]
 		},
-		{
-			"item":"sniperblaster",
+		"sniperblaster": {
 			"weight": 0.946,
 			"entries":[
 				{"level":42, "name":"$sniperblaster.rare.mizar", "warmup":0.1, "active":1, "cooldown":5.4, "power":623.94, "range":4900, "speed":50000, "accuracy":100, "critical":20, "energy":42, "parts":11, "shopLevel": 37, "price":7328},
@@ -1534,8 +1513,7 @@
 				{"level":98, "name":"$sniperblaster.rare.tauceti", "warmup":0.1, "active":1, "cooldown":5.4, "power":133400.69, "range":4900, "speed":50000, "accuracy":100, "critical":20, "energy":80, "parts":22, "shopLevel": 93, "price":550256}
 			]
 		},
-		{
-			"item":"attackdroid",
+		"attackdroid": {
 			"weight": 0.9742,
 			"entries":[
 				{"level":42, "name":"$attackdroid.rare.mizar", "warmup":0.5, "active":99, "cooldown":243, "spawns": "MizarRareAttackDroidFighter", "hitpoints":3295.20, "range":4000, "speed":1400, "sniperblaster":"$sniperblaster.rare.mizar", "energy":130, "parts":11, "shopLevel":37, "price":7760},
@@ -1569,8 +1547,7 @@
 				{"level":98, "name":"$attackdroid.rare.tauceti", "warmup":0.5, "active":99, "cooldown":243, "spawns": "TaucetiRareAttackDroidFighter", "hitpoints":704522.40, "range":4000, "speed":1400, "sniperblaster":"$sniperblaster.rare.tauceti", "energy":240, "parts":22, "shopLevel":93, "price":561296}
 			]
 		},
-		{
-			"item":"orbitalstrike",
+		"orbitalstrike": {
 			"weight": 0.9872,
 			"entries":[
 				{"level":42, "name":"$orbitalstrike.rare.mizar", "warmup":0.05, "active":1.2, "cooldown":33.45, "spawns":"MizarRareOrbitalSolid", "power":1676.85, "critical":20, "range":3000, "aoe":1800, "aoetargetswithoutpenalty":3, "aoeminimumdamagemultiplier":0, "energy":116, "parts":11, "shopLevel": 37, "price":8127},
@@ -1604,8 +1581,7 @@
 				{"level":98, "name":"$orbitalstrike.rare.tauceti", "warmup":0.05, "active":1.2, "cooldown":33.45, "spawns":"TaucetiRareOrbitalSolid", "power":358514.34, "critical":20, "range":3000, "aoe":1800, "aoetargetswithoutpenalty":3, "aoeminimumdamagemultiplier":0, "energy":200, "parts":22, "shopLevel": 93, "price":598484}
 			]
 		},
-		{
-			"item":"attackbuff",
+		"attackbuff": {
 			"weight": 1.0112,
 			"entries":[
 				{"level":14, "name":"$attackbuff.conquest", "warmup":0.5, "active":180, "cooldown":240, "buff":150, "buffcap":150, "range":4500, "levelfactor":5, "energy":35, "parts":0, "shopLevel": 11, "price":5490},
@@ -1666,8 +1642,7 @@
 				{"level":98, "name":"$attackbuff.conquest.zone", "warmup":0.05, "active":72, "cooldown":240, "buff":120, "buffcap":150, "range":0, "levelfactor":5, "energy":245, "parts":1, "shopLevel": 93, "price":3474692}
 			]
 		},
-		{
-			"item":"repairturret",
+		"repairturret": {
 			"weight": 1.0512,
 			"entries":[
 				{"level":42, "name":"$repairturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":198, "spawns":"MizarRareRepairFieldTurret", "power":116.99, "hitpoints":4913.56, "aoe":1650, "aoetargetswithoutpenalty":5, "aoeminimumdamagemultiplier":10, "energy":129, "parts":11, "shopLevel": 37, "price":7923},
@@ -1694,8 +1669,7 @@
 				{"level":98, "name":"$repairturret.rare.tauceti", "warmup":0.5, "active":132, "cooldown":198, "spawns":"TaucetiRareRepairFieldTurret", "power":25012.63, "hitpoints":1050530.40, "aoe":1650, "aoetargetswithoutpenalty":5, "aoeminimumdamagemultiplier":10, "energy":238, "parts":22, "shopLevel": 93, "price":551418}
 			]
 		},
-		{
-			"item":"attackturret",
+		"attackturret": {
 			"weight": 1.0669,
 			"entries":[
 				{"level":42, "name":"$attackturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":204, "spawns":"MizarRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.mizar", "hitpoints":4913.56, "aoe":1650, "energy":129, "parts":11, "shopLevel": 37, "price":7931},
@@ -1722,8 +1696,7 @@
 				{"level":98, "name":"$attackturret.rare.tauceti", "warmup":0.5, "active":132, "cooldown":204, "spawns":"TaucetiRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.tauceti", "hitpoints":1050530.40, "aoe":1650, "energy":238, "parts":22, "shopLevel": 93, "price":583957}
 			]
 		},
-		{
-			"item":"stickybomb",
+		"stickybomb": {
 			"weight": 1.0249,
 			"entries":[
 				{"level":42, "name":"$stickybomb.rare.mizar", "warmup":0.05, "active":4, "cooldown":70, "power":1520.86, "accuracy":100, "critical":20, "aggro":3269.85, "range":3400, "aoe":1800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":129, "parts": 11, "shopLevel": 37, "price":8493},
@@ -1750,8 +1723,7 @@
 				{"level":98, "name":"$stickybomb.rare.tauceti", "warmup":0.05, "active":4, "cooldown":70, "power":325164.16, "accuracy":100, "critical":20, "aggro":699102.94, "range":3400, "aoe":1800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":238, "parts": 22, "shopLevel": 93, "price":601389}
 			]
 		},
-		{
-			"item":"mine",
+		"mine": {
 			"weight": 1.044,
 			"entries":[
 				{"level":42, "name":"$mine.rare.mizar", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"MizarRareMine", "hitpoints":4.97, "power":1220.59, "critical":20, "aggressionrange":2800, "aggro":549.27, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":142, "parts": 11, "shopLevel": 37, "price":8684},
@@ -1778,8 +1750,7 @@
 				{"level":98, "name":"$mine.rare.tauceti", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"TaucetiRareMine", "hitpoints":1063.34, "power":260965.08, "critical":20, "aggressionrange":2800, "aggro":117434.29, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":263, "parts": 22, "shopLevel": 93, "price":628698}
 			]
 		},
-		{
-			"item":"lightningchain",
+		"lightningchain": {
 			"weight": 1.0365,
 			"entries":[
 				{"level":42, "name":"$lightningchain.rare.mizar", "warmup":0.05, "delay":0.2, "cooldown":22, "power":584.95, "range":2720, "links":7, "powerincreaseperlink":25, "energy": 95, "parts": 11, "shopLevel": 37, "price":9036},
@@ -1799,8 +1770,7 @@
 				{"level":98, "name":"$lightningchain.rare.tauceti", "warmup":0.05, "delay":0.2, "cooldown":22, "power":125063.14, "range":2720, "links":7, "powerincreaseperlink":25, "energy": 221, "parts": 22, "shopLevel": 93, "price":629860}
 			]
 		},
-		{
-			"item":"magnetarraylauncher",
+		"magnetarraylauncher": {
 			"weight": 1.0834,
 			"entries":[
 				{"level":42, "name":"$magnetarraylauncher.rare.mizar", "warmup":0.05, "active":110, "cooldown":176, "spawns":"MizarRareMagnetArrayProjectile", "hitpoints":3509.69, "buff":92, "range":4950, "aoe":2000, "energy":75, "parts":18, "shopLevel": 37, "price":8028},
@@ -1820,8 +1790,7 @@
 				{"level":98, "name":"$magnetarraylauncher.rare.tauceti", "warmup":0.05, "active":110, "cooldown":176, "spawns":"TaucetiRareMagnetArrayProjectile", "hitpoints":750378.80, "buff":92, "range":4950, "aoe":2000, "energy":175, "parts":22, "shopLevel": 93, "price":559553}
 			]
 		},
-		{
-			"item":"targetteleportation",
+		"targetteleportation": {
 			"weight": 1.2852,
 			"entries":[
 				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":65, "parts":11, "shopLevel": 37, "price":8111},
@@ -1841,8 +1810,7 @@
 				{"level":98, "name":"$targetteleportation.rare.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":150, "parts":22, "shopLevel": 93, "price":565364}
 			]
 		},
-		{
-			"item":"nanitecloud",
+		"nanitecloud": {
 			"weight": 1.2659,
 			"entries":[
 				{"level":42, "name":"$nanitecloudfield.rare.mizar", "warmup":0.05, "active":38.5, "cooldown":88, "buff":29, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":137, "parts": 13, "shopLevel": 37, "price":8219},
@@ -1862,8 +1830,7 @@
 				{"level":98, "name":"$nanitecloudfield.rare.tauceti", "warmup":0.05, "active":38.5, "cooldown":88, "buff":29, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":319, "parts": 22, "shopLevel": 93, "price":572917}
 			]
 		},
-		{
-			"item":"damageconverter",
+		"damageconverter": {
 			"weight": 0.8023,
 			"entries":[
 				{"level":42, "name":"$damageconverter.rare.mizar", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":116, "parts":13, "shopLevel": 37, "price":9561},
@@ -1883,8 +1850,7 @@
 				{"level":98, "name":"$damageconverter.rare.tauceti", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":270, "parts":22, "shopLevel": 93, "price":666467}
 			]
 		},
-		{
-			"item":"formationaura",
+		"formationaura": {
 			"weight": 0.7588,
 			"entries":[
 				{"level":42, "name":"$formationaura.rare.mizar", "warmup":0.05, "active":26.4, "cooldown":68.2, "reduction":48.00, "conversion":52.30, "range" :3000, "links":4, "energy":74, "parts": 13, "shopLevel": 37, "price":8744},
@@ -1904,8 +1870,7 @@
 				{"level":98, "name":"$formationaura.rare.tauceti", "warmup":0.05, "active":26.4, "cooldown":68.2, "reduction":48.00, "conversion":52.30, "range" :3000, "links":4, "energy":172, "parts": 22, "shopLevel": 93, "price":609524}
 			]
 		},
-		{
-			"item":"deflectionrobot",
+		"deflectionrobot": {
 			"weight": 1.1348,
 			"entries":[
 				{"level":42, "name":"$deflectionrobotlauncher.rare.mizar", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"MizarRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":1356.40,  "energy":130, "parts":13, "shopLevel": 37, "price":8294},
@@ -1925,8 +1890,7 @@
 				{"level":98, "name":"$deflectionrobotlauncher.rare.tauceti", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"TaucetiRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":333501.70, "energy":240, "parts":22, "shopLevel": 93, "price":578147}
 			]
 		},
-		{
-			"item":"rangeleech",
+		"rangeleech": {
 			"weight": 1.0991,
 			"entries":[
 				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "shopLevel": 37, "price":9361},
@@ -1946,5 +1910,5 @@
 				{"level":98, "name":"$rangeleech.rare.tauceti", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":319, "parts": 22, "shopLevel": 93, "price":652521}
 			]
 		}
-	]
+	}
 }
