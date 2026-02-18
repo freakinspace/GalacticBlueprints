@@ -625,7 +625,7 @@
 		"shield": {
 			"weight": 1.0896,
 			"entries":[
-				{"level":4, "name":"$shield.ion4", "warmup":3, "active":35.3, "cooldown":93.7, "power":45.64, "energy":10, "parts":1, "shopLevel": 1, "price":42},
+				{"level":4, "name":"$shield.ion4", "warmup":3, "active":35.3, "cooldown":93.7, "power":45.64, "energy":10, "parts":1, "shopLevel": 2, "price":42},
 				{"level":7, "name":"$shield.ion7", "warmup":1, "active":35.3, "cooldown":93.7, "power":65.94, "energy":14, "parts":1, "shopLevel": 4, "price":76},
 				{"level":9, "name":"$shield.ion9", "warmup":1, "active":35.3, "cooldown":93.7, "power":84.14, "energy":20, "parts":1, "shopLevel": 7, "price":103},
 				{"level":11, "name":"$shield.ion11", "warmup":1, "active":35.3, "cooldown":93.7, "power":107.38, "energy":24, "parts":1, "shopLevel": 9, "price":186},
