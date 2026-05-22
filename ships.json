@@ -3,10 +3,6 @@
     "data": {
         "classes": [
             {
-                "name": "custom",
-                "items": []
-            },
-            {
                 "name": "raider",
                 "items": [
                     "blaster",
@@ -121,23 +117,6 @@
             }
         ],
         "entries": [
-            {
-                "name": "$ship.raven.custom.v0",
-                "class": "custom",
-                "speed": 0,
-                "itempenalty": 0,
-                "price": 685900,
-                "armors": [
-                    {"name": "$armor.mizar", "level": 43, "health": 0, "price": 0},
-                    {"name": "$armor.sol", "level": 55, "health": 0, "price": 342950},
-                    {"name": "$armor.soladvanced", "level": 60, "health": 0, "price": 363526},
-                    {"name": "$armor.draconis", "level": 70, "health": 0, "price": 432117},
-                    {"name": "$armor.sirius", "level": 76, "health": 0, "price": 535002},
-                    {"name": "$armor.ancient", "level": 82, "health": 0, "price": 685900},
-                    {"name": "$armor.tauceti", "level": 91, "health": 0, "price": 877952},
-                    {"name": "$armor.taucetiadvanced", "level": 99, "health": 0, "price": 1118017}
-                ]
-            },
             {
                 "name": "$ship.phoenix",
                 "class": "raider",

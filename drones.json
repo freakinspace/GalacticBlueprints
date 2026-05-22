@@ -1,0 +1,133 @@
+{
+	"dataset":"drones",
+	"data": {
+        "entries": [
+            {
+                "name": "$drone.damage",
+                "price": 100000,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "damage", "value": 3}
+                ]
+            },
+            {
+                "name": "$drone.armor",
+                "price": 2500,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "armor", "value": 3}
+                ]
+            },
+            {
+                "name": "$drone.event.christmas",
+                "price": 10000,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "speed", "value": 3}
+                ]
+            },
+            {
+                "name": "$drone.range",
+                "price": 1500,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "range", "value": 3}
+                ]
+            },
+            {
+                "name": "$drone.criticalhitchance",
+                "price": 2500,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "crit", "value": 6}
+                ]
+            },
+            {
+                "name": "$drone.event.halloween",
+                "price": 1500,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "accuracy", "value": 4.8}
+                ]
+            },
+            {
+                "name": "$drone.raven.cooldown",
+                "price": 750,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "cooldown", "value": 1.5}
+                ]
+            },
+            {
+                "name": "$drone.raven.cooldowndrop",
+                "price": 12000,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "cooldown", "value": 1},
+                    {"type": "drop", "value": 2}
+                ]
+            },
+            {
+                "name": "$drone.drop",
+                "price": 1500,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "drop", "value": 3}
+                ]
+            },
+            {
+                "name": "$drone.event.birthday10",
+                "price": 19500,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "energy", "value": 5},
+                    {"type": "energyCap", "value": 5}
+                ]
+            },
+            {
+                "name": "$drone.cryonite",
+                "price": 500,
+                "maxLevel": 5,
+                "buffs": [
+                    {"type": "cryonite", "value": 2}
+                ]
+            },
+            {
+                "name": "$drone.sniper",
+                "price": 500,
+                "maxLevel": 8,
+                "buffs": [
+                    {"type": "damage", "value": 1.25},
+                    {"type": "range", "value": 1.25}
+                ]
+            },
+            {
+                "name": "$drone.event.spaceball2020",
+                "price": 500,
+                "maxLevel": 8,
+                "buffs": [
+                    {"type": "critical", "value": 2.5},
+                    {"type": "speed", "value": 1.25}
+                ]
+            },
+            {
+                "name": "$drone.event.spaceballpirate",
+                "price": 500,
+                "maxLevel": 8,
+                "buffs": [
+                    {"type": "accuracy", "value": 2},
+                    {"type": "cooldown", "value": 0.625}
+                ]
+            },
+            {
+                "name": "$drone.event.em2016",
+                "price": 500,
+                "maxLevel": 8,
+                "buffs": [
+                    {"type": "damage", "value": 1.25},
+                    {"type": "armor", "value": 1.25}
+                ]
+            }
+        ]
+    }
+}
