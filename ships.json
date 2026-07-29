@@ -120,6 +120,7 @@
             {
                 "name": "$ship.phoenix",
                 "class": "raider",
+                "rarity": "standard",
                 "speed": 684,
                 "itempenalty": 0,
                 "price": 5,
@@ -132,6 +133,7 @@
             {
                 "name": "$ship.raider",
                 "class": "raider",
+                "rarity": "standard",
                 "speed": 835.9,
                 "itempenalty": 0,
                 "price": 15,
@@ -144,6 +146,7 @@
             {
                 "name": "$ship.rareraider",
                 "class": "raider",
+                "rarity": "rare",
                 "speed": 901.38,
                 "itempenalty": 0,
                 "price": 65,
@@ -156,6 +159,7 @@
             {
                 "name": "$ship.reaver",
                 "class": "tank",
+                "rarity": "standard",
                 "speed":  835.9,
                 "itempenalty": 3,
                 "price": 251,
@@ -168,6 +172,7 @@
             {
                 "name": "$computerbild",
                 "class": "tank",
+                "rarity": "standard",
                 "speed":  757.33,
                 "itempenalty": 3,
                 "price": 182,
@@ -180,6 +185,7 @@
             {
                 "name": "$ship.rarereaver",
                 "class": "tank",
+                "rarity": "rare",
                 "speed":  901.38,
                 "itempenalty": 3,
                 "price": 327,
@@ -192,6 +198,7 @@
             {
                 "name": "$ship.lvl10damagemantis",
                 "class": "storm",
+                "rarity": "standard",
                 "speed":  849,
                 "itempenalty": 2,
                 "price": 445,
@@ -204,6 +211,7 @@
             {
                 "name": "$ship.lvl10tankmantis",
                 "class": "tank",
+                "rarity": "standard",
                 "speed":  757.33,
                 "itempenalty": 2,
                 "price": 445,
@@ -216,6 +224,7 @@
             {
                 "name": "$ship.lvl10tournamentdamage",
                 "class": "storm",
+                "rarity": "standard",
                 "speed": 849,
                 "itempenalty": 2,
                 "price": 445,
@@ -228,6 +237,7 @@
             {
                 "name": "$ship.lvl10healer",
                 "class": "engineer",
+                "rarity": "standard",
                 "speed": 879.56,
                 "itempenalty": 2,
                 "price": 445,
@@ -240,6 +250,7 @@
             {
                 "name": "$ship.lvl10tank",
                 "class": "tank",
+                "rarity": "standard",
                 "speed": 757.33,
                 "itempenalty": 2,
                 "price": 445,
@@ -252,6 +263,7 @@
             {
                 "name": "$ship.lvl10buff",
                 "class": "shock",
+                "rarity": "standard",
                 "speed": 863.47,
                 "itempenalty": 2,
                 "price": 445,
@@ -264,6 +276,7 @@
             {
                 "name": "$ship.lvl10damage",
                 "class": "storm",
+                "rarity": "standard",
                 "speed": 849,
                 "itempenalty": 2,
                 "price": 445,
@@ -276,6 +289,7 @@
             {
                 "name": "$ship.lvl10raretank",
                 "class": "tank",
+                "rarity": "rare",
                 "speed": 803.17,
                 "itempenalty": 2,
                 "price": 891,
@@ -288,6 +302,7 @@
             {
                 "name": "$ship.lvl10rarehealer",
                 "class": "engineer",
+                "rarity": "rare",
                 "speed": 955.94,
                 "itempenalty": 2,
                 "price": 891,
@@ -300,6 +315,7 @@
             {
                 "name": "$ship.lvl10rarebuff",
                 "class": "shock",
+                "rarity": "rare",
                 "speed": 935.84,
                 "itempenalty": 2,
                 "price": 891,
@@ -312,6 +328,7 @@
             {
                 "name": "$ship.lvl10raredamage",
                 "class": "storm",
+                "rarity": "rare",
                 "speed": 917.75,
                 "itempenalty": 2,
                 "price": 891,
