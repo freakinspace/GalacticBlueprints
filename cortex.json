@@ -3,28 +3,28 @@
 	"data":{
         "entries": [
             {
-                "name": "trait.nephilim",
+                "name": "$trait.nephilim",
                 "condition": "Have 6 or more enemy targets in blaster range for 3s",
                 "buffs": [
                     {"type": "healing", "value": 15}
                 ]
             },
             {
-                "name": "trait.redcap",
+                "name": "$trait.redcap",
                 "condition": "Have less than 30% HP for 3s",
                 "buffs": [
                     {"type": "damage", "value": 25}
                 ]
             },
             {
-                "name": "trait.eagleeye",
+                "name": "$trait.eagleeye",
                 "condition": "Move less than 0.05u/s for 3s",
                 "buffs": [
                     {"type": "range", "value": 25}
                 ]
             },
             {
-                "name": "trait.vampire",
+                "name": "$trait.vampire",
                 "condition": "Be in combat and have less than 4 items on cooldown for 3s",
                 "buffs": [
                     {"type": "armor", "value": 20}
