@@ -39,7 +39,7 @@
                 "price": 2500,
                 "maxLevel": 5,
                 "buffs": [
-                    {"type": "crit", "value": 6}
+                    {"type": "critical", "value": 6}
                 ]
             },
             {
