@@ -114,6 +114,422 @@
                     "deflectionrobot",
                     "lightningchain"
                 ]
+            },
+			{
+                "name": "hybrid-claw",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "rocket",
+                    "aim",
+                    "perforator",
+                    "taunt"
+                ]
+            },
+			{
+                "name": "hybrid-scorpion",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "rocket",
+                    "aim",
+                    "flare",
+                    "bomb"
+                ]
+            },
+			{
+                "name": "hybrid-emperor",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-hunter",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-locust",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n02",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n03",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n04",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n05",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n06",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n07",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-n08",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+			{
+                "name": "hybrid-r01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
             }
         ],
         "entries": [
