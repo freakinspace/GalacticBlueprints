@@ -2,6 +2,11 @@
 	"dataset":"items",
 	"data":{
 		"blaster": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 2,
+				"cooldown": 2
+			},
 			"weight": 1.0,
 			"entries":[
 				{"level":0,  "name":"$blaster.ionzero", "warmup":0.05, "active":1, "cooldown":1.65, "power":1.1, "range":3000, "speed":5000, "accuracy":10, "critical":0, "energy":0, "parts":1, "shopLevel":0, "price":0},
@@ -106,6 +111,11 @@
 			]
 		},
 		"collector": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 2,
+				"cooldown": 2
+			},
 			"weight": 1.0,
 			"entries":[
 				{"level":0,  "name":"$collector.0", "warmup":0.05, "active":1.5, "cooldown":2, "power":4, "range":600, "energy":0, "parts":1, "shopLevel":0, "price": 0},
@@ -175,6 +185,11 @@
 			]
 		},
 		"repair": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 2,
+				"cooldown": 2
+			},
 			"weight": 1.0,
 			"entries":[
 				{"level":1,  "name":"$repair.zero", "warmup":0.5, "active":16, "cooldown":66, "power":2.83, "energy":0, "parts":1, "shopLevel":1, "price":0},
@@ -278,6 +293,11 @@
 			]
 		},
 		"afterburner": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 1.5
+			},
 			"weight": 1.0,
 			"entries":[
 				{"level":4,  "name":"$afterburner.4", "warmup":0.05, "active":10, "cooldown":41.9, "boost":62, "energy":4, "parts":1, "shopLevel": 2, "price":32},
@@ -380,6 +400,11 @@
 			]
 		},
 		"rocket": {
+			"SlotPenalties": {
+				"warmup": 10,
+				"active": 1,
+				"cooldown": 1.5
+			},
 			"weight": 1.0432,
 			"entries":[
 				{"level":9,  "name":"$rocket.9", "warmup":0.05, "active":1, "cooldown":11.5, "power":15.02, "range":4000, "speed":1500, "accuracy":-20, "critical":0, "aoe":0, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier": 75, "energy":15, "parts":1, "shopLevel": 7, "price":120},
@@ -453,6 +478,11 @@
 			]
 		},
 		"aim": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 1.037,
 			"entries":[
 				{"level":7, "name":"$aim.7", "warmup":0.05, "active":48.8, "cooldown":86.3, "accuracy":40.50, "critical":25, "energy":7, "parts":1, "shopLevel": 4, "price":76},
@@ -527,6 +557,11 @@
 			]
 		},
 		"perforator": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 0.9152,
 			"entries":[
 				{"level":17, "name":"$perforator.17", "warmup":0.05, "active":50, "cooldown":70, "perforation":83, "levelfactor":1, "energy":45, "parts":2, "shopLevel": 13, "price":652},
@@ -586,6 +621,11 @@
 			]
 		},
 		"timedamage": {
+			"SlotPenalties": {
+				"warmup": 1,
+				"active": 1,
+				"cooldown": 2
+			},
 			"weight": 1.013,
 			"entries":[
 				{"level":27, "name":"$timedamage.27", "warmup":0.05, "active":15, "cooldown":69.8, "power":18.07, "range":4000, "energy":84, "parts":3, "shopLevel": 22, "price":1505},
@@ -644,6 +684,11 @@
 			]
 		},
 		"shield": {
+			"SlotPenalties": {
+				"warmup": 1.5,
+				"active": 0.75,
+				"cooldown": 2
+			},
 			"weight": 1.0886,
 			"entries":[
 				{"level":4, "name":"$shield.ion4", "warmup":3, "active":35.3, "cooldown":93.7, "power":45.64, "energy":10, "parts":1, "shopLevel": 2, "price":42},
@@ -713,12 +758,17 @@
 				{"level":96, "name":"$shield.96", "warmup":1, "active":35.3, "cooldown":93.7, "power":951567.40, "energy":166, "parts":15, "shopLevel": 91, "price":279720},
 				{"level":98, "name":"$shield.98", "warmup":1, "active":35.3, "cooldown":93.7, "power":1015005.20, "energy":168, "parts":16, "shopLevel": 93, "price":296337},
 				{"level":98, "name":"$shield.rare.tauceti", "warmup":1, "active":37.9, "cooldown":96.3, "power":1167256.00, "energy":160, "parts":22, "shopLevel": 93, "price":592673},
-				{"level":81, "name":"$shield.sirius.strong.tauceti", "warmup":1, "active":26.4, "cooldown":65.3, "power":817079.20, "energy":118, "parts":6, "shopLevel": 3, "price":681575},
-				{"level":81, "name":"$shield.sirius.tauceti", "warmup":1, "active":39.5, "cooldown":97.9, "power":1225618.80, "energy":177, "parts":6, "shopLevel": 3, "price":681577},
-				{"level":81, "name":"$shield.sirius.rapid.tauceti", "warmup":1, "active":59.3, "cooldown":146.9, "power":1838428.10, "energy":266, "parts":6, "shopLevel": 3, "price":681579}
+				{"level":98, "name":"$shield.sirius.strong.tauceti", "warmup":1, "active":26.4, "cooldown":65.3, "power":817079.20, "energy":118, "parts":6, "shopLevel": 3, "price":681575},
+				{"level":98, "name":"$shield.sirius.tauceti", "warmup":1, "active":39.5, "cooldown":97.9, "power":1225618.80, "energy":177, "parts":6, "shopLevel": 3, "price":681577},
+				{"level":98, "name":"$shield.sirius.rapid.tauceti", "warmup":1, "active":59.3, "cooldown":146.9, "power":1838428.10, "energy":266, "parts":6, "shopLevel": 3, "price":681579}
 			]
 		},
 		"taunt": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.5,
+				"cooldown": 2
+			},
 			"weight": 1.3089,
 			"entries":[
 				{"level":9, "name":"$taunt.9", "warmup":0.05, "active":25, "cooldown":74.8, "aggro":24.06, "range":5500, "levelfactor":2.5, "repairreduction":0.2, "damageincrease":0.13, "energy":10, "parts":1, "shopLevel": 7, "price":120},
@@ -792,6 +842,11 @@
 			]
 		},
 		"flare": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2
+			},
 			"weight": 1.076,
 			"entries":[
 				{"level":17, "name":"$flare.17", "warmup":0.05, "active":23.5, "cooldown":67.5, "accuracy":56, "levelfactor":7.5, "energy":36, "parts":2, "shopLevel": 13, "price":652},
@@ -858,6 +913,11 @@
 			]
 		},
 		"bomb": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 1,
+				"cooldown": 2
+			},
 			"weight": 0.9797,
 			"entries":[
 				{"level":27, "name":"$bomb.27", "warmup":0.5, "active":3, "cooldown":83, "power":238.57, "accuracy":10, "critical":20, "aggro":3424.67, "aoe":1500, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":40, "energy":84, "parts":3, "shopLevel": 22, "price":1505},
@@ -916,6 +976,11 @@
 			]
 		},
 		"remoterepair": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.5,
+				"cooldown": 1.75
+			},
 			"weight": 0.9546,
 			"entries":[
 				{"level":9, "name":"$remoterepair.9", "warmup":0.05, "active":20, "cooldown":48.5, "power":4.81, "range":4500, "energy":20, "parts":1, "shopLevel": 7, "price":103},
@@ -989,6 +1054,11 @@
 			]
 		},
 		"protect": {
+			"SlotPenalties": {
+				"warmup": 1.5,
+				"active": 0.5,
+				"cooldown": 2
+			},
 			"weight": 1.0627,
 			"entries":[
 				{"level":9, "name":"$protect.ion9", "warmup":1, "active":23, "cooldown":52, "power":47.78, "range":4500, "levelfactor":5, "energy":15, "parts":1, "shopLevel": 7, "price":120},
@@ -1089,6 +1159,11 @@
 			]
 		},
 		"repairfield": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2
+			},
 			"weight": 0.9573,
 			"entries":[
 				{"level":14, "name":"$repairfield.conquest", "warmup":1, "active":30, "cooldown":150, "power":6.94, "aoe":2400, "energy":53, "parts":0, "shopLevel": 11, "price":5141},
@@ -1182,6 +1257,11 @@
 			]
 		},
 		"resurrect": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 2,
+				"cooldown": 2
+			},
 			"weight": 0.927,
 			"entries":[
 				{"level":27, "name":"$resurrect.27", "warmup":0.5, "active":20, "cooldown":60, "range":1, "energy":112, "parts":3, "shopLevel": 22, "price":1505},
@@ -1240,6 +1320,11 @@
 			]
 		},
 		"speedbuff": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 0.9412,
 			"entries":[
 				{"level":9, "name":"$speedbuff.9", "warmup":0.05, "active":55, "cooldown":109.9, "buff":118, "buffcap":140, "range":4500, "levelfactor":5, "energy":20, "parts":1, "shopLevel": 7, "price":120},
@@ -1340,6 +1425,11 @@
 			]
 		},
 		"stunbuff": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.35,
+				"cooldown": 2
+			},
 			"weight": 0.9392,
 			"entries":[
 				{"level":9, "name":"$stunbuff.9", "warmup":0.05, "active":12.1, "cooldown":57, "buff":60, "range":4000, "speedmultiplier":129.50, "levelfactor":2.5, "energy":20, "parts":1, "shopLevel": 7, "price":103},
@@ -1413,6 +1503,11 @@
 			]
 		},
 		"aggrobeacon": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2
+			},
 			"weight": 1.1236,
 			"entries":[
 				{"level":17, "name":"$aggrobeacon.17", "warmup":0.5, "active":60, "cooldown":150, "spawns":"Beacon17", "hitpoints":319.4, "power":2.66, "aggro":78.19, "penalty":2.58, "range":3200, "aoe":2550, "aoetargetswithoutpenalty":10, "aoeminimumdamagemultiplier":10, "energy":63, "parts":2, "shopLevel": 13, "price":652},
@@ -1479,6 +1574,11 @@
 			]
 		},
 		"stundome": {
+			"SlotPenalties": {
+				"warmup": 1.5,
+				"active": 0.5,
+				"cooldown": 2
+			},
 			"weight": 0.9564,
 			"entries":[
 				{"level":27, "name":"$stundome.27", "warmup":1, "active":11.5, "cooldown":87, "buff":54, "range":4000, "aoe":1600,"speedmultiplier":100, "levelfactor":5, "energy":84, "parts":3, "shopLevel": 22, "price":1505},
@@ -1537,6 +1637,11 @@
 			]
 		},
 		"sniperblaster": {
+			"SlotPenalties": {
+				"warmup": 5,
+				"active": 1,
+				"cooldown": 1.75
+			},
 			"weight": 0.9455,
 			"entries":[
 				{"level":42, "name":"$sniperblaster.rare.mizar", "warmup":0.1, "active":1, "cooldown":5.4, "power":623.94, "range":4900, "speed":50000, "accuracy":100, "critical":20, "energy":42, "parts":11, "shopLevel": 37, "price":7328},
@@ -1574,6 +1679,11 @@
 			]
 		},
 		"attackdroid": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.5,
+				"cooldown": 2
+			},
 			"weight": 0.9742,
 			"entries":[
 				{"level":42, "name":"$attackdroid.rare.mizar", "warmup":0.5, "active":99, "cooldown":243, "spawns": "MizarRareAttackDroidFighter", "hitpoints":3295.20, "range":4000, "speed":1400, "sniperblaster":"$sniperblaster.rare.mizar", "energy":130, "parts":11, "shopLevel":37, "price":7760},
@@ -1611,6 +1721,11 @@
 			]
 		},
 		"orbitalstrike": {
+			"SlotPenalties": {
+				"warmup": 1,
+				"active": 1.5,
+				"cooldown": 2
+			},
 			"weight": 0.9887,
 			"entries":[
 				{"level":42, "name":"$orbitalstrike.rare.mizar", "warmup":0.05, "active":1.2, "cooldown":33.45, "spawns":"MizarRareOrbitalSolid", "power":1676.85, "critical":20, "range":3000, "aoe":1800, "aoetargetswithoutpenalty":3, "aoeminimumdamagemultiplier":0, "energy":116, "parts":11, "shopLevel": 37, "price":8127},
@@ -1648,6 +1763,11 @@
 			]
 		},
 		"attackbuff": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 1.0102,
 			"entries":[
 				{"level":14, "name":"$attackbuff.conquest", "warmup":0.5, "active":180, "cooldown":240, "buff":150, "buffcap":150, "range":4500, "levelfactor":5, "energy":35, "parts":0, "shopLevel": 11, "price":5490},
@@ -1712,6 +1832,11 @@
 			]
 		},
 		"repairturret": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2
+			},
 			"weight": 1.0508,
 			"entries":[
 				{"level":42, "name":"$repairturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":198, "spawns":"MizarRareRepairFieldTurret", "power":116.99, "hitpoints":4913.56, "aoe":1650, "aoetargetswithoutpenalty":5, "aoeminimumdamagemultiplier":10, "energy":129, "parts":11, "shopLevel": 37, "price":7923},
@@ -1742,6 +1867,11 @@
 			]
 		},
 		"attackturret": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.45,
+				"cooldown": 2
+			},
 			"weight": 1.0624,
 			"entries":[
 				{"level":42, "name":"$attackturret.rare.mizar", "warmup":0.5, "active":132, "cooldown":204, "spawns":"MizarRareAttackBuffTurret", "attackcharge":"$attackbuff.rare.mizar", "hitpoints":4913.56, "aoe":2200, "energy":129, "parts":11, "shopLevel": 37, "price":7931},
@@ -1772,6 +1902,11 @@
 			]
 		},
 		"stickybomb": {
+			"SlotPenalties": {
+				"warmup": 1,
+				"active": 1,
+				"cooldown": 2
+			},
 			"weight": 1.0285,
 			"entries":[
 				{"level":42, "name":"$stickybomb.rare.mizar", "warmup":0.05, "active":4, "cooldown":70, "power":1520.86, "accuracy":100, "critical":20, "aggro":3269.85, "range":3400, "aoe":1800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":129, "parts": 11, "shopLevel": 37, "price":8493},
@@ -1802,6 +1937,11 @@
 			]
 		},
 		"mine": {
+			"SlotPenalties": {
+				"warmup": 1,
+				"active": 1,
+				"cooldown": 2.5
+			},
 			"weight": 1.0451,
 			"entries":[
 				{"level":42, "name":"$mine.rare.mizar", "warmup":0.5, "lifespan":204.7, "cooldown":29.65, "spawns":"MizarRareMine", "hitpoints":4.97, "power":1220.59, "critical":20, "aggressionrange":2800, "aggro":549.27, "aoe":2800, "aoetargetswithoutpenalty":4, "aoeminimumdamagemultiplier":50, "energy":142, "parts": 11, "shopLevel": 37, "price":8684},
@@ -1833,6 +1973,11 @@
 			]
 		},
 		"lightningchain": {
+			"SlotPenalties": {
+				"warmup": 10,
+				"active": 1,
+				"cooldown": 1.5
+			},
 			"weight": 1.0422,
 			"entries":[
 				{"level":42, "name":"$lightningchain.rare.mizar", "warmup":0.05, "delay":0.2, "cooldown":22, "power":584.95, "range":2720, "links":7, "powerincreaseperlink":25, "energy": 95, "parts": 11, "shopLevel": 37, "price":9036},
@@ -1856,6 +2001,11 @@
 			]
 		},
 		"magnetarraylauncher": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 1.1056,
 			"entries":[
 				{"level":42, "name":"$magnetarraylauncher.rare.mizar", "warmup":0.05, "active":110, "cooldown":176, "spawns":"MizarRareMagnetArrayProjectile", "hitpoints":3509.69, "buff":92, "range":4950, "aoe":2000, "energy":75, "parts":18, "shopLevel": 37, "price":8028},
@@ -1879,6 +2029,11 @@
 			]
 		},
 		"targetteleportation": {
+			"SlotPenalties": {
+				"warmup": 30,
+				"active": 1,
+				"cooldown": 6
+			},
 			"weight": 1.2851,
 			"entries":[
 				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":65, "parts":11, "shopLevel": 37, "price":8113},
@@ -1902,6 +2057,11 @@
 			]
 		},
 		"nanitecloud": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 1.268,
 			"entries":[
 				{"level":42, "name":"$nanitecloudfield.rare.mizar", "warmup":0.05, "active":38.5, "cooldown":88, "buff":29, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":137, "parts": 13, "shopLevel": 37, "price":8219},
@@ -1925,6 +2085,11 @@
 			]
 		},
 		"damageconverter": {
+			"SlotPenalties": {
+				"warmup": 20,
+				"active": 0.5,
+				"cooldown": 2
+			},
 			"weight": 0.7988,
 			"entries":[
 				{"level":42, "name":"$damageconverter.rare.mizar", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":116, "parts":13, "shopLevel": 37, "price":9561},
@@ -1948,6 +2113,11 @@
 			]
 		},
 		"formationaura": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 0.762,
 			"entries":[
 				{"level":42, "name":"$formationaura.rare.mizar", "warmup":0.05, "active":26.4, "cooldown":68.2, "reduction":48.00, "conversion":52.30, "range" :3000, "links":4, "energy":74, "parts": 13, "shopLevel": 37, "price":8744},
@@ -1971,6 +2141,11 @@
 			]
 		},
 		"deflectionrobot": {
+			"SlotPenalties": {
+				"warmup": 1,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 1.1099,
 			"entries":[
 				{"level":42, "name":"$deflectionrobotlauncher.rare.mizar", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"MizarRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":1356.40,  "energy":130, "parts":13, "shopLevel": 37, "price":8297},
@@ -1994,6 +2169,11 @@
 			]
 		},
 		"rangeleech": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
 			"weight": 1.0959,
 			"entries":[
 				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "shopLevel": 37, "price":9361},
