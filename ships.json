@@ -1002,7 +1002,7 @@
                 ]
             },
 			{
-                "name": "$ship.lvl25RareDamagePrototype",
+                "name": "$ship.lvl25raredamageprototype",
                 "class": "hybrid-claw",
                 "rarity": "rare",
                 "speed": 861.07,
