@@ -2056,7 +2056,7 @@
 				{"level":98, "name":"$targetteleportation.sirius.strong.tauceti", "warmup":0.05, "active":1, "cooldown":14.5, "range":8550, "offset":125, "energy":206, "parts":6, "shopLevel": 9, "price":650173}
 			]
 		},
-		"nanitecloud": {
+		"nanitecloudfield": {
 			"SlotPenalties": {
 				"warmup": 2,
 				"active": 0.75,
