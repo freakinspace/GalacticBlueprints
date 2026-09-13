@@ -1869,7 +1869,7 @@
 		"attackturret": {
 			"SlotPenalties": {
 				"warmup": 2,
-				"active": 0.45,
+				"active": 0.75,
 				"cooldown": 2
 			},
 			"weight": 1.0624,
