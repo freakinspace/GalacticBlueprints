@@ -1768,7 +1768,7 @@
 				"active": 0.75,
 				"cooldown": 2.25
 			},
-			"weight": 1.9916120,
+			"weight": 0.9916120,
 			"entries":[
 				{"level":14, "name":"$attackbuff.conquest", "warmup":0.5, "active":180, "cooldown":240, "buff":150, "buffcap":150, "range":4500, "levelfactor":5, "energy":35, "parts":0, "shopLevel": 11, "price":5490},
 				{"level":14, "name":"$attackbuff.conquest.field", "warmup":0.05, "active":108, "cooldown":240, "buff":130, "buffcap":150, "range":2500, "levelfactor":5, "energy":35, "parts":1, "shopLevel": 11, "price":5492},
