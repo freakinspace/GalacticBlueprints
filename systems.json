@@ -1,14 +1,14 @@
 {
     "dataset": "systems",
     "data": [
-        {"system": "vega", "minlevel": 1, "maxlevel": 15, "hasGolds": true, "hasAncients": true},
-        {"system": "antares", "minlevel": 16, "maxlevel": 25, "hasGolds": true, "hasAncients": true},
-        {"system": "gemini", "minlevel": 26, "maxlevel": 33, "hasGolds": true, "hasAncients": true},
-        {"system": "mizar", "minlevel": 34, "maxlevel": 43, "hasGolds": true, "hasAncients": true},
-        {"system": "sol", "minlevel": 44, "maxlevel": 55, "hasGolds": false, "hasAncients": false},
-        {"system": "soladvanced", "minlevel": 56, "maxlevel": 60, "hasGolds": true, "hasAncients": true},
-        {"system": "draconis", "minlevel": 61, "maxlevel": 70, "hasGolds": true, "hasAncients": true},
-        {"system": "sirius", "minlevel": 71, "maxlevel": 82, "hasGolds": false, "hasAncients": true},
-        {"system": "tauceti", "minlevel": 83, "maxlevel": 99, "hasGolds": true, "hasAncients": false}
+        {"system": "vega", "minlevel": 0, "maxlevel": 14, "hasGolds": true, "hasAncients": true},
+        {"system": "antares", "minlevel": 15, "maxlevel": 24, "hasGolds": true, "hasAncients": true},
+        {"system": "gemini", "minlevel": 25, "maxlevel": 32, "hasGolds": true, "hasAncients": true},
+        {"system": "mizar", "minlevel": 33, "maxlevel": 42, "hasGolds": true, "hasAncients": true},
+        {"system": "sol", "minlevel": 43, "maxlevel": 54, "hasGolds": false, "hasAncients": false},
+        {"system": "soladvanced", "minlevel": 55, "maxlevel": 59, "hasGolds": true, "hasAncients": true},
+        {"system": "draconis", "minlevel": 60, "maxlevel": 69, "hasGolds": true, "hasAncients": true},
+        {"system": "sirius", "minlevel": 70, "maxlevel": 81, "hasGolds": false, "hasAncients": true},
+        {"system": "tauceti", "minlevel": 82, "maxlevel": 99, "hasGolds": true, "hasAncients": false}
     ]
 }
