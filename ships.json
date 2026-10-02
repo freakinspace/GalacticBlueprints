@@ -834,7 +834,7 @@
             },
 			{
                 "name": "$ship.lvl18raredamage",
-                "class": "rare",
+                "class": "storm",
                 "rarity": "standard",
                 "speed": 929.75,
                 "itempenalty": 1,
@@ -1025,6 +1025,136 @@
                     {"name": "$armor.bulwark", "level": 25, "health": 743, "price": 0},
                     {"name": "$armor.thermograde", "level": 29, "health": 1211, "price": 0},
                     {"name": "$armor.deluvian", "level": 32, "health": 1746, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35buffmantis",
+                "class": "shock",
+                "rarity": "standard",
+                "speed": 893.47,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 1501, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 2761, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 4487, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35buffdamage",
+                "class": "storm",
+                "rarity": "standard",
+                "speed": 879,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 1580, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 2907, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 4724, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35damage",
+                "class": "storm",
+                "rarity": "standard",
+                "speed": 879,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 1580, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 2907, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 4724, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35tank",
+                "class": "tank",
+                "rarity": "standard",
+                "speed": 787.33,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 2370, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 4360, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 7086, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35healer",
+                "class": "engineer",
+                "rarity": "standard",
+                "speed": 909.56,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 1422, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 2616, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 4251, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35buff",
+                "class": "shock",
+                "rarity": "standard",
+                "speed": 893.47,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 1501, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 2761, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 4487, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35tournamentdamage",
+                "class": "storm",
+                "rarity": "tr",
+                "speed": 947.75,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 1975, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 3634, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 5905, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35raredamage",
+                "class": "storm",
+                "rarity": "rare",
+                "speed": 947.75,
+                "itempenalty": 0,
+                "price": 14989,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 1975, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 3634, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 5905, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35hybrid",
+                "class": "hybrid-scorpion",
+                "rarity": "rare",
+                "speed": 904.82,
+                "itempenalty": 0,
+                "price": 7494,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 2257, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 4152, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 6784, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.lvl35raretank",
+                "class": "tank",
+                "rarity": "rare",
+                "speed": 833.16,
+                "itempenalty": 0,
+                "price": 14989,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 33, "health": 2963, "price": 0},
+                    {"name": "$armor.thermograde", "level": 38, "health": 5451, "price": 0},
+                    {"name": "$armor.deluvian", "level": 42, "health": 8859, "price": 0}
                 ]
             }
         ]
