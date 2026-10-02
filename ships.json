@@ -148,10 +148,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "perforator",
+                    "timedamage",
+                    "protect",
+                    "sniperblaster"
                 ]
             },
 			{
@@ -161,10 +161,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "speedbuff",
+                    "stunbuff",
+                    "sniperblaster",
+                    "attackbuff"
                 ]
             },
 			{
@@ -174,10 +174,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "perforator",
+                    "bomb",
+                    "protect",
+                    "stunbuff"
                 ]
             },
 			{
@@ -187,10 +187,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "stunbuff",
+                    "orbitalstrike",
+                    "attackturret",
+                    "damageconverter"
                 ]
             },
 			{
@@ -200,10 +200,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "perforator",
+                    "shield",
+                    "bomb",
+                    "targetteleportation"
                 ]
             },
 			{
@@ -213,10 +213,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "remoterepair",
+                    "resurrect",
+                    "stundome",
+                    "rangeleech"
                 ]
             },
 			{
@@ -226,10 +226,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "timedamage",
+                    "attackbuff",
+                    "stickybomb",
+                    "deflectionrobot"
                 ]
             },
 			{
@@ -239,10 +239,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "rocket",
+                    "aim",
+                    "speedbuff",
+                    "lightningchain"
                 ]
             },
 			{
@@ -252,10 +252,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "taunt",
+                    "flare",
+                    "sniperblaster",
+                    "magnetarraylauncher"
                 ]
             },
 			{
@@ -265,10 +265,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "repairfield",
+                    "attackdroid",
+                    "mine",
+                    "nanitecloudfield"
                 ]
             },
 			{
@@ -278,10 +278,10 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "protect",
+                    "aggrobeacon",
+                    "repairturret",
+                    "formationaura"
                 ]
             },
 			{
