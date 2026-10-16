@@ -1972,6 +1972,118 @@
 
 			]
 		},
+		"damageconverter": {
+			"SlotPenalties": {
+				"warmup": 20,
+				"active": 0.5,
+				"cooldown": 2
+			},
+			"weight": 0.7814192,
+			"entries":[
+				{"level":42, "name":"$damageconverter.rare.mizar", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":116, "parts":13, "shopLevel": 37, "price":9561},
+				{"level":59, "name":"$damageconverter.rare.sol", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":163, "parts":14, "shopLevel": 54, "price":20731},
+				{"level":69, "name":"$damageconverter.rare.draconis", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":190, "parts":15, "shopLevel": 64, "price":99658},
+				{"level":81, "name":"$damageconverter.sirius.quick.sirius", "warmup":0.05, "active":14, "cooldown":66, "reduction":42.17, "conversion":80.5, "energy":223, "parts":17, "shopLevel": 76, "price":252135},
+				{"level":81, "name":"$damageconverter.sirius.sirius", "warmup":0.05, "active":11, "cooldown":66, "reduction":80.5, "conversion":80.5, "energy":223, "parts":17, "shopLevel": 76, "price":252136},
+				{"level":81, "name":"$damageconverter.sirius.strong.sirius", "warmup":0.05, "active":9, "cooldown":66, "reduction":147.58, "conversion":80.5, "energy":223, "parts":17, "shopLevel": 76, "price":252137},
+				{"level":84, "name":"$damageconverter.84", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":231, "parts":14, "shopLevel": 79, "price":202432},
+				{"level":86, "name":"$damageconverter.86", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":237, "parts":17, "shopLevel": 81, "price":221118},
+				{"level":88, "name":"$damageconverter.88", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":242, "parts":13, "shopLevel": 83, "price":239803},
+				{"level":90, "name":"$damageconverter.90", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":248, "parts":13, "shopLevel": 85, "price":258490},
+				{"level":92, "name":"$damageconverter.92", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":253, "parts":14, "shopLevel": 87, "price":277176},
+				{"level":94, "name":"$damageconverter.94", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":259, "parts":14, "shopLevel": 89, "price":295862},
+				{"level":96, "name":"$damageconverter.96", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":264, "parts":15, "shopLevel": 91, "price":314548},
+				{"level":98, "name":"$damageconverter.98", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":270, "parts":16, "shopLevel": 93, "price":333233},
+				{"level":98, "name":"$damageconverter.rare.tauceti", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":270, "parts":22, "shopLevel": 93, "price":666467},
+				{"level":98, "name":"$damageconverter.sirius.quick.tauceti", "warmup":0.05, "active":14, "cooldown":66, "reduction":42.17, "conversion":80.5, "energy":270, "parts":6, "shopLevel": 9, "price":766437},
+				{"level":98, "name":"$damageconverter.sirius.tauceti", "warmup":0.05, "active":11, "cooldown":66, "reduction":80.5, "conversion":80.5, "energy":270, "parts":6, "shopLevel": 9, "price":766439},
+				{"level":98, "name":"$damageconverter.sirius.strong.tauceti", "warmup":0.05, "active":9, "cooldown":66, "reduction":147.58, "conversion":80.5, "energy":270, "parts":6, "shopLevel": 9, "price":766441}
+			]
+		},
+		"targetteleportation": {
+			"SlotPenalties": {
+				"warmup": 30,
+				"active": 1,
+				"cooldown": 6
+			},
+			"weight": 1.2884140,
+			"entries":[
+				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":65, "parts":11, "shopLevel": 37, "price":8113},
+				{"level":59, "name":"$targetteleportation.rare.sol", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":91, "parts":12, "shopLevel": 54, "price":17589},
+				{"level":69, "name":"$targetteleportation.rare.draconis", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":106, "parts":14, "shopLevel": 64, "price":84543},
+				{"level":81, "name":"$targetteleportation.sirius.quick.sirius", "warmup":0.05, "active":1, "cooldown":8.2, "range":5550, "offset":125, "energy":96, "parts":15, "shopLevel": 76, "price":213887},
+				{"level":81, "name":"$targetteleportation.sirius.sirius", "warmup":0.05, "active":1, "cooldown":10.9, "range":6750, "offset":125, "energy":128, "parts":15, "shopLevel": 76, "price":213889},
+				{"level":81, "name":"$targetteleportation.sirius.strong.sirius", "warmup":0.05, "active":1, "cooldown":14.5, "range":8550, "offset":125, "energy":170, "parts":15, "shopLevel": 76, "price":213891},
+				{"level":84, "name":"$targetteleportation.84", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":126, "parts":9, "shopLevel": 79, "price":171723},
+				{"level":86, "name":"$targetteleportation.86", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":129, "parts":17, "shopLevel": 81, "price":187574},
+				{"level":88, "name":"$targetteleportation.88", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":132, "parts":13, "shopLevel": 83, "price":203425},
+				{"level":90, "name":"$targetteleportation.90", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":135, "parts":13, "shopLevel": 85, "price":219277},
+				{"level":92, "name":"$targetteleportation.92", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":138, "parts":14, "shopLevel": 87, "price":235128},
+				{"level":94, "name":"$targetteleportation.94", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":141, "parts":14, "shopLevel": 89, "price":250980},
+				{"level":96, "name":"$targetteleportation.96", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":144, "parts":15, "shopLevel": 91, "price":266831},
+				{"level":98, "name":"$targetteleportation.98", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":147, "parts":16, "shopLevel": 93, "price":282682},
+				{"level":98, "name":"$targetteleportation.rare.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":150, "parts":22, "shopLevel": 93, "price":565367},
+				{"level":98, "name":"$targetteleportation.sirius.quick.tauceti", "warmup":0.05, "active":1, "cooldown":8.2, "range":5550, "offset":125, "energy":117, "parts":6, "shopLevel": 9, "price":650169},
+				{"level":98, "name":"$targetteleportation.sirius.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6750, "offset":125, "energy":155, "parts":6, "shopLevel": 9, "price":650171},
+				{"level":98, "name":"$targetteleportation.sirius.strong.tauceti", "warmup":0.05, "active":1, "cooldown":14.5, "range":8550, "offset":125, "energy":206, "parts":6, "shopLevel": 9, "price":650173}
+			]
+		},
+		"rangeleech": {
+			"SlotPenalties": {
+				"warmup": 2,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
+			"weight": 1.0815164,
+			"entries":[
+				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "shopLevel": 37, "price":9361},
+				{"level":59, "name":"$rangeleech.rare.sol", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":192, "parts": 14, "shopLevel": 54, "price":20297},
+				{"level":69, "name":"$rangeleech.rare.draconis", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":225, "parts": 15, "shopLevel": 64, "price":97573},
+				{"level":81, "name":"$rangeleech.sirius.quick.sirius", "warmup":0.05, "active":52.1, "cooldown":120.45, "buff":38, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":246860},
+				{"level":81, "name":"$rangeleech.sirius.sirius", "warmup":0.05, "active":44, "cooldown":120.45, "buff":45, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":246860},
+				{"level":81, "name":"$rangeleech.sirius.strong.sirius", "warmup":0.05, "active":36, "cooldown":120.45, "buff":55, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":246860},
+				{"level":84, "name":"$rangeleech.84", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":273, "parts": 12, "shopLevel": 79, "price":198196},
+				{"level":86, "name":"$rangeleech.86", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":280, "parts": 12, "shopLevel": 81, "price":216491},
+				{"level":88, "name":"$rangeleech.88", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":286, "parts": 12, "shopLevel": 83, "price":234786},
+				{"level":90, "name":"$rangeleech.90", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":293, "parts": 12, "shopLevel": 85, "price":253082},
+				{"level":92, "name":"$rangeleech.92", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":299, "parts": 12, "shopLevel": 87, "price":271376},
+				{"level":94, "name":"$rangeleech.94", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":306, "parts": 12, "shopLevel": 89, "price":289671},
+				{"level":96, "name":"$rangeleech.96", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":312, "parts": 15, "shopLevel": 91, "price":307966},
+				{"level":98, "name":"$rangeleech.98", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":319, "parts": 16, "shopLevel": 93, "price":326261},
+				{"level":98, "name":"$rangeleech.rare.tauceti", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":319, "parts": 22, "shopLevel": 93, "price":652521},
+				{"level":98, "name":"$rangeleech.sirius.quick.tauceti", "warmup":0.05, "active":52.1, "cooldown":120.45, "buff":38, "range":4800, "energy":325, "parts": 6, "shopLevel": 9, "price":750401},
+				{"level":98, "name":"$rangeleech.sirius.tauceti", "warmup":0.05, "active":44, "cooldown":120.45, "buff":45, "range":4800, "energy":325, "parts": 6, "shopLevel": 9, "price":750403},
+				{"level":98, "name":"$rangeleech.sirius.strong.tauceti", "warmup":0.05, "active":36, "cooldown":120.45, "buff":55, "range":4800, "energy":325, "parts": 6, "shopLevel": 9, "price":750405}
+			]
+		},
+		"deflectionrobot": {
+			"SlotPenalties": {
+				"warmup": 1,
+				"active": 0.75,
+				"cooldown": 2.25
+			},
+			"weight": 1.1304176,
+			"entries":[
+				{"level":42, "name":"$deflectionrobotlauncher.rare.mizar", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"MizarRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":1356.40,  "energy":130, "parts":13, "shopLevel": 37, "price":8297},
+				{"level":59, "name":"$deflectionrobotlauncher.rare.sol", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"SolRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":12457.08, "energy":180, "parts":14, "shopLevel": 54, "price":17987},
+				{"level":69, "name":"$deflectionrobotlauncher.rare.draconis", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"DraconisRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":42286.37, "energy":210, "parts":15, "shopLevel": 64, "price":86455},
+				{"level":81, "name":"$deflectionrobotlauncher.sirius.quick.sirius", "warmup":0.5, "active":39, "cooldown":40.5, "reflect":1, "spawns":"SiriusAncientDeflectionRobotSpaceshipQuick", "speed":2200, "hitpoints":220554.56, "energy":186, "parts":15, "shopLevel": 76, "price":218723},
+				{"level":81, "name":"$deflectionrobotlauncher.sirius.sirius", "warmup":0.5, "active":19.5, "cooldown":40.5, "reflect":2, "spawns":"SiriusAncientDeflectionRobotSpaceship", "speed":2200, "hitpoints":110277.28, "energy":186, "parts":15, "shopLevel": 76, "price":218725},
+				{"level":81, "name":"$deflectionrobotlauncher.sirius.strong.sirius", "warmup":0.5, "active":9.75, "cooldown":40.5, "reflect":4, "spawns":"SiriusAncientDeflectionRobotSpaceshipStrong", "speed":2200, "hitpoints":55138.64, "energy":186, "parts":15, "shopLevel": 76, "price":218727},
+				{"level":84, "name":"$deflectionrobot.84", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship84", "speed":2, "hitpoints":163125.84, "energy":189, "parts":12, "shopLevel": 79, "price":175606},
+				{"level":86, "name":"$deflectionrobot.86", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship86", "speed":2, "hitpoints":181250.95, "energy":194, "parts":12, "shopLevel": 81, "price":191815},
+				{"level":88, "name":"$deflectionrobot.88", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship88", "speed":2, "hitpoints":199376.05, "energy":198, "parts":12, "shopLevel": 83, "price":208025},
+				{"level":90, "name":"$deflectionrobot.90", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship90", "speed":2, "hitpoints":217501.12, "energy":203, "parts":12, "shopLevel": 85, "price":224235},
+				{"level":92, "name":"$deflectionrobot.92", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship92", "speed":2, "hitpoints":235626.20, "energy":207, "parts":12, "shopLevel": 87, "price":240445},
+				{"level":94, "name":"$deflectionrobot.94", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship94", "speed":2, "hitpoints":253751.31, "energy":212, "parts":12, "shopLevel": 89, "price":256654},
+				{"level":96, "name":"$deflectionrobot.96", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship96", "speed":2, "hitpoints":271876.40, "energy":216, "parts":15, "shopLevel": 91, "price":272864},
+				{"level":98, "name":"$deflectionrobot.98", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship98", "speed":2, "hitpoints":290001.47, "energy":221, "parts":16, "shopLevel": 93, "price":289074},
+				{"level":98, "name":"$deflectionrobotlauncher.rare.tauceti", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"TaucetiRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":333501.70, "energy":240, "parts":22, "shopLevel": 93, "price":578149},
+				{"level":98, "name":"$deflectionrobotlauncher.sirius.quick.tauceti", "warmup":0.5, "active":39, "cooldown":40.5, "reflect":1, "spawns":"TaucetiAncientDeflectionRobotSpaceshipQuick", "speed":2200, "hitpoints":725003.70, "energy":225, "parts":6, "shopLevel": 9, "price":664869},
+				{"level":98, "name":"$deflectionrobotlauncher.sirius.tauceti", "warmup":0.5, "active":19.5, "cooldown":40.5, "reflect":2, "spawns":"TaucetiAncientDeflectionRobotSpaceship", "speed":2200, "hitpoints":362501.84, "energy":225, "parts":6, "shopLevel": 9, "price":664871},
+				{"level":98, "name":"$deflectionrobotlauncher.sirius.strong.tauceti", "warmup":0.5, "active":9.75, "cooldown":40.5, "reflect":4, "spawns":"TaucetiAncientDeflectionRobotSpaceshipStrong", "speed":2200, "hitpoints":181250.92, "energy":225, "parts":6, "shopLevel": 9, "price":664873}
+			]
+		},
 		"lightningchain": {
 			"SlotPenalties": {
 				"warmup": 10,
@@ -2028,34 +2140,6 @@
 				{"level":98, "name":"$magnetarraylauncher.sirius.strong.tauceti", "warmup":0.05, "active":73.33, "cooldown":176, "spawns":"TaucetiAncientMagnetArrayProjectileStrong", "hitpoints":525265.20, "buff":98, "range":5175, "aoe":2000, "energy":181, "parts":6, "shopLevel": 9, "price":643491}
 			]
 		},
-		"targetteleportation": {
-			"SlotPenalties": {
-				"warmup": 30,
-				"active": 1,
-				"cooldown": 6
-			},
-			"weight": 1.2884140,
-			"entries":[
-				{"level":42, "name":"$targetteleportation.rare.mizar", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":65, "parts":11, "shopLevel": 37, "price":8113},
-				{"level":59, "name":"$targetteleportation.rare.sol", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":91, "parts":12, "shopLevel": 54, "price":17589},
-				{"level":69, "name":"$targetteleportation.rare.draconis", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":106, "parts":14, "shopLevel": 64, "price":84543},
-				{"level":81, "name":"$targetteleportation.sirius.quick.sirius", "warmup":0.05, "active":1, "cooldown":8.2, "range":5550, "offset":125, "energy":96, "parts":15, "shopLevel": 76, "price":213887},
-				{"level":81, "name":"$targetteleportation.sirius.sirius", "warmup":0.05, "active":1, "cooldown":10.9, "range":6750, "offset":125, "energy":128, "parts":15, "shopLevel": 76, "price":213889},
-				{"level":81, "name":"$targetteleportation.sirius.strong.sirius", "warmup":0.05, "active":1, "cooldown":14.5, "range":8550, "offset":125, "energy":170, "parts":15, "shopLevel": 76, "price":213891},
-				{"level":84, "name":"$targetteleportation.84", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":126, "parts":9, "shopLevel": 79, "price":171723},
-				{"level":86, "name":"$targetteleportation.86", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":129, "parts":17, "shopLevel": 81, "price":187574},
-				{"level":88, "name":"$targetteleportation.88", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":132, "parts":13, "shopLevel": 83, "price":203425},
-				{"level":90, "name":"$targetteleportation.90", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":135, "parts":13, "shopLevel": 85, "price":219277},
-				{"level":92, "name":"$targetteleportation.92", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":138, "parts":14, "shopLevel": 87, "price":235128},
-				{"level":94, "name":"$targetteleportation.94", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":141, "parts":14, "shopLevel": 89, "price":250980},
-				{"level":96, "name":"$targetteleportation.96", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":144, "parts":15, "shopLevel": 91, "price":266831},
-				{"level":98, "name":"$targetteleportation.98", "warmup":0.05, "active":1, "cooldown":10, "range":6000, "offset":250, "energy":147, "parts":16, "shopLevel": 93, "price":282682},
-				{"level":98, "name":"$targetteleportation.rare.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6600, "offset":125, "energy":150, "parts":22, "shopLevel": 93, "price":565367},
-				{"level":98, "name":"$targetteleportation.sirius.quick.tauceti", "warmup":0.05, "active":1, "cooldown":8.2, "range":5550, "offset":125, "energy":117, "parts":6, "shopLevel": 9, "price":650169},
-				{"level":98, "name":"$targetteleportation.sirius.tauceti", "warmup":0.05, "active":1, "cooldown":10.9, "range":6750, "offset":125, "energy":155, "parts":6, "shopLevel": 9, "price":650171},
-				{"level":98, "name":"$targetteleportation.sirius.strong.tauceti", "warmup":0.05, "active":1, "cooldown":14.5, "range":8550, "offset":125, "energy":206, "parts":6, "shopLevel": 9, "price":650173}
-			]
-		},
 		"nanitecloudfield": {
 			"SlotPenalties": {
 				"warmup": 2,
@@ -2084,34 +2168,6 @@
 				{"level":98, "name":"$nanitecloudfield.sirius.strong.tauceti", "warmup":0.05, "active":28, "cooldown":96, "buff":45, "buffcap":50, "range" :3600, "aoe":2880, "levelfactor":1, "energy":325, "parts": 6, "shopLevel": 9, "price":658859}
 			]
 		},
-		"damageconverter": {
-			"SlotPenalties": {
-				"warmup": 20,
-				"active": 0.5,
-				"cooldown": 2
-			},
-			"weight": 0.7814192,
-			"entries":[
-				{"level":42, "name":"$damageconverter.rare.mizar", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":116, "parts":13, "shopLevel": 37, "price":9561},
-				{"level":59, "name":"$damageconverter.rare.sol", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":163, "parts":14, "shopLevel": 54, "price":20731},
-				{"level":69, "name":"$damageconverter.rare.draconis", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":190, "parts":15, "shopLevel": 64, "price":99658},
-				{"level":81, "name":"$damageconverter.sirius.quick.sirius", "warmup":0.05, "active":14, "cooldown":66, "reduction":42.17, "conversion":80.5, "energy":223, "parts":17, "shopLevel": 76, "price":252135},
-				{"level":81, "name":"$damageconverter.sirius.sirius", "warmup":0.05, "active":11, "cooldown":66, "reduction":80.5, "conversion":80.5, "energy":223, "parts":17, "shopLevel": 76, "price":252136},
-				{"level":81, "name":"$damageconverter.sirius.strong.sirius", "warmup":0.05, "active":9, "cooldown":66, "reduction":147.58, "conversion":80.5, "energy":223, "parts":17, "shopLevel": 76, "price":252137},
-				{"level":84, "name":"$damageconverter.84", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":231, "parts":14, "shopLevel": 79, "price":202432},
-				{"level":86, "name":"$damageconverter.86", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":237, "parts":17, "shopLevel": 81, "price":221118},
-				{"level":88, "name":"$damageconverter.88", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":242, "parts":13, "shopLevel": 83, "price":239803},
-				{"level":90, "name":"$damageconverter.90", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":248, "parts":13, "shopLevel": 85, "price":258490},
-				{"level":92, "name":"$damageconverter.92", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":253, "parts":14, "shopLevel": 87, "price":277176},
-				{"level":94, "name":"$damageconverter.94", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":259, "parts":14, "shopLevel": 89, "price":295862},
-				{"level":96, "name":"$damageconverter.96", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":264, "parts":15, "shopLevel": 91, "price":314548},
-				{"level":98, "name":"$damageconverter.98", "warmup":0.05, "active":10, "cooldown":55, "reduction":66.7, "conversion":66.7, "energy":270, "parts":16, "shopLevel": 93, "price":333233},
-				{"level":98, "name":"$damageconverter.rare.tauceti", "warmup":0.05, "active":11, "cooldown":60.5, "reduction":76.7, "conversion":76.7, "energy":270, "parts":22, "shopLevel": 93, "price":666467},
-				{"level":98, "name":"$damageconverter.sirius.quick.tauceti", "warmup":0.05, "active":14, "cooldown":66, "reduction":42.17, "conversion":80.5, "energy":270, "parts":6, "shopLevel": 9, "price":766437},
-				{"level":98, "name":"$damageconverter.sirius.tauceti", "warmup":0.05, "active":11, "cooldown":66, "reduction":80.5, "conversion":80.5, "energy":270, "parts":6, "shopLevel": 9, "price":766439},
-				{"level":98, "name":"$damageconverter.sirius.strong.tauceti", "warmup":0.05, "active":9, "cooldown":66, "reduction":147.58, "conversion":80.5, "energy":270, "parts":6, "shopLevel": 9, "price":766441}
-			]
-		},
 		"formationaura": {
 			"SlotPenalties": {
 				"warmup": 2,
@@ -2138,62 +2194,6 @@
 				{"level":98, "name":"$formationaura.sirius.quick.tauceti", "warmup":0.05, "active":34.5, "cooldown":71.3, "reduction":40.00, "conversion":68.30, "range" :3000, "links":4, "energy":175, "parts": 6, "shopLevel": 9, "price":700953},
 				{"level":98, "name":"$formationaura.sirius.tauceti", "warmup":0.05, "active":27.6, "cooldown":71.3, "reduction":50.00, "conversion":54.60, "range" :3000, "links":4, "energy":175, "parts": 6, "shopLevel": 9, "price":700955},
 				{"level":98, "name":"$formationaura.sirius.strong.tauceti", "warmup":0.05, "active":21.9, "cooldown":71.3, "reduction":63.00, "conversion":43.30, "range" :3000, "links":4, "energy":175, "parts": 6, "shopLevel": 9, "price":700957}
-			]
-		},
-		"deflectionrobot": {
-			"SlotPenalties": {
-				"warmup": 1,
-				"active": 0.75,
-				"cooldown": 2.25
-			},
-			"weight": 1.1304176,
-			"entries":[
-				{"level":42, "name":"$deflectionrobotlauncher.rare.mizar", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"MizarRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":1356.40,  "energy":130, "parts":13, "shopLevel": 37, "price":8297},
-				{"level":59, "name":"$deflectionrobotlauncher.rare.sol", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"SolRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":12457.08, "energy":180, "parts":14, "shopLevel": 54, "price":17987},
-				{"level":69, "name":"$deflectionrobotlauncher.rare.draconis", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"DraconisRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":42286.37, "energy":210, "parts":15, "shopLevel": 64, "price":86455},
-				{"level":81, "name":"$deflectionrobotlauncher.sirius.quick.sirius", "warmup":0.5, "active":39, "cooldown":40.5, "reflect":1, "spawns":"SiriusAncientDeflectionRobotSpaceshipQuick", "speed":2200, "hitpoints":220554.56, "energy":186, "parts":15, "shopLevel": 76, "price":218723},
-				{"level":81, "name":"$deflectionrobotlauncher.sirius.sirius", "warmup":0.5, "active":19.5, "cooldown":40.5, "reflect":2, "spawns":"SiriusAncientDeflectionRobotSpaceship", "speed":2200, "hitpoints":110277.28, "energy":186, "parts":15, "shopLevel": 76, "price":218725},
-				{"level":81, "name":"$deflectionrobotlauncher.sirius.strong.sirius", "warmup":0.5, "active":9.75, "cooldown":40.5, "reflect":4, "spawns":"SiriusAncientDeflectionRobotSpaceshipStrong", "speed":2200, "hitpoints":55138.64, "energy":186, "parts":15, "shopLevel": 76, "price":218727},
-				{"level":84, "name":"$deflectionrobot.84", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship84", "speed":2, "hitpoints":163125.84, "energy":189, "parts":12, "shopLevel": 79, "price":175606},
-				{"level":86, "name":"$deflectionrobot.86", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship86", "speed":2, "hitpoints":181250.95, "energy":194, "parts":12, "shopLevel": 81, "price":191815},
-				{"level":88, "name":"$deflectionrobot.88", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship88", "speed":2, "hitpoints":199376.05, "energy":198, "parts":12, "shopLevel": 83, "price":208025},
-				{"level":90, "name":"$deflectionrobot.90", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship90", "speed":2, "hitpoints":217501.12, "energy":203, "parts":12, "shopLevel": 85, "price":224235},
-				{"level":92, "name":"$deflectionrobot.92", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship92", "speed":2, "hitpoints":235626.20, "energy":207, "parts":12, "shopLevel": 87, "price":240445},
-				{"level":94, "name":"$deflectionrobot.94", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship94", "speed":2, "hitpoints":253751.31, "energy":212, "parts":12, "shopLevel": 89, "price":256654},
-				{"level":96, "name":"$deflectionrobot.96", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship96", "speed":2, "hitpoints":271876.40, "energy":216, "parts":15, "shopLevel": 91, "price":272864},
-				{"level":98, "name":"$deflectionrobot.98", "warmup":0.5, "active":19.5, "cooldown":45, "reflect":2, "spawns":"DeflectionRobotSpaceship98", "speed":2, "hitpoints":290001.47, "energy":221, "parts":16, "shopLevel": 93, "price":289074},
-				{"level":98, "name":"$deflectionrobotlauncher.rare.tauceti", "warmup":0.5, "active":19.5, "cooldown":41.5, "reflect":2, "spawns":"TaucetiRareDeflectionRobotSpaceship", "speed":2200, "hitpoints":333501.70, "energy":240, "parts":22, "shopLevel": 93, "price":578149},
-				{"level":98, "name":"$deflectionrobotlauncher.sirius.quick.tauceti", "warmup":0.5, "active":39, "cooldown":40.5, "reflect":1, "spawns":"TaucetiAncientDeflectionRobotSpaceshipQuick", "speed":2200, "hitpoints":725003.70, "energy":225, "parts":6, "shopLevel": 9, "price":664869},
-				{"level":98, "name":"$deflectionrobotlauncher.sirius.tauceti", "warmup":0.5, "active":19.5, "cooldown":40.5, "reflect":2, "spawns":"TaucetiAncientDeflectionRobotSpaceship", "speed":2200, "hitpoints":362501.84, "energy":225, "parts":6, "shopLevel": 9, "price":664871},
-				{"level":98, "name":"$deflectionrobotlauncher.sirius.strong.tauceti", "warmup":0.5, "active":9.75, "cooldown":40.5, "reflect":4, "spawns":"TaucetiAncientDeflectionRobotSpaceshipStrong", "speed":2200, "hitpoints":181250.92, "energy":225, "parts":6, "shopLevel": 9, "price":664873}
-			]
-		},
-		"rangeleech": {
-			"SlotPenalties": {
-				"warmup": 2,
-				"active": 0.75,
-				"cooldown": 2.25
-			},
-			"weight": 1.0815164,
-			"entries":[
-				{"level":42, "name":"$rangeleech.rare.mizar", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":137, "parts": 13, "shopLevel": 37, "price":9361},
-				{"level":59, "name":"$rangeleech.rare.sol", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":192, "parts": 14, "shopLevel": 54, "price":20297},
-				{"level":69, "name":"$rangeleech.rare.draconis", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":225, "parts": 15, "shopLevel": 64, "price":97573},
-				{"level":81, "name":"$rangeleech.sirius.quick.sirius", "warmup":0.05, "active":52.1, "cooldown":120.45, "buff":38, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":246860},
-				{"level":81, "name":"$rangeleech.sirius.sirius", "warmup":0.05, "active":44, "cooldown":120.45, "buff":45, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":246860},
-				{"level":81, "name":"$rangeleech.sirius.strong.sirius", "warmup":0.05, "active":36, "cooldown":120.45, "buff":55, "range":4800, "energy":269, "parts": 15, "shopLevel": 76, "price":246860},
-				{"level":84, "name":"$rangeleech.84", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":273, "parts": 12, "shopLevel": 79, "price":198196},
-				{"level":86, "name":"$rangeleech.86", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":280, "parts": 12, "shopLevel": 81, "price":216491},
-				{"level":88, "name":"$rangeleech.88", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":286, "parts": 12, "shopLevel": 83, "price":234786},
-				{"level":90, "name":"$rangeleech.90", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":293, "parts": 12, "shopLevel": 85, "price":253082},
-				{"level":92, "name":"$rangeleech.92", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":299, "parts": 12, "shopLevel": 87, "price":271376},
-				{"level":94, "name":"$rangeleech.94", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":306, "parts": 12, "shopLevel": 89, "price":289671},
-				{"level":96, "name":"$rangeleech.96", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":312, "parts": 15, "shopLevel": 91, "price":307966},
-				{"level":98, "name":"$rangeleech.98", "warmup":0.05, "active":40, "cooldown":105, "buff":40, "range":4800, "energy":319, "parts": 16, "shopLevel": 93, "price":326261},
-				{"level":98, "name":"$rangeleech.rare.tauceti", "warmup":0.05, "active":44, "cooldown":115.5, "buff":44, "range":4800, "energy":319, "parts": 22, "shopLevel": 93, "price":652521},
-				{"level":98, "name":"$rangeleech.sirius.quick.tauceti", "warmup":0.05, "active":52.1, "cooldown":120.45, "buff":38, "range":4800, "energy":325, "parts": 6, "shopLevel": 9, "price":750401},
-				{"level":98, "name":"$rangeleech.sirius.tauceti", "warmup":0.05, "active":44, "cooldown":120.45, "buff":45, "range":4800, "energy":325, "parts": 6, "shopLevel": 9, "price":750403},
-				{"level":98, "name":"$rangeleech.sirius.strong.tauceti", "warmup":0.05, "active":36, "cooldown":120.45, "buff":55, "range":4800, "energy":325, "parts": 6, "shopLevel": 9, "price":750405}
 			]
 		}
 	}
