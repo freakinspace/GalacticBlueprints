@@ -291,244 +291,257 @@
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "rocket",
+                    "aim",
+                    "stundome",
+                    "orbitalstrike"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r02",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "flare",
+                    "protect",
+                    "stunbuff",
+                    "stundome"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r03",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "flare",
+                    "bomb",
+                    "protect",
+                    "aggrobeacon"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r04",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "remoterepair",
+                    "protect",
+                    "repairfield",
+                    "speedbuff"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r05",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "shield",
+                    "speedbuff",
+                    "stunbuff",
+                    "stundome"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r06",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "perforator",
+                    "flare",
+                    "bomb",
+                    "sniperblaster"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r07",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "rocket",
+                    "aim",
+                    "sniperblaster",
+                    "repairturret",
+                    "lightningchain"
+                ]
+            },
+			{
+                "name": "hybrid-r08",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "protect",
+                    "speedbuff",
+                    "orbitalstrike",
+                    "magnetarraylauncher"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r09",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "speedbuff",
+                    "mine",
+                    "targetteleportation",
+                    "magnetarraylauncher"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r10",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "rocket",
+                    "aim",
+                    "shield",
+                    "nanitecloudfield"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r11",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "flare",
+                    "remoterepair",
+                    "repairfield",
+                    "deflectionrobot"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r12",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "timedamage",
+                    "orbitalstrike",
+                    "damageconverter",
+                    "nanitecloudfield"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r13",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "perforator",
+                    "sniperblaster",
+                    "stickybomb",
+                    "rangeleech"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r14",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "shield",
+                    "resurrect",
+                    "damageconverter",
+                    "formationaura"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r15",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "rocket",
+                    "protect",
+                    "speedbuff",
+                    "sniperblaster",
+                    "orbitalstrike"
+                ]
+            },
+			{
+                "name": "hybrid-r16",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "bomb",
+                    "stunbuff",
+                    "orbitalstrike",
+                    "rangeleech"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r17",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "taunt",
+                    "timedamage",
+                    "attackbuff",
+                    "sniperblaster",
+                    "targetteleportation"
+                ]
+            },
+			{
+                "name": "hybrid-r18",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "flare",
+                    "aggrobeacon",
+                    "attackturret",
+                    "formationaura"
                 ]
             },
 			{
-                "name": "hybrid-r01",
+                "name": "hybrid-r19",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "remoterepair",
+                    "protect",
+                    "stunbuff",
+                    "orbitalstrike"
                 ]
             },
-			{
-                "name": "hybrid-r01",
+            {
+                "name": "hybrid-r20",
                 "items": [
                     "blaster",
                     "collector",
                     "repair",
                     "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-			{
-                "name": "hybrid-r01",
-                "items": [
-                    "blaster",
-                    "collector",
-                    "repair",
-                    "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-			{
-                "name": "hybrid-r01",
-                "items": [
-                    "blaster",
-                    "collector",
-                    "repair",
-                    "afterburner",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "shield",
+                    "flare",
+                    "speedbuff",
+                    "lightningchain"
                 ]
             }
         ],
@@ -1155,6 +1168,366 @@
                     {"name": "$armor.bulwark", "level": 33, "health": 2963, "price": 0},
                     {"name": "$armor.thermograde", "level": 38, "health": 5451, "price": 0},
                     {"name": "$armor.deluvian", "level": 42, "health": 8859, "price": 0}
+                ]
+            },
+            {
+                "name": "$ship.raven.storm.v1",
+                "class": "hybrid-r01",
+                "rarity": "raven",
+                "speed": 941.82,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6038, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26204, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 48364, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 163690, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 327259, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 491432, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 859992, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1228068, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.shock.v2",
+                "class": "hybrid-r02",
+                "rarity": "raven",
+                "speed": 940.75,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6057, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26287, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 48516, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 164205, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 328289, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 492979, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 862698, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1231933, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.tank.v1",
+                "class": "hybrid-r03",
+                "rarity": "raven",
+                "speed": 878.33,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 7435, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 32267, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 59554, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 201562, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 402977, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 605134, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 1058967, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1512204, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.healer.v1",
+                "class": "hybrid-r04",
+                "rarity": "raven",
+                "speed": 982.07,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5395, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 23414, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 43213, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 146258, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 292409, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 439099, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 768409, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1097289, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.shock.v1",
+                "class": "hybrid-r05",
+                "rarity": "raven",
+                "speed": 979.02,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5439, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 23605, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 43566, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 147451, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 1814793, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 442680, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 774676, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1106238, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.sniper.v1",
+                "class": "hybrid-r06",
+                "rarity": "raven",
+                "speed": 982.96,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5382, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 23357, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 43109, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 145906, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 291704, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 438040, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 766558, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1094644, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.damage.v3",
+                "class": "hybrid-r07",
+                "rarity": "raven",
+                "speed": 908.95,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6689, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 29030, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 53578, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 181338, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 362543, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 544417, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 952714, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1360475, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.controller.v1",
+                "class": "hybrid-r08",
+                "rarity": "raven",
+                "speed": 919.87,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6458, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 28027, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 51728, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 175076, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 350023, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 525616, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 919812, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1313492, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.support.v1",
+                "class": "hybrid-r09",
+                "rarity": "raven",
+                "speed": 85114,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 8254, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 35822, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 66114, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 223765, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 447366, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 671793, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 1175617, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1678781, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.rioter.v1",
+                "class": "hybrid-r10",
+                "rarity": "raven",
+                "speed": 835.29,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 8819, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 38274, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 70640, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 239083, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 477989, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 717778, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 1256090, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1793696, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.fieldengi.v1",
+                "class": "hybrid-r11",
+                "rarity": "raven",
+                "speed": 920.44,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6446, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 27975, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 51632, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 174751, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 349373, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 524639, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 918103, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1311051, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.buffeddamage.v1",
+                "class": "hybrid-r12",
+                "rarity": "raven",
+                "speed": 944.42,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5992, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26005, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 47995, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 162443, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 324766, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 487688, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 853440, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1218712, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.sniper.v2",
+                "class": "hybrid-r13",
+                "rarity": "raven",
+                "speed": 958.04,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5761, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 25002, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 46145, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 156180, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 312246, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 468887, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 710539, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1171729, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.healer.v2",
+                "class": "hybrid-r14",
+                "rarity": "raven",
+                "speed": 1166.23,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 3628, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 15745, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 29060, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 98355, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 196637, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 295282, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 516736, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 737898, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.controller.v2",
+                "class": "hybrid-r15",
+                "rarity": "raven",
+                "speed": 958.55,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5753, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 24968, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 46081, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 155963, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 311812, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 468236, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 819399, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1170102, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.bomber.v1",
+                "class": "hybrid-r16",
+                "rarity": "raven",
+                "speed": 950.36,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5889, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 25558, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 47170, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 159650, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 319183, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 479305, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 838770, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1197763, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.predator.v1",
+                "class": "hybrid-r17",
+                "rarity": "raven",
+                "speed": 816.19,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6057, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26287, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 48516, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 164205, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 328289, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 492979, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 862698, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1231933, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.distractor.v1",
+                "class": "hybrid-r18",
+                "rarity": "raven",
+                "speed": 960.47,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5722, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 24833, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 45833, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 155123, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 310132, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 465713, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 814984, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1163797, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.allrounder.v1",
+                "class": "hybrid-r19",
+                "rarity": "raven",
+                "speed": 970.40,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5567, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 24160, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 44591, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 150921, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 301731, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 453098, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 792907, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1132272, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.raven.runner.v1",
+                "class": "hybrid-r20",
+                "rarity": "raven",
+                "speed": 899.03,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6914, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 30006, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 55381, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 187438, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 374738, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 562730, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 984761, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1406238, "price": 1118017}
                 ]
             }
         ]
