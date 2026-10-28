@@ -1529,6 +1529,186 @@
                     {"name": "$armor.parsec.taucetilight", "level": 90, "health": 984761, "price": 877952},
                     {"name": "$armor.parsec.tauceti", "level": 98, "health": 1406238, "price": 1118017}
                 ]
+            },
+            {
+                "name": "$ship.raven.shock.v2",
+                "class": "hybrid-r02",
+                "rarity": "raven",
+                "speed": 940.75,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6057, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26287, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 48516, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 164205, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 328289, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 492979, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 862698, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1231933, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.corsair",
+                "class": "storm",
+                "rarity": "prototype",
+                "speed": 947.75,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5934, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26753, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 47531, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 160870, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 321622, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 482968, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 845179, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1206916, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.dominator",
+                "class": "tank",
+                "rarity": "prototype",
+                "speed": 833.16,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 8901, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 38630, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 71297, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 241306, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 482434, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 724452, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 1267769, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1810374, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.corsairhealer",
+                "class": "engineer",
+                "rarity": "prototype",
+                "speed": 985.95,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5340, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 23175, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 42773, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 144767, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 289428, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 434622, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 760576, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1086102, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.corsairbuff",
+                "class": "shock",
+                "rarity": "prototype",
+                "speed": 965.83,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5637, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 24464, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 45152, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 152819, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 305525, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 458795, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 802877, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1146509, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.disruptor",
+                "class": "sniper",
+                "rarity": "prototype",
+                "speed": 977.65,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5459, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 23692, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 43726, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 147993, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 295877, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 444308, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 777525, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1110306, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.deflagrator",
+                "class": "defender",
+                "rarity": "prototype",
+                "speed": 890.46,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 7121, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 30905, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 57039, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 193050, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 385958, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 579578, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 1014244, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1448340, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.hunterparsec",
+                "class": "hybrid-hunter",
+                "rarity": "prototype",
+                "speed": 1012.99,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 4987, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 21643, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 39945, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 135197, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 270295, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 405891, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 710298, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1014305, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.damagetankparsec",
+                "class": "hybrid-emperor",
+                "rarity": "prototype",
+                "speed": 973.99,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5513, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26926, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 44159, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 149457, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 298804, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 448703, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 785216, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1121289, "price": 1118017}
+                ]
+            },
+            {
+                "name": "$ship.xmas2013parsec",
+                "class": "hybrid-locust",
+                "rarity": "prototype",
+                "speed": 988.02,
+                "itempenalty": 0,
+                "price": 685900,
+                "armors": [
+                    {"name": "$armor.parsec.mizar", "level": 42, "health": 5312, "price": 0},
+                    {"name": "$armor.parsec.sollight", "level": 54, "health": 23054, "price": 342950},
+                    {"name": "$armor.parsec.sol", "level": 59, "health": 42549, "price": 363526},
+                    {"name": "$armor.parsec.draconis", "level": 69, "health": 144008, "price": 432117},
+                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 287910, "price": 535002},
+                    {"name": "$armor.parsec.sirius", "level": 81, "health": 432343, "price": 685900},
+                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 756588, "price": 877952},
+                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1080407, "price": 1118017}
+                ]
             }
         ]
     }
