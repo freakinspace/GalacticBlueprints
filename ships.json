@@ -2220,6 +2220,136 @@
                     {"name": "$armor.deluvian", "level": 78, "health": 302019, "price": 143905},
                     {"name": "$armor.methanoid", "level": 81, "health": 361879, "price": 171058}
                 ]
+            },
+            {
+                "name": "$ship.lvl85neon1",
+                "class": "hybrid-n01",
+                "rarity": "standard",
+                "speed": 988.64,
+                "itempenalty": 0,
+                "price": 870004,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 435365, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 609511, "price": 435002},
+                    {"name": "$armor.deluvian", "level": 98, "health": 853315, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon2",
+                "class": "hybrid-n02",
+                "rarity": "standard",
+                "speed": 850.02,
+                "itempenalty": 0,
+                "price": 870005,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 707194, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 990071, "price": 435002},
+                    {"name": "$armor.deluvian", "level": 98, "health": 853315, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon3",
+                "class": "hybrid-n03",
+                "rarity": "standard",
+                "speed": 927.37,
+                "itempenalty": 0,
+                "price": 870006,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 524194, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 734259, "price": 435002},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1027963, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon4",
+                "class": "hybrid-n04",
+                "rarity": "standard",
+                "speed": 858.25,
+                "itempenalty": 0,
+                "price": 870007,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 681890, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 954646, "price": 435002},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1336504, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon5",
+                "class": "hybrid-n05",
+                "rarity": "standard",
+                "speed": 880.16,
+                "itempenalty": 0,
+                "price": 870008,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 622659, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 871722, "price": 435004},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1220411, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon6",
+                "class": "hybrid-n06",
+                "rarity": "standard",
+                "speed": 818.33,
+                "itempenalty": 0,
+                "price": 870009,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 824930, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 1154902, "price": 435004},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1616862, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon7",
+                "class": "hybrid-n07",
+                "rarity": "standard",
+                "speed": 846.86,
+                "itempenalty": 0,
+                "price": 870010,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 717382, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 1004334, "price": 435005},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1406068, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon8",
+                "class": "hybrid-n08",
+                "rarity": "standard",
+                "speed": 915.98,
+                "itempenalty": 0,
+                "price": 870011,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 545210, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 763294, "price": 435005},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1068611, "price": 461102}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon9",
+                "class": "hijacker",
+                "rarity": "rare",
+                "speed": 926.67,
+                "itempenalty": 0,
+                "price": 1740025,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 821399, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 1149958, "price": 870012},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1609942, "price": 922213}
+                ]
+            },
+            {
+                "name": "$ship.lvl85neon10",
+                "class": "enervator",
+                "rarity": "rare",
+                "speed": 913.92,
+                "itempenalty": 0,
+                "price": 1740027,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 84, "health": 858014, "price": 0},
+                    {"name": "$armor.thermograde", "level": 90, "health": 1201219, "price": 870013},
+                    {"name": "$armor.deluvian", "level": 98, "health": 1681707, "price": 922214}
+                ]
             }
         ]
     }
