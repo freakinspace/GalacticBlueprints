@@ -1904,6 +1904,160 @@
                     {"name": "$armor.thermograde", "level": 57, "health": 33483, "price": 20568},
                     {"name": "$armor.deluvian", "level": 59, "health": 42639, "price": 21802}
                 ]
+            },
+            {
+                "name": "$ship.lvl70damage",
+                "class": "storm",
+                "rarity": "standard",
+                "speed": 898,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 42841, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 69402, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 128094, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 388785, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70tank",
+                "class": "tank",
+                "rarity": "standard",
+                "speed": 806.33,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 64262, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 104104, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 192143, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 388785, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70healer",
+                "class": "engineer",
+                "rarity": "standard",
+                "speed": 928.56,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 38557, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 62462, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 115285, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 233269, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70buff",
+                "class": "shock",
+                "rarity": "standard",
+                "speed": 912.47,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 40699, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 65932, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 121690, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 246228, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70sniper",
+                "class": "sniper",
+                "rarity": "standard",
+                "speed": 921.91,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 39414, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 63850, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 117847, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 238454, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70buffmantis",
+                "class": "shock",
+                "rarity": "standard",
+                "speed": 912.47,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 40699, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 65932, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 121690, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 246228, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70tournamentdamage",
+                "class": "storm",
+                "rarity": "tr",
+                "speed": 966.75,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 53551, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 86752, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 160117, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 323983, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70raredefender",
+                "class": "defender",
+                "rarity": "rare",
+                "speed": 909.46,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 64262, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 104104, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 192143, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 388785, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70raredefendermantis",
+                "class": "defender",
+                "rarity": "rare",
+                "speed": 909.46,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 64262, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 104104, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 192143, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 388785, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.lvl70rarehealer",
+                "class": "engineer",
+                "rarity": "rare",
+                "speed": 1004.94,
+                "itempenalty": 0,
+                "price": 108608,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 60, "health": 48196, "price": 0},
+                    {"name": "$armor.thermograde", "level": 64, "health": 78077, "price": 54304},
+                    {"name": "$armor.deluvian", "level": 69, "health": 144106, "price": 57562},
+                    {"name": "$armor.methanoid", "level": 75, "health": 291585, "price": 68423}
+                ]
+            },
+            {
+                "name": "$ship.phoenix.easter2014",
+                "class": "shock",
+                "rarity": "rare",
+                "speed": 984.84,
+                "itempenalty": 0,
+                "price": 222222,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 55, "health": 50874, "price": 0},
+                    {"name": "$armor.thermograde", "level": 57, "health": 82415, "price": 111111},
+                    {"name": "$armor.deluvian", "level": 59, "health": 152113, "price": 117777},
+                    {"name": "$armor.methanoid", "level": 75, "health": 307787, "price": 139999}
+                ]
             }
         ]
     }
