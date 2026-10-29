@@ -181,6 +181,84 @@
                 ]
             },
 			{
+                "name": "hybrid-a01",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "aim",
+                    "shield",
+                    "remoterepair",
+                    "stunbuff"
+                ]
+            },
+			{
+                "name": "hybrid-a02",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "perforator",
+                    "flare",
+                    "repairfield",
+                    "speedbuff"
+                ]
+            },
+			{
+                "name": "hybrid-a03",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "timedamage",
+                    "shield",
+                    "repairfield",
+                    "speedbuff"
+                ]
+            },
+			{
+                "name": "hybrid-a04",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "rocket",
+                    "bomb",
+                    "resurrect",
+                    "stundome"
+                ]
+            },
+			{
+                "name": "hybrid-a05",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "flare",
+                    "protect",
+                    "stundome",
+                    "orbitalstrike"
+                ]
+            },
+			{
+                "name": "hybrid-a06",
+                "items": [
+                    "blaster",
+                    "collector",
+                    "repair",
+                    "afterburner",
+                    "rocket",
+                    "timedamage",
+                    "speedbuff",
+                    "sniperblaster"
+                ]
+            },
+			{
                 "name": "hybrid-n01",
                 "items": [
                     "blaster",
@@ -2057,6 +2135,90 @@
                     {"name": "$armor.thermograde", "level": 57, "health": 82415, "price": 111111},
                     {"name": "$armor.deluvian", "level": 59, "health": 152113, "price": 117777},
                     {"name": "$armor.methanoid", "level": 75, "health": 307787, "price": 139999}
+                ]
+            },
+            {
+                "name": "$ship.lvl12ancient",
+                "class": "hybrid-a01",
+                "rarity": "ancient",
+                "speed": 899.54,
+                "itempenalty": 0,
+                "price": 271520,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 70, "health": 147281, "price": 0},
+                    {"name": "$armor.thermograde", "level": 76, "health": 282779, "price": 135760},
+                    {"name": "$armor.deluvian", "level": 78, "health": 326963, "price": 143905},
+                    {"name": "$armor.methanoid", "level": 81, "health": 391767, "price": 171058}
+                ]
+            },
+            {
+                "name": "$ship.lvl18ancient",
+                "class": "hybrid-a02",
+                "rarity": "ancient",
+                "speed": 939.59,
+                "itempenalty": 0,
+                "price": 271520,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 70, "health": 128351, "price": 0},
+                    {"name": "$armor.thermograde", "level": 76, "health": 246433, "price": 135760},
+                    {"name": "$armor.deluvian", "level": 78, "health": 284939, "price": 143905},
+                    {"name": "$armor.methanoid", "level": 81, "health": 341413, "price": 171058}
+                ]
+            },
+            {
+                "name": "$ship.lvl25ancient",
+                "class": "hybrid-a03",
+                "rarity": "ancient",
+                "speed": 906.25,
+                "itempenalty": 0,
+                "price": 271520,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 70, "health": 143727, "price": 0},
+                    {"name": "$armor.thermograde", "level": 76, "health": 275955, "price": 135760},
+                    {"name": "$armor.deluvian", "level": 78, "health": 319073, "price": 143905},
+                    {"name": "$armor.methanoid", "level": 81, "health": 382313, "price": 171058}
+                ]
+            },
+            {
+                "name": "$ship.lvl35ancient",
+                "class": "hybrid-a04",
+                "rarity": "ancient",
+                "speed": 933.18,
+                "itempenalty": 0,
+                "price": 271520,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 70, "health": 131046, "price": 0},
+                    {"name": "$armor.thermograde", "level": 76, "health": 251608, "price": 135760},
+                    {"name": "$armor.deluvian", "level": 78, "health": 290922, "price": 143905},
+                    {"name": "$armor.methanoid", "level": 81, "health": 348582, "price": 171058}
+                ]
+            },
+            {
+                "name": "$ship.lvl60ancient",
+                "class": "hybrid-a05",
+                "rarity": "ancient",
+                "speed": 883.45,
+                "itempenalty": 0,
+                "price": 271520,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 70, "health": 156561, "price": 0},
+                    {"name": "$armor.thermograde", "level": 76, "health": 300597, "price": 135760},
+                    {"name": "$armor.deluvian", "level": 78, "health": 347565, "price": 143905},
+                    {"name": "$armor.methanoid", "level": 81, "health": 416452, "price": 171058}
+                ]
+            },
+            {
+                "name": "$ship.lvl70ancient",
+                "class": "hybrid-a06",
+                "rarity": "ancient",
+                "speed": 921.97,
+                "itempenalty": 0,
+                "price": 271520,
+                "armors": [
+                    {"name": "$armor.bulwark", "level": 70, "health": 136045, "price": 0},
+                    {"name": "$armor.thermograde", "level": 76, "health": 261206, "price": 135760},
+                    {"name": "$armor.deluvian", "level": 78, "health": 302019, "price": 143905},
+                    {"name": "$armor.methanoid", "level": 81, "health": 361879, "price": 171058}
                 ]
             }
         ]
