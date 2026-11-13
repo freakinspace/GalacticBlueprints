@@ -1609,24 +1609,6 @@
                 ]
             },
             {
-                "name": "$ship.raven.shock.v2",
-                "class": "hybrid-r02",
-                "rarity": "raven",
-                "speed": 940.75,
-                "itempenalty": 0,
-                "price": 685900,
-                "armors": [
-                    {"name": "$armor.parsec.mizar", "level": 42, "health": 6057, "price": 0},
-                    {"name": "$armor.parsec.sollight", "level": 54, "health": 26287, "price": 342950},
-                    {"name": "$armor.parsec.sol", "level": 59, "health": 48516, "price": 363526},
-                    {"name": "$armor.parsec.draconis", "level": 69, "health": 164205, "price": 432117},
-                    {"name": "$armor.parsec.siriuslight", "level": 75, "health": 328289, "price": 535002},
-                    {"name": "$armor.parsec.sirius", "level": 81, "health": 492979, "price": 685900},
-                    {"name": "$armor.parsec.taucetilight", "level": 90, "health": 862698, "price": 877952},
-                    {"name": "$armor.parsec.tauceti", "level": 98, "health": 1231933, "price": 1118017}
-                ]
-            },
-            {
                 "name": "$ship.corsair",
                 "class": "storm",
                 "rarity": "prototype",
